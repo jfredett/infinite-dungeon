@@ -1,0 +1,90 @@
+###
+
+[[traits]]
+
+[[traits.common]]
+name = "We're known for our..."
+cost = 1
+description = """
+Choose a stat for this trait; When rolling a new character, gain one advantage die when generating that stat's value as
+long as this trait is active.
+"""
+
+[[traits.common]]
+name = "We've always been..."
+cost = 1
+description = """
+Choose a skill; When rolling a new character, gain proficiency in that skill as long as this trait is active.
+"""
+
+[[traits.common]]
+name = "We've got loads of these at home"
+cost = 1
+description = """
+Choose an item subject to GM approval; When rolling a new character, your new character has this item
+in their inventory as long as this trait is active.
+"""
+
+[[traits.common]]
+name = "This is our heirloom..."
+cost = 2
+description = """
+Choose an item subject to GM approval; When rolling a new character, you _may_ give your new character this item,
+discarding this trait and gaining 1 additional death point when this character dies.
+"""
+
+[[traits.common]]
+name = "I have some ... in my family"
+cost = 2
+description = """
+Choose a race, you may choose that race at character creation as long as this trait is active.
+"""
+
+[[traits.common]]
+name = "I come from a long line of ..."
+cost = 2
+description = """
+Choose a class, you may choose that class at character creation as long as this trait is active.
+"""
+
+[[traits.common]]
+name = "I come from hardy, peasant stock"
+cost = 2
+description = """
+You may upgrade your hitpoint die (e.g., 1d4 -> 1d6 -> 1d8 -> 1d10) by one step as long as this trait is active.
+"""
+
+######
+
+[[traits.uncommon]]
+name = "I have this uncanny ability to..."
+cost = 3
+description = """
+Choose a feat (TODO: FROM APPROVED LIST) for which you meet the prerequisites, you gain this feat at character creation
+as long as this card is active.
+"""
+
+[[traits.uncommon]]
+name = "Luck of the <Clan Name>"
+cost = 3
+description = """
+Reroll any failed check, Roll a DC10 check, discard this trait when you fail.
+"""
+
+######
+
+[[traits.rare]]
+name = "Death? I laugh in the face of death"
+cost = 5
+description = """
+Gain advantage on death saves. Discard this trait if your character dies.
+"""
+
+######
+
+[[traits.epic]]
+
+######
+
+[[traits.legendary]]
+
