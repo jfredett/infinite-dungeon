@@ -54,21 +54,59 @@ description = """
 You may upgrade your hitpoint die (e.g., 1d4 -> 1d6 -> 1d8 -> 1d10) by one step as long as this trait is active.
 """
 
+[[traits.common]]
+name = "I'm pretty handy at ..."
+cost = 1
+description = """
+Choose a skill, gain +1 to that skill, discard this card upon death.
+"""
+
+[[traits.common]]
+name = "My party trick is..."
+cost = 4
+description = """
+Choose a feat from the common tier of the feat tierlist for which you also meet the prerequisites, you gain this feat
+at character creation as long as this card is active.
+"""
+
+[[traits.common]]
+name = "Tough"
+cost = 1
+description = """
+Shrug off a critical hit, converting it to normal, tap this trait. After tapping, roll DC10, on fail, discard this
+trait. Tapped traits are inactive until you roll a new character.
+"""
+
 ######
 
 [[traits.uncommon]]
-name = "I have this uncanny ability to..."
+name = "I'm unusually ..."
 cost = 3
 description = """
-Choose a feat (TODO: FROM APPROVED LIST) for which you meet the prerequisites, you gain this feat at character creation
-as long as this card is active.
+Choose a stat, gain +1 in that stat. Discard this trait upon death.
+"""
+
+[[traits.uncommon]]
+name = "I have this uncanny ability to..."
+cost = 4
+description = """
+Choose a feat from the uncommon tier of the feat tierlist for which you also meet the prerequisites, you gain this feat
+at character creation as long as this card is active.
 """
 
 [[traits.uncommon]]
 name = "Luck of the <Clan Name>"
-cost = 3
+cost = 4
 description = """
 Reroll any failed check, Roll a DC10 check, discard this trait when you fail.
+"""
+
+[[traits.uncommon]]
+name = "Tougher"
+cost = 4
+description = """
+Shrug off a critical hit. Roll DC10, on fail, roll again, on a second failure, replace this trait with `Tough`,
+untapped. On second success, tap this trait. On initial success, do nothing else.
 """
 
 ######
@@ -80,11 +118,77 @@ description = """
 Gain advantage on death saves. Discard this trait if your character dies.
 """
 
+[[traits.rare]]
+name = "I know a little magic."
+cost = "4 + L^2, L >= 1"
+description = """
+Gain a Level 1 spell slot and learn one spell. You may cast this spell using your classes primary stat. For each higher
+level, you must pay `L^2` total points. So a Level 9 slot is 4 + 9^2 = 4 + 81 = 85 points.
+"""
+
+[[traits.rare]]
+name = "My family story is just a bit longer..."
+cost = 5
+description = """
+Increase your trait limit by 1
+"""
+
+[[traits.rare]]
+name = "Ironborn"
+cost = 6
+description = """
+Shrug off a critical hit. Roll DC10, on fail, roll again, on a second failure, replace this trait with `Tougher`,
+untapped. On second success, tap this trait. On initial success, do nothing else.
+"""
+
+[[traits.rare]]
+name = "My secret talent is ..."
+cost = 5
+description = """
+Choose a feat from the rare tier of the feat tierlist for which you also meet the prerequisites, you gain this feat
+at character creation as long as this card is active.
+"""
+
 ######
 
 [[traits.epic]]
+name = "Call on the Ancestors"
+cost = 10
+description = """
+Once, you may call out to your ancestors, temporarily resurrecting any prior member of this clan as a GM-controlled aid
+to the party for the current scene.
+"""
+
+[[traits.epic]]
+name = "No one knows I can..."
+cost = 10
+description = """
+Choose a feat from the epic tier of the feat tierlist for which you also meet the prerequisites, you gain this feat
+at character creation as long as this card is active.
+"""
 
 ######
 
 [[traits.legendary]]
+name = "Gestalt Consciousness"
+cost = 20
+description = """
+You may create a class gestalt, meaning you level in two classes _simultaneously_, but require twice as much XP to
+level.
+"""
 
+[[traits.legendary]]
+name = "Genetic Sculptors"
+cost = "20 + X"
+description = """
+You can use a point-buy system during character creation. For each additional point spent ("X"), gain additional points
+at creation-time.
+"""
+
+[[traits.legendary]]
+name = "The stories they tell about ... -- they're about _me_."
+cost = 20
+description = """
+Choose a feat from the legendary tier of the feat tierlist for which you also meet the prerequisites, you gain this feat
+at character creation as long as this card is active.
+"""
