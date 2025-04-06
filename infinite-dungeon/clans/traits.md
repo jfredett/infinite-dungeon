@@ -48,3 +48,5 @@ When a player wants to make room for a new trait, they may need to deactivate an
 half the cost_ of the trait to remove it.
 
 Some traits may be _permanent_, these traits _cannot be removed_ by the player.
+
+
