@@ -1,0 +1,3 @@
+> You enter a featureless white room. On the floor is a pattern of {squares|hexes|triangles}. In the distance, 4d20 + 20 meters away, are figures which look like {enemy type}.
+
+The room is a literal blank D&D combat grid. The figures are statues of enemies. Runner's choice to make this an actual encounter (where the statues come to life and fight the party), or puzzle (maybe the characters have to re-arrange the statues in some way), or just a weird room.

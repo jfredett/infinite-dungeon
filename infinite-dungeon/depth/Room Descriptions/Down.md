@@ -1,0 +1,7 @@
+Stolen from [here](https://old.reddit.com/r/dndmemes/comments/tfgqks/my_players_arent_ready/)
+
+> You enter a room which appears as a large, open field. In the distance you see 1d6 door standing in various locations around the area, there is nothing around or behind them, just doors standing up.
+> Around the area are various fruit-bearing bushes and trees, it is very open, orchard-like but unplanned. The fruit is delicious and spending a few minutes yields several (1d4) rations. The party can collect these rations 1d4 times before exhausting them. The area appears safe and pleasant.
+> If the party decide to attempt a long rest, roll 1d3, on that watch, a small castle plummets from the sky, landing 4d20 - 20 meters away from the players, if the value is negative, it lands _on_ the players, doing an appropriate amount of damage (in 5e, this is 18d10 damage).
+> Before dropping the castle on the players, those awake for that watch (if any) can roll a _very hard_ perception check (in 5e, at least DC18), if they succeed, they notice the plummeting castle in the sky and have an opportunity to run or rouse their comrades. If they run, they will be safe, if they rouse their comrades, all players in the party must make a Dexterity Save, success avoids all damage, failure takes half damage, critical failure takes full damage.
+> If players have an _Alert_ type spell, the casting player automatically succeeds the Perception check.

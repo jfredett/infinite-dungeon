@@ -1,0 +1,7 @@
+> You enter a room filled to the brim with steamworks and spinning things. Vast arrays of machinery, chemical apparatus, small tools and stock materials are scattered on shelves and the floor. In one corner, large racks hold what appears to be brass and copper armor, but structured as relatively narrow strips, perhaps decorative armor to be placed on a statue or used for sculpture? The room hums and crackles slightly, but none of the machines appear to be functional. In another part of the room there appears to be a small section set off and located inside a cage made of thick copper wire. There is a large wooden desk with a variety of levers, buttons and gauges mounted on it. Large coils are scattered on the floor and ceiling of the room, forming conical shapes with large brass spheres brazed on the ends of them.
+
+The room is a Golem factory, the suits of armor are Lightning Golems ![](https://i.redd.it/b6q3c3s0k4p81.png)
+
+Interacting with the switches in any way prompts an Intelligence Check (DC18) which the player interacting may opt to skip. If they skip the check or fail, roll a DC5 check, on success spawn some golems. On a critical success, make 'em the teleport-y kind. On failure, turn on the lightning coils (described below), on critical failure, turn on the coils, spawn the teleport-y golems, and watch the carnage.
+
+The cone-spiral things are lightning coils which will fire Lightning Strikes (or equivalent) at random places in the room once turned on.
