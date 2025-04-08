@@ -22,16 +22,4 @@ respectively ruled by: ”Her Majesty Queen Victoria, Emperor of the United King
 Pantheo Defensor; Protector of Ireland and Spain; Duchess of Windsor and Head of the Most Holy Churches of Great
 Britain.”, “Kaiser Otto von Bismarck, Chancellor of Germany, Duke of Austria, and the Pantheon’s Chosen Representative
 to the peoples of Europe”, and “Tsarina Katerina the Great, Empress of Greater Ukraine, Queen-regent of the Baltic
-States, and President of the Academy of Moscow.”
-
-The penchant for long titles never went away.
-
-> ED: Maybe drop the word-of-recall stuff? Natural exits from the ID like w/ GoY or SL?
-
-The _Infinite_ _Dungeon_ itself resides in the western Ukrainian Empire, somewhere a few hundred kilometers outside of
-Odesa. The town (if it can be called that), Iskavi, is home to only a few small hovels, a Tavern (the _Pleasantly
-Finite_) for the adventuring folk, and a Hedge Witch who sells a few poultices and potions (as well as the ever
-important _Word-of-Recall_ spell) to the passing adventurers. [[Nikolai Ivanovich Lobachevsky]], the owner of the
-_Pleasantly Finite Tavern and Inn_, arranges for adventurers to have cheap lodging – on the condition that anything they
-leave behind is his if they are to die. The Hedge Witch, Matilda, assists in this process by placing a simple
-life-tracking spell on everyone staying at the _Pleasantly Finite_.
+States, and President of the Academy of Moscow
