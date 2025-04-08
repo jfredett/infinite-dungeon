@@ -23,3 +23,12 @@ Pantheo Defensor; Protector of Ireland and Spain; Duchess of Windsor and Head of
 Britain.”, “Kaiser Otto von Bismarck, Chancellor of Germany, Duke of Austria, and the Pantheon’s Chosen Representative
 to the peoples of Europe”, and “Tsarina Katerina the Great, Empress of Greater Ukraine, Queen-regent of the Baltic
 States, and President of the Academy of Moscow
+
+
+# Credits
+
+CaveGirl/Emmy Allen for _The Garden of Ynn_ and _The Stygian Library_, which are fantastic and completely altered how I
+approached _Infinite Dungeon_ in both mechanics and tone after reading. I have taken and run like a Rogue with the idea
+of _Perpendicular_ realities and really mathed the heck out of it. I cannot recommend enough.
+
+
