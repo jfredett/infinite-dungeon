@@ -8,7 +8,7 @@ hallway, as well as some other small rooms that lead back to the Infinite Hallwa
 
 Traditional(ish) raid style combat.
 
-## Flame
+## Flamespew
 
 Flame boss is in a machine room, the players need to turn on sprinklers to manage the fires that drop on the grown every
 turn, up to four active fires. when all four are active, the players do a con throw or take a point of exhaustion from
@@ -32,23 +32,51 @@ center of the arena.
 
 If the players remember to turn back all the valves, the final boss gets nerfed.
 
+## Ants go Marching
 
-## Fuel
+An open air section overlooks a massive sprawling network of pipes and widgets. These all coallesce to feed their
+contents to great machines in the middle distance. tanks to the engine in the center of the facility. Buzzing, pilotless
+ornithopters haul man-sized barrels to and fro, setting them down only to pick them up again. There are various pipes and
+connection points here, all helpfully labelled, none of them in a language you know. With some effort, it can be worked
+out that the fuel is not being delivered to the correct place, due to some obvious subsystem not being active. The
+players can activate the subsystem in a few ways.
 
-In a storage/chemical facility, there are a network of pipes which must be adjusted to direct the flow of fuel from the
-tanks to the engine in the center of the facility. Unfortunately, the pipes are being attacked by Metal-eating Mechanical
-Spiders. When the players attempt to repair, they have a chance of irritating the spiders and causing them to come
-pouring out into the room, creating a massive horde fight. When the players have successfully repaired the facilities,
-the spiders will abate. Alternatively, the spiders hate fire.
+The easiest is an override button. There are three massive light fixtures, two green and one red. Beneath them are large
+buttons. Press button, roll initiative as dozens of mechanical ants rush out to -- at first -- start moving the fuel
+barrels, but upon noticing the players, blare a siren and start attaching.
 
-But then again so does everything else in this room. Fire attacks may cause Fireball-like explosions. There are
-explosive barrels that roll into and through the room periodically via automation that is still functional, these can
-cause chain reactions that continually occur, doing fireball like damage and knocking creatures back proportional to how
-close they are to the center of the explosion.
+Second is to activate them from the upper control room, this does not work/the players do not find this option until
+they've done the ant encounter once.
 
-The players can simply escape the room, there is enough fuel to power the machine, but if they repair more of the lines,
-they can also power turret emplacements in the main area. These turrets are hostile to everything, unless reprogrammed
-in the next room.
+The ornithopters can be _deactivated_ from the control room as well, this weakens the _Refuel_ phase of the boss
+significantly. See the next section.
+
+Everything in this room is explosive. When barrels of various chemical fuels explode, it does a Fireball-like
+explosions. There are explosive barrels that roll into and through the room periodically via automation that is still
+functional, these can cause chain reactions that continually occur, doing fireball like damage and knocking creatures
+back proportional to how close they are to the center of the explosion.
+
+Players are swarmed by the ant-bots, but there are different classes of them, some are soldier-type and directly attack
+the players, some are swarmer type that crawl on the players and turn to acid, auto-hitting for small damage and
+corroding armor, permanently reducing it's AC. If it hits bare skin, it reduces Constitution.
+
+The players can simply escape the room, the bots will provide enough fuel to power the machine, but several ports are
+blocked, and the bots won't bother to unblock them, simply walking up, then turning around. The players can attempt to
+clear the debris either through attacks or skill checks. Skill checks are faster, but take an entire turn, reaction
+included, if the player passes, the debris is clear.
+
+The ant-bots never stop spawning.
+
+Clearing this debris does several things:
+
+1. If the players do nothing else, it makes the IM fight _harder_. IM uses the extra fuel to make all it's phases
+   stronger, narrate the fuel flowing into the IM, bypassing a manifold or something.
+2. If the players get to the skybridge, an obvious clue points them to enable some anti-fire emplacements that prevent
+   the swinging fire arc and do some damage to the IM. Big sign showing a symbol for 'fire suppression', "There's a sign
+   with a little flame and like, a little turret shooting something on it, a red light below it and an unthrown lever."
+3. If the players dig around in the archives, they might find other helpful tools that the fuel can power, including
+   whatever you like, but maybe something that extends the loot phase, etc. This can be discovered in the Control Room
+   Section.
 
 ## Oxygen
 
@@ -70,11 +98,21 @@ Players can attempt to decipher the language using a relevant check at a very hi
 over many sessions (if they survive), progress is reset if the player does not explicitly leave notes in a recoverable
 location, though any unrecoverable notes are taken to the Stygian Library where they can be recovered.
 
+Players can control an aspect of each of the three fights indirectly. They can de-activate the ornithopters, making the
+`Refuel` phase not work at all, the IM won't ever use it. They can also activate the spiders, skipping the spider fight
+entirely. Finally, they can disable the Flame Geist's fuel line, completely negating the rest of the dungeon and
+allowing free loot of the IM with no risk to the structure. This permanently closes this section of the ID when the
+players leave, and the door not longer appears in whatever [[Hilbert's Hallway]] it appeared in. It may _generate again_
+randomly during exploration.
+
 ### Around the Ring
 
 there are 4 rooms, the initial control room with the computer; then there is an Employee Break Room
 
-> You enter what appears to be some kind of break room, a few scattered round tables, simple chairs, a counter against one wall with shelves, a coffee station, an icebox. The room is light with a light that feels unnatural and harsh, though you can't quite tell where. The ceiling feels a little too low, it makes you feel ill-fit to the space, it's quite uncomfortable to be here. On the walls are a variety of posters with 'motivational' messages, among them:
+> You enter what appears to be some kind of break room, a few scattered round tables, simple chairs, a counter against
+> one wall with shelves, a coffee station, an icebox. The room is light with a light that feels unnatural and harsh,
+> though you can't quite tell where. The ceiling feels a little too low, it makes you feel ill-fit to the space, it's
+> quite uncomfortable to be here. On the walls are a variety of posters with 'motivational' messages, among them:
 
 ![](https://i.redd.it/pmg78j8vion81.jpg)
 
@@ -96,7 +134,7 @@ The Infernal Machine has three modes:
 
 Mode 1: Flamespew
 
-The IM assumes the powers of the Flame Geist and adopts it's abilities, but with the addition that the blade might
+The IM assumes the powers of the Flamespew and adopts it's abilities, but with the addition that the blade might
 occasionally advance by two sectors of the ring.
 
 When the Flamespew mode is active, at the end of each round, a number of chemical barrels appear. These will accumulate
@@ -109,13 +147,13 @@ The Flamespew stays at range, using _Flamewalk_ to blink around the arena, stayi
 
 It does not summon any adds in this mode.
 
-Mode 2: Spidertron
+Mode 2: Ant-bots
 
 The IM spits out mechanical legs and chases the party, making devastating multiattacks. In this mode it has resistance
 to lots of things but poor saves. So it has to rely on it's legendary resistance pool to survive. Players can tax this
 pool deliberately as another way to defeat the boss.
 
-It summons Spiderlings from the previous section in this mode at the end of every turn, 2d4 spiderlings flood out as a
+It summons Ants from the previous section in this mode at the end of every turn, 2d4 ants flood out as a
 single unit.
 
 Mode 3: Refuel
