@@ -3,7 +3,9 @@
 A (relatively) system-agnostic character-funnel roguelite system for TTRPGs, but also a collection of notes from the
 first attempts at running this system.
 
-## Prologue: Monster Hunting
+## Campaign
+
+### Prologue: Monster Hunting
 
 You are a 9th level adventurer; you hunt monsters. Maybe you work alone, maybe you know some of your future compatriots
 already, by reputation or otherwise. You live on a planet called _Eret_, a world not dissimilar from our own, similar
@@ -15,7 +17,8 @@ indistinguishable from magic", but the converse is also true -- any sufficiently
 technology.
 
 It is impossible to fully stop the progress of either, but one may and often does dominate the other. So in this world,
-technology has only made it to the late 19th century or so.
+technology has only made it to the late 19th/early 20th century or so. The aethestic of an arcane-industrial complex
+leading a sort of magical industrial revolution. You have nothing to lose but your vorpal chains, folks.
 
 You find yourself glommed together with a group of other adventurers, you've been having some lousy luck -- contracts
 appropriate to your ability (and more importantly, sufficient to be worth the expense of the endeavor) have been few and
@@ -23,24 +26,17 @@ far between. You're down to your last few ducats when you hear of a crazy man ra
 Sounds like it's right up your alley.
 
 
-## The first Boss: Scheduling
+## Setting/System
 
+ID is both a setting, system, and the name of the campaign I'm using to build that setting. It's very confusing.
 
-### Cadence and timing
+For the moment, if you are a part of any of my (jfred's) games, please _do not continue reading anything in this repo_.
 
-We'll be doing a week on/week off schedule. I expect sessions to be around the 2-3 hour mark, aiming to end before 3h
-and after 2h, but without a fixed end to accomodate being able to finish up a fight or other encounter.
+At some point you'll get to see it, but everything is in one place right now and if you chose to be spoiled I cannot
+stop you, but don't ruin it for anyone else.
 
-### Possible Timeslots
+## Repo Rules
 
-#### Closed Options
-
-Mondays, Wednesdays
-
-Cros: Every other friday could work, but not ideal
-
-#### Open Options
-
-Tuesdays, 7ET - 11ET, 6CT - 10CT
-Thursdays, 7ET - 11ET, 6CT - 10CT
-1st/3rd Friday 7ET - 11ET, 6CT - 10CT
+1. Names of files should be all lower-case with hyphens instead of spaces.
+    - Some exception may be made as in the case of `gelatinous-cUber` to help avoid mispronounciation at a glance.
+2. Markdown ends in `.md`, not `.mkd`
