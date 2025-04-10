@@ -22,6 +22,8 @@
             timg
             just
             bc
+            eplot
+            gnuplot
           ] ++ ci;
           ci = [
           ];
@@ -38,7 +40,11 @@
 
 
         };
-        devshells.default = {
+        devshells.default = {extraModulesPath, ...}@args: {
+          imports = ["${extraModulesPath}/language/ruby.nix"];
+
+          language.ruby.package = pkgs.ruby_3_4;
+
           motd = ''
 
 
