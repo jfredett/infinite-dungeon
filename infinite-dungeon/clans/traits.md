@@ -24,6 +24,9 @@ to:
 
 Death Points are _lost_ at the end of new character creation, they are 'use or lose'
 
+ED: This is a lousy name, but I dislike most of the obvious options. I also want to rethink my existing traits to be a
+little more system generic.
+
 ## Discard Rules and Drawbacks
 
 The most common traits often have 'discard after' rules, which take effect when the describe situation occurs. Most
@@ -48,5 +51,3 @@ When a player wants to make room for a new trait, they may need to deactivate an
 half the cost_ of the trait to remove it.
 
 Some traits may be _permanent_, these traits _cannot be removed_ by the player.
-
-
