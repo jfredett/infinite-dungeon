@@ -17,26 +17,21 @@ signs over some of the doors, unfortunately, these are often regional, meaning t
 sign, they may not be in a comprehensible language, they may use arcane or obtuse symbology, but sufficiently clever
 adventurers may learn what they look like over time.
 
-## The Staff
+See [[staff-of-hilberts-hotel]] for details about the staff.
 
-### The Hotel Manager
 
-Unnamed, unseen, may be DDD himself
+## The Mad Wizard's Invasion
 
-### The Concierge
+The Hotel existed for all prior time, and into the infinite future. It was a transitway through realities and stored
+entire subrealities within it. It's role was to maintain the binding between these realities, adjust their rotations to
+ensure stability across the omniverse, and the role of each of the Staff was established to ensure this. To 'normal'
+human eyes -- and even the eyes of advance magic users -- it appears as a 'normal' (if quite weird) hotel, but in
+reality Hilbert's Hotel is a collosal Arcane Machine responsible for stitching reality together.
 
-Tim Curry-esque, very formal, very proper, somewhat menacing
+When the Mad Wizard arrived, those ancient, arcane processes began to break down as he corrupted parts of the Hotel into
+his new "Infinite Dungeon"
 
-### The Bellboy
-
-A sycophant to the Concierge
-
-### The Help
-
-A kind, androgynous individual in hotel cleaning staff uniform. They may offer to clean something for the party,
-removing it's magical effects (curse or blessing) and returning a mundane object after a quick scrub with their cloth.
-
-Doesn't get along with The Concierge or the Bellboy
-
-May be a multiple-person, you're never quite sure, you often see them walking away right from you in the distance as
-they are also beginning to talk to you in your proximity.
+Traipsing across the omniverse was not good for the Wizard's already flagging mental health, and what little was left
+was consumed as he cherrypicked and rearranged worlds to form new subrealities and induce massive, unstable rotations
+into the reality the players come from, which results in the players arriving at the [[Pleasantly Finite]] and finding
+their way to the [[Infinite Dungeon]] in the first place.

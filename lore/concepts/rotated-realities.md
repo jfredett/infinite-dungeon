@@ -91,5 +91,5 @@ Induce via eddy currents at the leylines, like spinning a top...
 > the Grand Library, however, a discovery was made of another phenomena which this theory may explain. I cannot explain
 > further for sake of the small crisis it has caused, I have included what raw details we have found so far." - ain
 
-[ED: No additional information was included, and not further commentary. Another 5 pages of this are untranslated and,
-for the copyist, untranslatable at time of copy.]
+[ED: No additional information was included in the text set for copyist, and no further commentary. Another 5 pages
+of this are untranslated and, for the copyist, untranslatable at time of copy.]
