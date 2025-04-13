@@ -77,6 +77,16 @@ Shrug off a critical hit, converting it to normal, tap this trait. After tapping
 trait. Tapped traits are inactive until you roll a new character.
 """
 
+[[traits.common]]
+name = "I have a sort of cousin|uncle|aunt|friend who..."
+cost = 1
+description = """
+Your clan is associated with a minor NPC with a specialization in some skill. You may delay creating this NPC for as
+long as you like, but once created, they cannot be altered.
+
+You may take this trait multiple times.
+"""
+
 ######
 
 [[traits.uncommon]]
