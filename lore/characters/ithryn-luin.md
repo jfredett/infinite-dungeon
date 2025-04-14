@@ -1,8 +1,8 @@
-The Ithryn Nuil is an anonymous academic collective of wizards, magi, witches, and other delvers of the arcane; based at
+The Ithryn Luin is an anonymous academic collective of wizards, magi, witches, and other delvers of the arcane; based at
 the Southron University of the Arcane Arts (SUAA).
 
-The "I.N." as they are typically known, will collaborate internally, and sign their work with simple letter initials,
-`ain` for the first author, `bin` for the second, etc. In the original texts these are unique marks, but analysis of the
+The "I.L." as they are typically known, will collaborate internally, and sign their work with simple letter initials,
+`ail` for the first author, `bil` for the second, etc. In the original texts these are unique marks, but analysis of the
 text indicates that they were not uniquely applied. The order is secret, and the members are bound by magical pact to
 never reveal their identities. It is not known why this is done, though many speculate it is to avoid aggrandizement and
 inflation of ego.

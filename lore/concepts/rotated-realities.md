@@ -20,7 +20,7 @@ The Sidhe could do it, why can't I! Cave Magic, it must be Cave Magic.
 > such a thing was once considered madness, but if he records it in his own journal, how could he be lying?" - gtg [ED:
 > gtg is the present copyists representation of the mark associated with Mithrandir the Wise of the Far Lands, Grey
 > Wizard of the Esteemed Council]
-> "Sidhe are a myth, the way of the universe is _known_, madness often lies to itself, such is it's essence." - ain [ED:
+> "Sidhe are a myth, the way of the universe is _known_, madness often lies to itself, such is it's essence." - ail [ED:
 > refers to "A" of the Ithryn Luin, the so-called "Blue Wizards", a psuedonym for a group of researchers from the
 > Renowned Southron University of the Arcane Arts. Authors from this group would individuate with a letter, it is not
 > known if the lettering was consistent between reference by design of the group.]]
@@ -62,7 +62,7 @@ Induce via eddy currents at the leylines, like spinning a top...
 > "Here the Wizard shows his cards, he's inducing an oscillation in our reality, this could have disasterous
 > consequences!" - gtg
 > "On this there can be no doubt, operating near the leylines of any reality must be done with extreme caution, a trait
-> we cannot entrust to such a madman." - bin
+> we cannot entrust to such a madman." - bil
 
 [ED: An interrupted note returns from above]
 
@@ -89,7 +89,7 @@ Induce via eddy currents at the leylines, like spinning a top...
 > I wish we had a copy of that damn book!" - gtg
 > "I have included our copies of everything we could find on your referred _Garden_, and discovered sadly little here at
 > the Grand Library, however, a discovery was made of another phenomena which this theory may explain. I cannot explain
-> further for sake of the small crisis it has caused, I have included what raw details we have found so far." - ain
+> further for sake of the small crisis it has caused, I have included what raw details we have found so far." - ail
 
 [ED: No additional information was included in the text set for copyist, and no further commentary. Another 5 pages
 of this are untranslated and, for the copyist, untranslatable at time of copy.]
