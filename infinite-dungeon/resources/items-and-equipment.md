@@ -76,16 +76,40 @@ somewhat more in-shape than said Dad, could easily carry a bit more.
    | Short Weapon/Tool  | 2kg - 5kg     | Short Sword, Small Battleaxe, Buckler                                |
    | Long Weapon/Tool   | 4kg - 15kg    | Long Sword, Battleaxe, Small-Medium Shield                           |
    | Great Weapon/Tool  | 10kg - 30kg   | Claymore, Large Axe, Polearm, Large Shield                           |
-   | Bag of Concrete    | 35kg          | Useful Reference Point                                               |
    | Clothing           | 1kg - 3kg     | This may vary much more if the player is in a very warm/cold climate |
    | Light Armor        | 3kg - 5kg     | Padded Armor, could be used for winter clothes as well.              |
    | Medium Armor       | 5kg - 15kg    | Leathers on the low end, Studded Leather/Mail Leather on the high    |
    | Heavy Armor        | 12.5kg - 40kg | Ring/Chain Mail - Full Plate                                         |
+   | Bag of Concrete    | 35kg          | Useful Reference Point                                               |
 
 You can use this to estimate other objects, think of the size, add more if the material is heavy, make a guess. The
 internet exists, these are real-world weight ranges, so you can just search for it.
 
 ## Generating Loot
+
+Loot can be generated using your standard system tools, your job is to replace some of that loot with vesper and fame.
+Where normally a loot would be generated as something like:
+
+1. Roll for gold for each creature
+2. Tally up the experience that the players earned for defeating the encounter
+3. Do some amount of rolling/work to turn the gold into gems, art objects or magic items
+4. Distribute to players
+
+Now the process is:
+
+1. Roll for gold as before
+2. Tally XP as before
+3. Sum all of that into the `total reward`
+4. Distribute as you see fit.
+
+In particular, when players level up, they should get proportionally less XP for a session or so so they can settle into
+their new level, then as players become bored, you can dial up the XP or Fame reward proportionally.
+
+Rolling items on the ID Item tables will provide a 'reward cost', each Boss should have an item table, and there exist
+generic encounter tables. These will generate various 'fame' objects, as well as both mundane and complex magic items.
+
+You'll roll a number of items based on the number of players who have just defeated the boss. The remaining reward can
+be split out into different types or optionally into 'lesser items' from the boss.
 
 
 # Disorganized Notes
