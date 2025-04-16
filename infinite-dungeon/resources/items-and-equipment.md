@@ -7,15 +7,38 @@ and well-handled by the system.
 I have similar feelings, but no solution -- my problem isn't with combat, it's with loot. It is difficult to know how
 much and what kind of loot to give to the party. I often want to provide them interesting objects for which I have yet
 to have a use or mechanics. I want to represent value to them in a way more interesting than "There is 10,000gp in the
-treasure horde" or whatever. I want to loot to be _interesting_, but also I don't ever want to think about it beyond
-what is useful to me.
+treasure horde" or whatever. I want to loot to be _interesting_ and I want it to represent _meaningful change_ to a
+character, but also I don't ever want to think about it beyond what is useful to the narrative I'm trying to carve.
 
 To that end, _Infinite Dungeon_ has it's own custom item management and loot generation tools. It already has more
 resource types, but we need some way of calculating how much of it should be provided to the players after accomplishing
-something worthy of a pile of loot.
+something worthy of a pile of loot. Using the resources the _ID_ provides, you can generate loot using standard OTS loot
+systems, and then split the total value into actual items, vesper, and coin.
 
-For the most part, off-the-shelf generation tools for random encounters and the like should be fine, replace some amount
-of the gold value with vesper, and off you pop.
+## Item types and Fame Items
+
+Items are taken from the parent system whole-sale, you can also create custom items. Importantly, if using the _ID_ item
+management system, you will likely need to assign a weight and a size to the item. Generally this will be a 1x1 or 2x1,
+but for especially powerful or interesting items, you can give them differently shaped blocks, or impose adjacency
+restrictions (don't put the bottled flame next to the lampoil).
+
+Items can be mundane items like swords and bows, they can be simple magic items (+1 crossbow) or complex (A staff that
+turns to a snake when you throw it to the ground). They can be cursed items (with the mechanics up to the GM), and
+importantly they can also be "Fame Items"
+
+Fame Items are items which have no mechanical value, but grant the owner bonus Fame while in possession of the item. For
+instance, capturing the banner of an enemy faction would have little mechanical value, but would probably be a pretty
+'famous' object, and various people and entities would want it and be willing to pay for it.
+
+These items can be traded to willing NPCs for permanent fame, or gold, or vesper, or a mix of the three, but while
+holding them the bearer has access to extra fame to use. If they chose to spend fame for temporary benefits, the fame
+MAY be drawn out of the object itself. This _does not change it's value to NPCs_ -- it is now famous because _you used
+it_, but it can't grant you any additional benefit. The exception is that a fame item expending it's last minutes of
+fame will disintegrate and thus not be tradable.
+
+Who you give the item too will also influence what you get for it. Selling a fame item to a trader gives you little fame
+but may give lots of gold or vesper; donating it to a museum or institution of learning might give more fame but less
+money. You might also find some NPCs who will trade for other items, really up to you.
 
 ## Weight and Space
 
