@@ -22,7 +22,9 @@ name = "We've got loads of these at home"
 cost = 1
 description = """
 Choose an item subject to GM approval; When rolling a new character, your new character has this item
-in their inventory as long as this trait is active.
+in their inventory as long as this trait is active. It does not take up a slot, you just always have it.
+
+In games where light sources are important, or any other critical resource, this cannot apply. Don't break the game.
 """
 
 [[traits.common]]
@@ -30,14 +32,14 @@ name = "This is our heirloom..."
 cost = 2
 description = """
 Choose an item subject to GM approval; When rolling a new character, you _may_ give your new character this item,
-discarding this trait and gaining 1 additional death point when this character dies.
+discarding this trait and regaining 1 fame point when this character dies.
 """
 
 [[traits.common]]
 name = "I have some ... in my family"
 cost = 2
 description = """
-Choose a race, you may choose that race at character creation as long as this trait is active.
+Choose a species, you may choose that species at character creation as long as this trait is active.
 """
 
 [[traits.common]]
@@ -126,6 +128,14 @@ name = "Death? I laugh in the face of death"
 cost = 5
 description = """
 Gain advantage on death saves. Discard this trait if your character dies.
+"""
+
+[[traits.rare]]
+name = "We descend from the Black Knight"
+cost = 5
+description = """
+If your character would die, they may instead take some greivous injury and fight on. This trait can only be used once
+per character.
 """
 
 [[traits.rare]]

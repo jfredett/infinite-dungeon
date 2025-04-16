@@ -32,6 +32,22 @@ center of the arena.
 
 If the players remember to turn back all the valves, the final boss gets nerfed.
 
+### Variants
+
+In Intro, he does `Party Size / 2` round down flame bolts after each players turn at a random player, the wall of flame
+is highly telegraphed (counters on the floor or something), and maybe casts like, one highly telegraphed downcasted
+fireball.
+
+In Normal, as described, does `Party Size - 1d(Half-Party Size Round Down)` Firebolts after each players turn, the wall
+of flame is telegraphed, and casts a L3 fireball on it's turn at the player with the most health / has recently done the
+most damage to it.
+
+In Heroic, Flamebolt after each player's turn, Scorching Ray or Fireball at will on their turn. Wall is only telegraphed
+on a missed coinflip.
+
+In Mythic, Cast `1d3` Flamebolts at random targets each turn, casts Scorching Ray and Fireball on it's turn, summons
+Iron-Ants as adds.
+
 ## Ants go Marching
 
 An open air section overlooks a massive sprawling network of pipes and widgets. These all coallesce to feed their
@@ -77,6 +93,20 @@ Clearing this debris does several things:
 3. If the players dig around in the archives, they might find other helpful tools that the fuel can power, including
    whatever you like, but maybe something that extends the loot phase, etc. This can be discovered in the Control Room
    Section.
+
+### By Mode
+
+In Intro mode, the Ants are present, but they are 1-shottable and relatively benign, a swarm will kill a player, but
+they pay less attention to them overall.
+
+In Normal mode, as described above, should still be 1-2 shots per ant, but the attacks are deadlier, probably borrow a
+clay golem block for this or something like
+
+In Heroic, the ants (now "Red Ants") are stronger and tankyer, 3-4 shots to kill, does some lingering damage, maybe a con save against
+painful poison, which gives them negative temporary hit points (lowers max health until cured/wears off after 1d4 hours)
+
+In Mythic, the ants (now "Iron Ants") have the fire regen ability like Iron Golems, they are summoned by both Flamespew and IM to assist
+them.
 
 ## Oxygen
 
