@@ -21,20 +21,3 @@ On death, drops boss loot, and exposes some wires that need to be repaired in or
 center of the arena.
 
 If the players remember to turn back all the valves, the final boss gets nerfed.
-
-### Variants
-
-In Intro, he does `Party Size / 2` round down flame bolts after each players turn at a random player, the wall of flame
-is highly telegraphed (counters on the floor or something), and maybe casts like, one highly telegraphed downcasted
-fireball.
-
-In Normal, as described, does `Party Size - 1d(Half-Party Size Round Down)` Firebolts after each players turn, the wall
-of flame is telegraphed, and casts a L3 fireball on it's turn at the player with the most health / has recently done the
-most damage to it.
-
-In Heroic, Flamebolt after each player's turn, Scorching Ray or Fireball at will on their turn. Wall is only telegraphed
-on a missed coinflip.
-
-In Mythic, Cast `1d3` Flamebolts at random targets each turn, casts Scorching Ray and Fireball on it's turn, summons
-Iron-Ants as adds.
-

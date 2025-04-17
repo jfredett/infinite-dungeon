@@ -48,7 +48,6 @@ the IM Overheals, it gains half as much temporary HP.
 If the players manage to destroy all the cables, all the healing is lost and the IM is stunned for a round, and all
 attacks on it automatically hit and are natural crits.
 
-
 ### Phase 2: Rapid Unplanned Disassembly
 
 The defeat of the machine has destablized the structure, there is a door to the north you did not previously notice, it
