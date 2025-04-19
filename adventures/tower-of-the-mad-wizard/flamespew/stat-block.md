@@ -23,7 +23,7 @@ Weaknesses: Bludgeoning (attacking the pipework)
 - Firebolt
 - Flame Jet
 - Cherry Bomb
-- Wall of Flame
+- Flame Scythe
 
 ------
 
@@ -41,7 +41,7 @@ Weaknesses: Bludgeoning (attacking the pipework)
 - Firebolts on a won coinflip after each PC's turn, targeting that PC
 - On it's turn, cast Flame Jet on the PC with highest HP.
 - Does not use Cherry Bomb
-- Each turn it rotates the wall of flame toward the lit up sigil on the floor.
+- Each turn it rotates the scythe of flame toward the lit up sigil on the floor.
 - Each turn it withers by 30% of remaining health. It dies at <5% remaining.
 
 ### Normal
@@ -57,7 +57,7 @@ Weaknesses: Bludgeoning (attacking the pipework)
 - Firebolts on after each PC's turn, targeting that PC
 - On it's turn, cast Flame Jet on the PC with highest HP.
 - On it's turn, on a won coinflip, launch a Cherry Bomb at the largest cluster of PCs
-- After each turn, it rolls DC18, if it succeeds, it the wall of flame toward the lit up sigil on the floor. No need to
+- After each turn, it rolls DC18, if it succeeds, it the flamescythe toward the lit up sigil on the floor. No need to
   be subtle about this, we want to teach the mechanic that the floor movement is not fixed, this will matter for higher
   difficulties.
 
@@ -75,9 +75,9 @@ Weaknesses: Bludgeoning (attacking the pipework)
 - On it's turn, cast Flame Jet on the two PCs with highest HP.
 - On it's turn, on a won coinflip, launch a Cherry Bomb at the largest cluster of PCs
 
-#### Wall Movement:
+#### Scythe Movement:
 
-After every turn, check DC18, if pass, flip a coin, on heads, rotate the wall CW, on tails, CCW. This takes 1d3 player
+After every turn, check DC18, if pass, flip a coin, on heads, rotate the scythe CW, on tails, CCW. This takes 1d3 player
 turns. For instance, if initiative is:
 
 1. Flamespew
@@ -105,6 +105,6 @@ The sigil should be different for each roll of the d3, your choice on how hard t
 - On it's turn, cast Flame Jet on the three PCs with highest HP.
 - On it's turn, launch a Cherry Bomb at the largest cluster of PCs
 
-#### Wall Movement:
+#### Scythe Movement:
 
 As in Heroic, but DC13 and 1d4-1 turns.

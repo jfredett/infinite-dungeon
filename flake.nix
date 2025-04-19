@@ -24,6 +24,7 @@
             bc
             eplot
             gnuplot
+            openai-whisper
           ] ++ ci;
           ci = [
           ];
