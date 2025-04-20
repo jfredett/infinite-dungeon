@@ -1,7 +1,7 @@
 # The Machineworks
 
-a 4 boss raid. Two bosses, one of spark, one of oil and coal, the final is a giant warforged engine powered by the first
-two after they die.
+a 3 boss + 1 puzzle raid. Two bosses, one of spark, one of oil and coal, the final is a giant warforged engine powered
+by the first two after they die.
 
 Players enter and see a giant metal statue in the middle of a big open room, there are 3 wing rooms through a short
 hallway, as well as some other small rooms that lead back to the Infinite Hallway or to other parts of the dungeon

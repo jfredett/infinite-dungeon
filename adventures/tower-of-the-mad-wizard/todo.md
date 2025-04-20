@@ -1,0 +1,16 @@
+- IM
+    - [ ] Statblocks for IM
+    - [ ] Statblocks for Turrets
+    - [ ] Loot Table(s)
+    - [ ] 5' Battlemap
+- Flamespew
+    - [ ] Loot Tables
+    - [ ] 5' Battlemap
+    - [ ] Flamescythe graphic
+- Ants
+    - [ ] Statblocks
+    - [ ] 5' Battlemap
+    - [ ] Mechanics
+- Skybridge Control
+    - [ ] Puzzle Details
+    - [ ] Loot Table
