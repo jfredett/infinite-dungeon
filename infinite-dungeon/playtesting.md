@@ -73,5 +73,5 @@ the characters, but they should familiarize themselves with their skill set, whi
 one. They should probably pick the one they like the _least_ to play with first.
 
 
-Normal Item system for 5e for this, when I get to alternative systems I'll get ot alternative systems.
+Normal Item system for 5e for this, when I get to alternative systems I'll get to alternative systems.
 
