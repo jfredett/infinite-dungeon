@@ -38,8 +38,6 @@
                             just ci
                             '';
           };
-
-
         };
         devshells.default = {extraModulesPath, ...}@args: {
           imports = ["${extraModulesPath}/language/ruby.nix"];
