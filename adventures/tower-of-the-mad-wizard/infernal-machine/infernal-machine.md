@@ -40,7 +40,7 @@ dealt 1/(number-of-cables) of it's total life by destroying any of the much weak
 There are 3+1d4 cables total.
 
 During this mode, the IM summons a flame spirit after every players turn until there are 2 for each player. They
-relentlessly gang up on players in pairs.
+relentlessly gang up on players in pairs
 
 At the end of every round, the IM regains 10% of it's life total. This lasts for 1d6 rounds, determined when entered. If
 the IM Overheals, it gains half as much temporary HP.
