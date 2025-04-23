@@ -17,15 +17,14 @@ that character, if it's less than 4, generate a 'Basic' item, if it's greater ta
 12, generate a 'Legendary' item.
 
 
-| Name                   | Qty | Restriction   | Rarity |
-| ----                   | --- | -----------   | ------ |
-| Brace of Spewing Flame | 1   | Flamespew     | Legend |
-| Precision Optics       | 2   | IM            | Mid |
-| Laparoscope            | 1   | IM, Flamespew | Rare |
-| Third Eye Monocle            | 1   | IM, Flamespew, Bridge | Rare |
-| Scholar’s Monocle
-| Dr'ard Hive
-
+ | Name                   | Qty | Restriction   | Rarity |
+ | ----                   | --- | -----------   | ------ |
+ | Brace of Spewing Flame | 1   | Flamespew     | Legend |
+ | Precision Optics       | 2   | IM            | Mid    |
+ | Laparoscope            | 1   | IM, Flamespew | Rare   |
+ | Third Eye Monocle      | 1   | *             | Rare   |
+ | Scholar’s Monocle      | 1   | *             | Basic  |
+ | Dr'ard Hive            | 1   | *             | Mid    |
 
 
 # Fame/Gold/Vesper
@@ -34,6 +33,8 @@ Intro: 15m of fame for full clear, 10 ducats per player per boss, 100 Vesper per
 Normal: 5m of fame per defeated boss, 20 ducats/boss, 300 Vesper per boss
 Heroic: 10m of fame per defeated boss, 50 ducats/boss, 900 vesper per boss
 Mythic: 60m of fame for a full clear, 100 ducats/boss, 1500 vesper per boss
+
+Fame items should range from 1 to 5m/ea, but be pretty heavy.
 
 # Items
 
@@ -131,8 +132,13 @@ found in qtys of 2d4
 
 Does fire damage, can set things on fire
 
-## 
+## Canister of Fuel
 
+Basic
+
+found in qtys of 2d4
+
+An improvised grenade, does 2d6 damage in a 5' radius about a point, dex save or suck
 
 
 
