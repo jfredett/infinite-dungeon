@@ -14,6 +14,15 @@ seed in the included script which uses a deterministic random number generator t
 use this to map the doors, if you like, but the door connections need not be persistent if the players don't bother to
 map them.
 
+Doors in the hallway are generally locked with a modern card-reader style key, no matter the style of door. All the
+styles of door are different, but all of them are opaque with some kind of peephole or other 'see who's on the other
+side of the door' mechanism. It is good to obscure this fact from the players at first, so if the party Rogue tries to
+pick a lock, you can ask them to narrate how, and then drop the card-reader on them when they stick their lockpick in to
+get a 1HP shock.
+
+If they try to shim the door, or otherwise break through, describe impeccable security, then note a small logo on the
+card reader that says, "Security by Ollam's Deviantproof Doorways Inc."
+
 See [[Hilbert's Hotel]] for details about the sorts of things you might run into in the Hallway.
 
 ## Door Effects
@@ -27,5 +36,4 @@ See [[Hilbert's Hotel]] for details about the sorts of things you might run into
 8. You run into a member or members of [[Hilbert's Hotel#The Staff]]
 9. A door back to the Foyer of [[Hilbert's Hotel]]
 10. A random hotelroom, bedroom, or other place of rest and relaxation, somewhere in the world.
-
 
