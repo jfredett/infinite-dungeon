@@ -142,3 +142,27 @@ For the end boss of a raid, you should reward closer to 40% of the party (2-4 it
 Bosses should also generate a small amount of Gold/Vesper and small Fame objects.
 
 The goal should not to be to reward _more_ stuff, but _better_ stuff.
+
+----
+
+For tracking ammo, I might borrow an idea from the Black Hack -- the Usage Die. Essentially it's a dice chain that you
+descend as you 'use up' a resource. If someone owes you a non-specific favor, you might use a usage die for that. In the
+original you would downgrade on a 1 or 2, and if you downgraded off the end, you lost the resource.
+
+It's intended for abstracting resources, and I like it for spaces where I would want to say 'less' instead of 'fewer' --
+arrows you might as well just count, but charges on a wand seem like this, and especially _durability_ feels like this,
+and that gives a natural sink to items for players.
+
+I think I might experiment with durability die for items, I kind of like the idea of making it a little bit of tedium
+for the players, tracking durabilities for every item is maybe overkill, but I think simplifying the system to something
+like:
+
+Roll `1d<Durability>`, on a 1, `Durability -= 1`, when durability is 0, the item is destroyed.
+
+Alternatively, an 'equipment durability' die, when it downgrades you lose some AC, maybe at first you gain a bit? So
+it's more of a condition die.
+
+So if you spend time at camp taking care of your armor, roll and on `DC<20 - relevant-skill>` _upgrade_ the die. The
+chain would be a simple D20,12,10,8,6,4. If your condition die is 20, then gain +1 AC, +1 to hit, or +1 damage at your
+option. D12 you lose that, D10 is -1 AC, -1 to hit, or -1 damage at your option, ditto 8 and 6, on a d4 you take all
+three again, and if you fail you lose a piece of equipment until can't lose anymore.
