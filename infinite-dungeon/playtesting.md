@@ -72,6 +72,16 @@ be human. All other stats are straight, in order, 3d6 or a single die for class,
 the characters, but they should familiarize themselves with their skill set, which should be pretty limited at level
 one. They should probably pick the one they like the _least_ to play with first.
 
+Normal Item system for 5e for this, when I get to alternative systems I'll get to alternative systems. Goal right now is
+just to hack the chargen and do some balance testing of the various mechanics for the fight as a whole.
 
-Normal Item system for 5e for this, when I get to alternative systems I'll get to alternative systems.
+### Prework for players
+
+1. Come up with a Clan name
+2. Iron Roll a character in 5e, PHB and official WOTC supplements only (no Critical Role/Dim 20/whatever, just the
+   'normal' stuff, PHB, UA, Volo's, etc.). Roll Class, Background, etc. Every place you normally have a choice, list all
+   choices, choose via die roll.
+3. It is unlikely all or even most of these characters will survive, so do not get attached to them specifically.
+
+
 

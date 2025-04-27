@@ -166,3 +166,5 @@ So if you spend time at camp taking care of your armor, roll and on `DC<20 - rel
 chain would be a simple D20,12,10,8,6,4. If your condition die is 20, then gain +1 AC, +1 to hit, or +1 damage at your
 option. D12 you lose that, D10 is -1 AC, -1 to hit, or -1 damage at your option, ditto 8 and 6, on a d4 you take all
 three again, and if you fail you lose a piece of equipment until can't lose anymore.
+
+
