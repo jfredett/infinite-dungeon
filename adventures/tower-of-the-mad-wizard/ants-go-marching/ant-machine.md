@@ -57,3 +57,13 @@ painful poison, which gives them negative temporary hit points (lowers max healt
 
 In Mythic, the ants (now "Iron Ants") have the fire regen ability like Iron Golems, they are summoned by both Flamespew and IM to assist
 them.
+
+
+----
+
+Stats
+
+like golems, later like fire golems that heal from flame attacks. Relatively weak, on intro 4 should challenge a single
+PC, normal 2-3, heroic 1-2, and mythic 1 should be a challenge for 1-2 players.
+
+The swarm in, at least 2 per turn on all levels, but more as the challenge increases.
