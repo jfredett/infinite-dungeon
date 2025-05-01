@@ -13,35 +13,35 @@ tasks:
     status: "complete"
     type: "custom"
     completionDate: "2025-05-01T17:38:01.856Z"
-    mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Playtest - 1/Chapters/The Demon Queen Awakens.md"]
+    mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md"]
   - id: "55d91e79-cbf2-463d-9162-f7b9c400d2d5"
     priority: 3
     name: "Recover Scepters"
     description: 
     status: "incomplete"
     type: "custom"
-    mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Playtest - 1/Chapters/The Demon Queen Awakens.md","Campaigns/Infinite Dungeon/10. Objects/The Scepters.md"]
+    mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md","Campaigns/Infinite Dungeon/10. Objects/The Scepters.md"]
   - id: "96075a09-a35d-43e1-ad5a-6a5596d34b08"
     priority: 2
     name: "Defeat Neheb-khalet"
     description: 
     status: "incomplete"
     type: "custom"
-    mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Playtest - 1/Chapters/The Demon Queen Awakens.md"]
+    mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md"]
   - id: "ea8beea3-802d-44ac-b21b-fef5994545ab"
     priority: 2
     name: "Defeat Serketraj"
     description: 
     status: "incomplete"
     type: "custom"
-    mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Playtest - 1/Chapters/The Demon Queen Awakens.md"]
+    mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md"]
   - id: "69d89061-7785-4690-a0c4-4514ec563273"
     priority: 2
     name: "Defeat Anhubet"
     description: 
     status: "incomplete"
     type: "custom"
-    mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Playtest - 1/Chapters/The Demon Queen Awakens.md"]
+    mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md"]
   - id: "4e3191d1-e545-4fd4-8463-2835b1bcf642"
     priority: 2
     name: "Defeat the Demon Queen"
@@ -54,12 +54,12 @@ tasks:
     description: 
     status: "incomplete"
     type: "custom"
-    mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Playtest - 1/Chapters/The Demon Queen Awakens.md"]
+    mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md"]
 data: 
   description: "Initial playtest of ID"
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/01. Adventures/Playtest - 1/Chapters/The Demon Queen Awakens.md|]]
-[[Campaigns/Infinite Dungeon/01. Adventures/Playtest - 1/Chapters/The Tower of the Mad Wizard.md|]]
 [[Campaigns/Infinite Dungeon/10. Objects/The Scepters.md|]]
+[[The Infernal Machine]]
+[[Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md|]]

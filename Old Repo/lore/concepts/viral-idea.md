@@ -1,9 +1,9 @@
-> Mithrandir, expunding on prior work, prepared a dedicated treatise on the Mad Wizard's "Rotated Reality" concept.
+> Mithrandir, expounding on prior work, prepared a dedicated treatise on the Mad Wizard's "Rotated Reality" concept.
 
 > The copyist notes that a significant portion of the document is, in fact, defense of his use of the original author's
 > work as seriously as he does, preempting, perhaps, an argument going on at the time.
 
-I refer to prior writing toward the basic design and definition of a _Magick_, it is difficult to ensorcell an entire
+I refer to prior writing toward the basic design and definition of a _Magick_, it is difficult to ensorcel an entire
 _Magick_ within any language or device contained _within_ said Magick, cf. _Goedel's_ fine work on the sub-system
 common, necessarily, to all _Magicks_, that of Mathematics. I shan't delve into these details here, but suffice that his
 result naturally generalizes to any sufficiently arcane Magick will itself be necessarily _Mysterious_ in the sense that

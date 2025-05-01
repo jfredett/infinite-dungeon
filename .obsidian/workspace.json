@@ -11,34 +11,30 @@
             "id": "98624381fad603e9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Infinite Dungeon/02. Sessions/Session 2/Scenes/Kesi's Briefing.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kesi's Briefing"
+              "title": "New tab"
             }
           }
         ]
       },
       {
-        "id": "dfd3367326174de8",
+        "id": "575fcc9948484796",
         "type": "tabs",
         "children": [
           {
-            "id": "ea38529cdfdabf65",
+            "id": "097ad512db8a64de",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/Infinite Dungeon.md",
+                "file": "Campaigns/Infinite Dungeon/05. Locations/The Secret Garden of Ynn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Infinite Dungeon"
+              "title": "The Secret Garden of Ynn"
             }
           }
         ]
@@ -216,8 +212,34 @@
   },
   "active": "a87af074a151ccc8",
   "lastOpenFiles": [
-    "Campaigns/Infinite Dungeon/01. Adventures/Playtest - 1/Playtest - 1.md",
-    "Campaigns/Infinite Dungeon/01. Adventures/Playtest - 1/Chapters/The Tower of the Mad Wizard.md",
+    "Old Repo/adventures/tomb-of-the-demon-queen/plan.md",
+    "Old Repo/adventures/tomb-of-the-demon-queen/notes/abasi.md",
+    "Campaigns/Infinite Dungeon/03. Non Player Characters/Abasi.md",
+    "Campaigns/Infinite Dungeon/06. Factions/The Counterparty.md",
+    "Campaigns/Infinite Dungeon/06. Factions/The Editing Staff.md",
+    "Old Repo/lore/concepts/intruding-thought-magic.md",
+    "Old Repo/lore/characters/ollam.md",
+    "Campaigns/Infinite Dungeon/05. Locations/The Secret Garden of Ynn.md",
+    "Campaigns/Infinite Dungeon/05. Locations/The Pleasantly Finite.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Iskavi.md",
+    "Campaigns/Infinite Dungeon/05. Locations/The Tomb of Aten.md",
+    "Campaigns/Infinite Dungeon/03. Non Player Characters/The Mad Wizard Dracul Drathulu Drathir.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hotel.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Eret.md",
+    "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/Mithrandir's Warrant.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hallway.md",
+    "Pleasantly Finite.md",
+    "Old Repo/lore/locations/the-tower-of-the-wizard.md",
+    "Old Repo/lore/locations/The Wizard's Tower.md",
+    "Old Repo/infinite-dungeon/clans/saving-death-points.md",
+    "Old Repo/infinite-dungeon/clans/traits.md",
+    "Old Repo/infinite-dungeon/depth/rooms.md",
+    "Old Repo/infinite-dungeon/depth/depth.md",
+    "Old Repo/infinite-dungeon/depth/details.md",
+    "Old Repo/infinite-dungeon/conflict-resolution.md",
+    "Old Repo/infinite-dungeon/playtesting.md",
+    "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters",
+    "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard",
     "Old Repo/script/usage-die-probabilities.rb",
     "Old Repo/script/bimodal-dice.rb",
     "Old Repo/old/SRD/Pantheon.docx",
@@ -225,32 +247,6 @@
     "Old Repo/old/SRD/Design.odt",
     "Old Repo/old/SRD",
     "Old Repo/old/Loot/Base Armor.xlsx",
-    "Old Repo/old/Loot/Random Weapon Generation.xlsx",
-    "Gemfile",
-    "Old Repo/old/Loot/Treasure.xlsx",
-    "LOG.md",
-    "README.md",
-    "Old Repo/lore/characters/mithrandir.md",
-    "Old Repo/lore/characters/ollam.md",
-    "Old Repo/lore/characters/Matilda the Hedge-Witch.md",
-    "Old Repo/lore/characters/the-staff.md",
-    "Old Repo/lore/characters/ithryn-luin.md",
-    "Old Repo/lore/characters/The Mad Wizard Dracul Drathulu Drathir.md",
-    "Old Repo/lore/characters/the-counterparty.md",
-    "Old Repo/lore/characters/Nikolai Ivanovich Lobachevsky.md",
-    "Old Repo/lore/characters/staff-of-hilberts-hotel.md",
-    "Old Repo/lore/concepts/intruding-thought-magic.md",
-    "Old Repo/lore/concepts/viral-idea.md",
-    "Old Repo/lore/concepts/rotated-realities.md",
-    "Old Repo/lore/locations/The Pleasantly Finite.md",
-    "Old Repo/lore/locations/Hilbert's Hallway.md",
-    "Old Repo/lore/locations/Hilbert's Hotel.md",
-    "Old Repo/lore/locations/Iskavi.md",
-    "Old Repo/lore/locations/The Wizard's Tower.md",
-    "Old Repo/lore/locations/ollams-deviantproof-doorways.md",
-    "Old Repo/lore/locations/the-tower-of-the-wizard.md",
-    "Old Repo/lore/literature/the-dungeon-dirge.md",
-    "Old Repo/infinite-dungeon/guilds/guilds.md",
-    "Old Repo/infinite-dungeon/hexcrawl/iskavi.md"
+    "Old Repo/old/Loot/Random Weapon Generation.xlsx"
   ]
 }

@@ -20,4 +20,3 @@ relationships: []
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/03. Non Player Characters/Abasi.md|]]

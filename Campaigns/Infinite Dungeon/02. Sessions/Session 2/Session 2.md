@@ -16,6 +16,8 @@ tasks:
     description: "Complete Session Session 2"
     type: "creation"
     status: "proposed"
+data: 
+  sessiondate: "2025-05-01"
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]

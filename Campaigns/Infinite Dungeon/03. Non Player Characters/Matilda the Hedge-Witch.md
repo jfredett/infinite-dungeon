@@ -4,8 +4,10 @@ id:
   type: "nonplayercharacter"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
 data: 
-  nonplayercharactertype: "extra"
+  nonplayercharactertype: "main"
+  occupation: "Hedge Witch"
 tasks: []
 ```
+
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]

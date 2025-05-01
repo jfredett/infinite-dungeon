@@ -10,16 +10,9 @@
 id: 
   type: "nonplayercharacter"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-tasks: 
-  - id: "01411fc6-046b-4750-abea-72fdc25862a9"
-    priority: 1
-    name: "Complete Non-Player Character"
-    description: "Complete Non-Player Character Anneke"
-    type: "creation"
-    status: "proposed"
+tasks: []
 data: 
   nonplayercharactertype: "extra"
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/Session 2/Scenes/Kesi's Briefing.md|]]

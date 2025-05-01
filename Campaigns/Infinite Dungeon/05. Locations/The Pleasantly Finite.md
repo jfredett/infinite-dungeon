@@ -1,5 +1,4 @@
-See Garden of Ynn sourcebook
-
+An Inn run by the proprietor, [[Nikolai Ivanovich Lobachevsky|Nik]], the main place where the characters return after adventuring.
 
 ```RpgManager4
 id:
@@ -7,5 +6,4 @@ id:
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
 tasks: []
 ```
-
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]

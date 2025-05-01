@@ -6,20 +6,14 @@ id:
 data: 
   nonplayercharactertype: "supporting"
   description: "Kesi is woman of modest stature but stark appearance. With a shaved head, garb that is a mixture of sky blue vestments, bronze scale armor, an excessive amount of jewelry, and a mace hung from her belt, it is impossible to identify her as any one thing. The countless acessories she wears are made up mostly of charms and icons of the various gods of the lands or mystical symbols, many of which are unfamiliar to contemporary eyes. Her every movement jingles noisily, yet she leaves no footprints where she walks."
-tasks: 
-  - id: "ad337701-377f-4da9-99a2-2a983b362898"
-    priority: 1
-    name: "Complete Non-Player Character"
-    description: "Complete Non-Player Character Kesi"
-    type: "creation"
-    status: "proposed"
+tasks: []
 relationships: 
   - type: "bidirectional"
-    path: "Campaigns/Infinite Dungeon/01. Adventures/Playtest - 1/Chapters/The Demon Queen Awakens.md"
+    path: "Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md"
   - type: "bidirectional"
     path: "Campaigns/Infinite Dungeon/03. Non Player Characters/Abasi.md"
 ```
 
-[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/01. Adventures/Playtest - 1/Chapters/The Demon Queen Awakens.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Abasi.md|]]
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md|]]
