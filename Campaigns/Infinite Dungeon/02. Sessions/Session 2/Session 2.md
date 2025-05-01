@@ -1,7 +1,3 @@
-[[Returning to the Chamber of the Ushabti and Sleeper]]
-[[Dovid's Entrance]]
-[[Kesi's Briefing]]
-
 
 ```RpgManager4
 id: 
