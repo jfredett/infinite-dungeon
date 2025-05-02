@@ -108,5 +108,5 @@ relationships:
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 
-[[Campaigns/Infinite Dungeon/03. Non Player Characters/Kesi.md|]]
+[[Kesi]]
 [[Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md|]]

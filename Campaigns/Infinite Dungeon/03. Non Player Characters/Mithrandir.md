@@ -16,10 +16,17 @@ id:
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
 data: 
   nonplayercharactertype: "supporting"
-  description: "Gandalf"
+  description: "Strange, old, wise. Kind looking, Tall."
   occupation: "Wizard"
   arc: 5
-tasks: []
+tasks: 
+  - id: "7c29ba27-cc9d-4821-b1d3-6931e14d90c5"
+    priority: 1
+    name: "Complete Non-Player Character"
+    description: "Complete Non-Player Character Mithrandir"
+    type: "creation"
+    status: "proposed"
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md|]]

@@ -11,9 +11,7 @@ relationships:
   - type: "bidirectional"
     path: "Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md"
   - type: "bidirectional"
-    path: "Campaigns/Infinite Dungeon/03. Non Player Characters/Abasi.md"
-```
-
-[[Campaigns/Infinite Dungeon/03. Non Player Characters/Abasi.md|]]
+    path: "Campaigns/Infinite Dungeon/03. Non Player Characters/Demon Queen/Aba[[Abasi]]hapters/The Demon Queen Awakens.md|]]
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md|]]
+
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Demon Queen/Abasi.md|]]
