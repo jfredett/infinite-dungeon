@@ -49,7 +49,7 @@ Kesi will also introduce the mechanic of the **four scepters**:
 id: 
   type: "scene"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/02. Sessions/Session 2/Session 2.md"
+  parent: "Campaigns/Infinite Dungeon/02. Sessions/Session 2/Session 2 - Serketraj, Dovid, and the Hold Person from Hell.md"
   positionInParent: 3
 tasks: 
   - id: "b83ad148-8563-4677-92ea-4582d59ad320"
@@ -76,7 +76,9 @@ tasks:
 data: 
   description: "- The figure under the sheet is Kesi, an ancient member of Abasi's Order.\n- She, with her comrades and leaders, were magically entombed to act as guards.\n- She appears to be the only one who's magic remained functional\n- She explains that in each of the various tombs one of Nehebkhalet's General's was entombed with one of the Eye's of Aten -- the leaders of her and Abasi's order.\n- The Eyes were powerful members of the order who were locked in eternal battle with the Generals.\n- Kesi will be amazed that the party defeated Ansubek, and ask if Anneke's tomb was intact, if the magic was still in place. You will all head back to the tomb to inspect, she walks slowly, and explains the Dial of Aten on the way."
   duration: 1317
+  scenetype: "exposition"
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/Session 2/Session 2.md|]]
+
+[[Campaigns/Infinite Dungeon/02. Sessions/Session 2/Session 2 - Serketraj, Dovid, and the Hold Person from Hell.md|]]

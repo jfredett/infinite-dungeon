@@ -1,0 +1,32 @@
+- Details about the Last
+	- Kesi is getting her self together, but still needs rest, she remembers the layout and has drawn a rough map for the players.
+	- Abasi is trying to figure out how Last works, he thinks he can be repaired.
+	- Kesi doesn't know much about the Ushabti exactly, but suggests the path to Nekbel Amun was the same way to the workshop where spare parts were kept
+	- She suggests the other direction was where one of the main barracks was located for them. There might be useful tools there
+		- Last gets more agitated at that suggestion (passive insight check)
+	- Regardless of where they go, they will find tools
+- More details about Serketraj
+	- 
+
+
+
+```RpgManager4
+id: 
+  type: "scene"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+  parent: "Campaigns/Infinite Dungeon/02. Sessions/Session 3/Session 3.md"
+  positionInParent: 1
+tasks: 
+  - id: "6b790484-8286-4cf8-8822-dfd926eb9c9e"
+    priority: 1
+    name: "Complete Scene"
+    description: "Complete Scene Regroup after a long rest"
+    type: "creation"
+    status: "proposed"
+data: 
+  scenetype: "recap"
+  description: ""
+```
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/Session 3/Session 3.md|]]

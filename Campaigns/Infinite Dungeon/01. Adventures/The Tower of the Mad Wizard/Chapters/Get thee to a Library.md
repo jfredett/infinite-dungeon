@@ -6,7 +6,7 @@ id:
   type: "chapter"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
   parent: "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/The Tower of the Mad Wizard.md"
-  positionInParent: 3
+  positionInParent: 4
 tasks: 
   - id: "55899933-3904-4c68-943b-a9836c614549"
     priority: 1

@@ -4,7 +4,7 @@
 id: 
   type: "scene"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/02. Sessions/Session 2/Session 2.md"
+  parent: "Campaigns/Infinite Dungeon/02. Sessions/Session 2/Session 2 - Serketraj, Dovid, and the Hold Person from Hell.md"
   positionInParent: 2
 tasks: []
 data: 
@@ -12,7 +12,9 @@ data:
   duration: 25
   externalactions: true
   storycirclestage: ""
+  scenetype: "preparation"
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/Session 2/Session 2.md|]]
+
+[[Campaigns/Infinite Dungeon/02. Sessions/Session 2/Session 2 - Serketraj, Dovid, and the Hold Person from Hell.md|]]

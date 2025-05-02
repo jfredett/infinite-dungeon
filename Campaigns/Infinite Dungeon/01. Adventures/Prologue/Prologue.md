@@ -32,8 +32,9 @@ tasks:
     priority: 2
     name: "Defeat Serketraj"
     description: 
-    status: "incomplete"
+    status: "complete"
     type: "custom"
+    completionDate: "2025-05-02T03:28:08.757Z"
     mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md"]
   - id: "69d89061-7785-4690-a0c4-4514ec563273"
     priority: 2
@@ -52,8 +53,9 @@ tasks:
     priority: 3
     name: "Introduce Dovid"
     description: 
-    status: "incomplete"
+    status: "complete"
     type: "custom"
+    completionDate: "2025-05-02T03:28:11.286Z"
     mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md"]
 data: 
   description: "Initial playtest of ID"

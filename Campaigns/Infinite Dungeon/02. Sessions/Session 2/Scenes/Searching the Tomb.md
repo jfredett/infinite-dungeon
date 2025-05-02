@@ -15,14 +15,16 @@ Defeated Serketraj
 id: 
   type: "scene"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/02. Sessions/Session 2/Session 2.md"
+  parent: "Campaigns/Infinite Dungeon/02. Sessions/Session 2/Session 2 - Serketraj, Dovid, and the Hold Person from Hell.md"
   positionInParent: 4
 tasks: []
 data: 
   description: "After the initial Lore Stuff, the party returns to scouring the tomb"
   duration: 7845
   externalactions: true
+  scenetype: "combat"
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/Session 2/Session 2.md|]]
+
+[[Campaigns/Infinite Dungeon/02. Sessions/Session 2/Session 2 - Serketraj, Dovid, and the Hold Person from Hell.md|]]

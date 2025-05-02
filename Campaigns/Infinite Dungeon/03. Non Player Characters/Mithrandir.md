@@ -9,3 +9,17 @@ he is more preoccupied with the doings of a certain Mad Wizard.
 Mithrandir has met himself on occasion, and has only had this to say on the matter:
 
 > I do not recommend it, bad for the sense of self.
+
+```RpgManager4
+id: 
+  type: "nonplayercharacter"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+data: 
+  nonplayercharactertype: "supporting"
+  description: "Gandalf"
+  occupation: "Wizard"
+  arc: 5
+tasks: []
+```
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
