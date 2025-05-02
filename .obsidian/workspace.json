@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/05. Locations/The Secret Garden of Ynn.md",
+                "file": "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On Rotated Realities\".md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Secret Garden of Ynn"
+              "title": "\"On Rotated Realities\""
             }
           }
         ]
@@ -194,8 +194,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a87af074a151ccc8",
+  "active": "5b992fd847a60ec4",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/10. Objects/Letters, Postings, etc",
+    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers",
+    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"Intruding Thought Magic\".md",
+    "Campaigns/Infinite Dungeon/05. Locations/The Tower of the Mad Wizard.md",
+    "Campaigns/Infinite Dungeon/05. Locations/The Tomb of Aten.md",
+    "Campaigns/Infinite Dungeon/05. Locations/The Secret Garden of Ynn.md",
     "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/\"Get thee to a Library!\".md",
     "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md",
     "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/The Infernal Machine.md",
@@ -203,15 +209,13 @@
     "Old Repo/lore/characters/staff-of-hilberts-hotel.md",
     "Old Repo/lore/characters/ollam.md",
     "Old Repo/lore/characters/ithryn-luin.md",
-    "Campaigns/Infinite Dungeon/10. Objects/\"On Rotated Realities\".md",
+    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On Rotated Realities\".md",
     "Old Repo/lore/locations/Hilbert's Hallway.md",
-    "Campaigns/Infinite Dungeon/10. Objects/\"On the Viral Idea\".md",
+    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On the Viral Idea\".md",
     "Old Repo/lore/locations/the-tower-of-the-wizard.md",
-    "Campaigns/Infinite Dungeon/10. Objects/\"Intruding Thought Magic\".md",
-    "Campaigns/Infinite Dungeon/10. Objects/The Dungeon's Dirge.md",
+    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/The Dungeon's Dirge.md",
     "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md",
     "Campaigns/Infinite Dungeon/Infinite Dungeon.md",
-    "Campaigns/Infinite Dungeon/05. Locations/The Tower of the Mad Wizard.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Prologue/Prologue.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md",
     "Campaigns/Infinite Dungeon/02. Sessions/Session 3/Session 3.md",
@@ -219,10 +223,7 @@
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Demon Queen/Abasi.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Demon Queen/Anneke.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Demon Queen/Ansubek.md",
-    "Campaigns/Infinite Dungeon/03. Non Player Characters/Demon Queen/Kesi.md",
-    "Campaigns/Infinite Dungeon/03. Non Player Characters/Mithrandir.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Demon Queen",
-    "Campaigns/Infinite Dungeon/03. Non Player Characters/Matilda the Hedge-Witch.md",
     "Campaigns/Infinite Dungeon/02. Sessions/Session 1.0 - New Beginnings/Scenes",
     "Campaigns/Infinite Dungeon/02. Sessions/Session 1.0 - New Beginnings",
     "Campaigns/Infinite Dungeon/02. Sessions/Session 4",
@@ -232,7 +233,6 @@
     "Campaigns/Infinite Dungeon/02. Sessions/Session 3",
     "Assets/upper-carpathia.jpg",
     "Assets/iskavi.jpg",
-    "Assets",
-    "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters"
+    "Assets"
   ]
 }

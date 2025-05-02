@@ -1,5 +1,5 @@
 
-Players find [[Campaigns/Infinite Dungeon/10. Objects/MIthrandir's Warrant|MIthrandir's Warrant]]
+Players find [[Campaigns/Infinite Dungeon/10. Objects/Letters, Postings, etc/MIthrandir's Warrant|MIthrandir's Warrant]]
 
 Nik interrupts the party as they read, "You, you, you want drink or just read? Notice is old -- come inside and spend money." He ushers them inside, the tavern smells like fresh timber and beer. A local band is playing in the corner, there is some bustle, mostly adventurers. It is a little too warm, but the room is lively and there is a breeze coming through. You can smell the spring of trees and flowers outside.
 
