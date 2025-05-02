@@ -1,5 +1,3 @@
-# The Dungeon's Dirge
-
 Sung a bit like a drinking song.
 
 > The sons of the Empire were valiant and bold,
@@ -32,3 +30,14 @@ Sung a bit like a drinking song.
 >   For tomorrow you'll die
 >   like every other guy
 >   in the dungeon of Dracul Dracthulu Dracthir
+
+```RpgManager4
+id: 
+  type: "object"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+tasks: []
+```
+
+
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]

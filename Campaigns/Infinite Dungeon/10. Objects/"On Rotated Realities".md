@@ -1,3 +1,17 @@
+
+```RpgManager4
+id: 
+  type: "object"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+tasks: 
+  - id: "a9db3442-21ad-49f5-b483-0d345b08d28f"
+    priority: 1
+    name: "Complete Object"
+    description: "Complete Object \"On Rotated Realities\""
+    type: "creation"
+    status: "proposed"
+```
+
 > A transcription from the Journals of The Wizard Dracul Dracthulu Dracthir. Recovered from room 2^31-1 + 82 by an
 > unidentifiable party of adventurers. The original transcriptionist indicates this journal was translated partially due
 > to the realization that it would not help deal with the thing growing in the adventurers. The translation, at various

@@ -80,3 +80,12 @@ only as a mental trap or idea that, once concieved, poisons the mind in a way th
 then given form and function to self-reproduce, such a thing would act like a disease, spreading through the minds of
 all who observe it.
 
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+```RpgManager4
+id: 
+  type: "object"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+tasks: []
+```
+

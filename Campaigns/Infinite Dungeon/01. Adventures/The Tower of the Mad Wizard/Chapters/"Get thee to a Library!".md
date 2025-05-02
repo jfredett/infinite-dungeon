@@ -1,4 +1,4 @@
-Goal is to change things up by pointing to the Stygian Library and a broader hexcrawl. Add a couple monster hunts nearer Odesa, goal is to get them to the Stygian Library in Odesa, maybe incorporate some pointcrawl in the city?
+Goal is to change things up by pointing to the Stygian Library and a broader hexcrawl. Add a couple monster hunts nearer Odesa, goal is to get them to the Stygian Library in Odesa, maybe incorporate some pointcrawl in the city? Players should get pointed to [[Old Repo/lore/locations/Hilbert's Hotel|Hilbert's Hotel]] as well
 
 
 ```RpgManager4
@@ -7,13 +7,7 @@ id:
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
   parent: "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md"
   positionInParent: 3
-tasks: 
-  - id: "55899933-3904-4c68-943b-a9836c614549"
-    priority: 1
-    name: "Complete Chapter"
-    description: "Complete Chapter Get thee to a Library"
-    type: "creation"
-    status: "proposed"
+tasks: []
 data: 
   description: "After defeating the normal mode of IM, the players get a mission to go to Odesa and retrieve something for Mithrandir"
 ```
