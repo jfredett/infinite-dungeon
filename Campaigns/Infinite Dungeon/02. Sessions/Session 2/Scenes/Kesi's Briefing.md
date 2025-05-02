@@ -20,6 +20,7 @@ Kesi is willing to provide **surface-level context** about each of the known gen
 - Referred to as **untrustworthy** but not overtly hostile.
 - This is the kind of minimal flavor Kesi gives for other generals unless directly asked.
 ## Serketraj
+
 - High level from her section
 - Known for violence
 - Black Ops
@@ -55,22 +56,26 @@ tasks:
     priority: 1
     name: "Inform about how the dial works"
     description: 
-    status: "incomplete"
+    status: "complete"
     type: "custom"
+    completionDate: "2025-05-02T00:50:08.177Z"
   - id: "04264e5a-e29c-442b-8623-73c58bc44536"
     priority: 1
     name: "Inform about the generals"
     description: 
-    status: "incomplete"
+    status: "complete"
     type: "custom"
+    completionDate: "2025-05-02T00:50:09.196Z"
   - id: "96143e89-b170-40ce-b58f-cd57c13a2509"
     priority: 1
     name: "Suggest that Serketraj may be the culprit behind waking others up"
     description: 
-    status: "incomplete"
+    status: "complete"
     type: "custom"
+    completionDate: "2025-05-02T00:50:51.333Z"
 data: 
   description: "- The figure under the sheet is Kesi, an ancient member of Abasi's Order.\n- She, with her comrades and leaders, were magically entombed to act as guards.\n- She appears to be the only one who's magic remained functional\n- She explains that in each of the various tombs one of Nehebkhalet's General's was entombed with one of the Eye's of Aten -- the leaders of her and Abasi's order.\n- The Eyes were powerful members of the order who were locked in eternal battle with the Generals.\n- Kesi will be amazed that the party defeated Ansubek, and ask if Anneke's tomb was intact, if the magic was still in place. You will all head back to the tomb to inspect, she walks slowly, and explains the Dial of Aten on the way."
+  duration: 1317
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
