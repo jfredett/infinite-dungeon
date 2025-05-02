@@ -15,7 +15,7 @@ Players can generally:
 1. Go to a Raid in the Tower
     - First session is the Infernal Machine raid, in intro mode, maybe even in Black Knight mode (major permanent injury replacing death on failed death save)
 2. Seek out more information from Matilda about the tower.
-    - Tips the players to the Garden of Ynn
+    - Tips the players to the [[The Secret Garden of Ynn]]
 3. Ask Nik about something
     - See below for details, Nik is most likely who they will ask general setting questions
 4. Explore other known areas for random encounters, local quests, etc. These offer no Fame, but do pay Gold and Vesper
@@ -28,7 +28,7 @@ If the players don't attempt the tower in a session, roll d20 + number of missed
 id: 
   type: "scene"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/02. Sessions/Session 1.0 - New Beginnings/Session 1.0 - New Beginnings.md"
+  parent: "Campaigns/Infinite Dungeon/02. Sessions/The Tower of the Mad Wizard/Session 1.0 - New Beginnings/Session 1.0 - New Beginnings.md"
   positionInParent: 1
 tasks: []
 data: 
@@ -36,4 +36,5 @@ data:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/Session 1.0 - New Beginnings/Session 1.0 - New Beginnings.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/The Tower of the Mad Wizard/Session 1.0 - New Beginnings/Session 1.0 - New Beginnings.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/The Secret Garden of Ynn.md|]]

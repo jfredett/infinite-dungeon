@@ -1,20 +1,20 @@
 
-## The Staff
+```RpgManager4
+id: 
+  type: "nonplayercharacter"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+data: 
+  nonplayercharactertype: "supporting"
+tasks: 
+  - id: "916a3655-ff82-466d-96f6-1ceb38feb7ad"
+    priority: 1
+    name: "Complete Non-Player Character"
+    description: "Complete Non-Player Character Housekeeping"
+    type: "creation"
+    status: "proposed"
+```
 
-### The Hotel Manager
 
-Generally Unseen, portrayed as a looming, intimidating figure, but never specific. More like the feeling of a hurricane
-that hasn't hit yet.
-
-### The Concierge
-
-Tim Curry-esque, very formal, very proper, somewhat menacing
-
-### The Bellboy
-
-A sycophant to the Concierge
-
-### Housekeeping
 
 A kind, androgynous individual or individuals (it's hard to tell) in hotel cleaning staff uniform. They may offer to
 clean something for the party, removing it's magical effects (curse or blessing) and returning a mundane object after a

@@ -17,7 +17,7 @@ data:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/Session 2/Scenes/Dovid's Entrance.md|]]
+[[Dovid's Entrance]]
 [[Kesi's Briefing]]
-[[Campaigns/Infinite Dungeon/02. Sessions/Session 2/Scenes/Returning to the Chamber of the Ushabti and Sleeper.md|]]
+[[Returning to the Chamber of the Ushabti and Sleeper]]
 [[Campaigns/Infinite Dungeon/08. Player Characters/Dovid.md|]]

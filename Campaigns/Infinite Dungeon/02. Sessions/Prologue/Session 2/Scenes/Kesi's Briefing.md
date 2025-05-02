@@ -49,7 +49,7 @@ Kesi will also introduce the mechanic of the **four scepters**:
 id: 
   type: "scene"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/02. Sessions/Session 2/Session 2 - Serketraj, Dovid, and the Hold Person from Hell.md"
+  parent: "Campaigns/Infinite Dungeon/02. Sessions/Prologue/Session 2/Session 2 - Serketraj, Dovid, and the Hold Person from Hell.md"
   positionInParent: 3
 tasks: 
   - id: "b83ad148-8563-4677-92ea-4582d59ad320"
@@ -81,4 +81,4 @@ data:
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 
-[[Campaigns/Infinite Dungeon/02. Sessions/Session 2/Session 2 - Serketraj, Dovid, and the Hold Person from Hell.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/Prologue/Session 2/Session 2 - Serketraj, Dovid, and the Hold Person from Hell.md|]]

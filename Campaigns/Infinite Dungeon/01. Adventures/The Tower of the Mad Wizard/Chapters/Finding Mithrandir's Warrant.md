@@ -43,7 +43,7 @@ data:
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Odesa.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Mithrandir.md|]]
-[[Upper Carpathia.md|]]
+[[Upper Carpathia]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Nikolai Ivanovich Lobachevsky.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/The Pleasantly Finite.md|]]
 
