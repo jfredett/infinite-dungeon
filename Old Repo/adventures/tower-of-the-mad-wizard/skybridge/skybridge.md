@@ -20,10 +20,8 @@ location, though any unrecoverable notes are taken to the Stygian Library where 
 
 Players can control an aspect of each of the three fights indirectly. They can de-activate the ornithopters, making the
 `Refuel` phase not work at all, the IM won't ever use it. They can also activate the spiders, skipping the spider fight
-entirely. Finally, they can disable the Flame Geist's fuel line, completely negating the rest of the dungeon and
-allowing free loot of the IM with no risk to the structure. This permanently closes this section of the ID when the
-players leave, and the door not longer appears in whatever [[Hilbert's Hallway]] it appeared in. It may _generate again_
-randomly during exploration.
+entirely. Finally, they can ultimately gain full control of the facility, completely negating the rest of the dungeon and
+allowing free loot of the IM with no risk to the structure. This enables the Mythic version of the encounter.
 
 ### Around the Ring
 

@@ -15,6 +15,18 @@ Raids generally have around four flavors, using [[The Infernal Machine]] raid as
 3. Heroic -- A souped up version of the above, add more mechanics, increase damage output, increase health.
 4. Mythic -- Absolutely unfair mechanics, death a certainty, tpk likely, overtune everything. Beating this -- even
    surviving it -- is an act of unbelievable fame.
+# Requirements
+
+Raids may have _requirements_ to enter various stages, they come in several standard flavors and whatever else your GM decides
+## Simple Completion Requirements
+
+These are any 'defeat X prior' type requirements, e.g., "Defeat the previous difficulty level" or "Be level 10" or whatever.
+## Order-Fame
+
+Some raids are unavailable until some amount of fame has been spent on the PC's [[Orders]], the fame is per player, but the total is per-party, so if a dungeon requires 75m of fame, that's 5 15m-orders, or 2 ~40m orders.
+## Character-Fame
+
+Similar to Order-Fame, this is Fame _currently acquired by the PC_, if you don't have sufficient Fame to meet the minimum, the _character_ is not allowed in. So a 15m requirement means the character must have 15m of unspent fame before entering.
 
 ```RpgManager4
 id: 
@@ -29,3 +41,7 @@ tasks:
     status: "proposed"
 ```
 Higher levels of raids generally require some amount of invested [[Fame]] or other narrative requirements if a raid is part of a larger adventure, this can be used to manage pace. As always, ignore rules you don't like.
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/The Infernal Machine.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/Fame.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/Orders.md|]]
