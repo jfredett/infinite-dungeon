@@ -143,7 +143,10 @@ legendary_actions:
 
 ```
 
-- Firebolts on after each PC's turn, targets the player who moved last
+
+## Strategy
+
+- Firebolts on after each PC's turn, target is random
 
 ## Scythe Movement:
 
@@ -206,9 +209,18 @@ legendary_actions:
 
 ```
 
+## Strategy
+
+- Two Firebolts on after each PC's turn, targets are random
 ## Scythe Movement:
 
 As in Heroic, but DC13 and 1d4-1 turns.
+
+
+----
+
+
+
 ```RpgManager4
 id: 
   type: "monster"
@@ -220,4 +232,8 @@ tasks:
     description: "Complete Monster Flamespew"
     type: "creation"
     status: "proposed"
+data: 
+  description: "A tall, spindly, whirling flame coallesces out of various outlets in the floor of the room, finally conjoining into a\nwhite-hot flame elemental in the middle of the room. It swings a long hooked lash of flame and smoke around the room and\nover your heads, scything the air and leaving the stink of fuel and flame in your nose."
 ```
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]

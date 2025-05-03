@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "eeb406382b7f426e",
+        "id": "a032588c419d1bad",
         "type": "tabs",
         "children": [
           {
-            "id": "018a1660e2695d1a",
+            "id": "a665710d12b7c2ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,26 +19,6 @@
               },
               "icon": "lucide-file",
               "title": "Flamespew"
-            }
-          }
-        ]
-      },
-      {
-        "id": "8a434c04a566bdd7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "31c84b35dd0f64ab",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Infinite Dungeon/08. Player Characters/Gen 0/D3-VAR.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "D3-VAR"
             }
           }
         ]
@@ -162,23 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/Infinite Dungeon.md",
+                "file": "Campaigns/Infinite Dungeon/11. Monsters/Flamespew.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Infinite Dungeon"
-            }
-          },
-          {
-            "id": "a87af074a151ccc8",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Flamespew"
             }
           },
           {
@@ -200,9 +170,19 @@
               "icon": "dices",
               "title": "Dice Tray"
             }
+          },
+          {
+            "id": "9b205d3a5b3ab092",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       },
       {
         "id": "e2c54735a63075fd",
@@ -222,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 430.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -241,19 +221,21 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "018a1660e2695d1a",
+  "active": "a665710d12b7c2ce",
   "lastOpenFiles": [
+    "Old Repo/adventures/tower-of-the-mad-wizard/flamespew/flamespew.md",
+    "Campaigns/Infinite Dungeon/11. Monsters/Flamespew.md",
+    "Campaigns/Infinite Dungeon/05. Locations/The Infernal Machine/Flamespew's Chamber.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hotel.md",
+    "Old Repo/adventures/tower-of-the-mad-wizard/flamespew/stat-block.md",
     "Campaigns/Infinite Dungeon/08. Player Characters/Gen 0/D3-VAR.md",
     "Campaigns/Infinite Dungeon/08. Player Characters/Gen 0/Dovid.md",
     "Campaigns/Infinite Dungeon/08. Player Characters/Gen 0",
     "Campaigns/Infinite Dungeon/09. Subplots/The Big Idea.md",
-    "Campaigns/Infinite Dungeon/11. Monsters/Flamespew.md",
     "Old Repo/infinite-dungeon/resources/resources.md",
     "Campaigns/Infinite Dungeon/09. Subplots/Loot Distribution.md",
     "Old Repo/infinite-dungeon/resources/items-and-equipment.md",
     "Old Repo/adventures/tower-of-the-mad-wizard/loot-tables.md",
-    "Old Repo/adventures/tower-of-the-mad-wizard/flamespew/stat-block.md",
-    "Campaigns/Infinite Dungeon/05. Locations/The Infernal Machine/Flamespew.md",
     "Campaigns/Infinite Dungeon/05. Locations/The Infernal Machine/Infernal Machine.md",
     "Campaigns/Infinite Dungeon/11. Monsters",
     "Old Repo/adventures/tower-of-the-mad-wizard/infernal-machine/infernal-machine.md",
@@ -270,8 +252,6 @@
     "Old Repo/infinite-dungeon/resources/fame.md",
     "Campaigns/Infinite Dungeon/09. Subplots/Condition Die.md",
     "Old Repo/infinite-dungeon/resources/condition-die.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/Ducats.md",
-    "Old Repo/infinite-dungeon/resources/coin.md",
     "Campaigns/Infinite Dungeon/01. Adventures/The Weather Machine",
     "Campaigns/Infinite Dungeon/09. Subplots",
     "Assets/FameVesperDucats-v0.1.pdf",
