@@ -176,3 +176,15 @@ d20 chain on 2- time to fully degrade (95, 80, 50)
 
 
 
+```RpgManager4
+id: 
+  type: "subplot"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+tasks: 
+  - id: "ed7b20c1-a1bf-4838-8f32-7abbf71eed09"
+    priority: 1
+    name: "Complete Subplot"
+    description: "Complete Subplot Condition Die"
+    type: "creation"
+    status: "proposed"
+```

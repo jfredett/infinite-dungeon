@@ -1,3 +1,17 @@
+
+```RpgManager4
+id: 
+  type: "subplot"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+tasks: 
+  - id: "61fdcd86-0fd2-4213-a52d-5957bd0a23cb"
+    priority: 1
+    name: "Complete Subplot"
+    description: "Complete Subplot Traits"
+    type: "creation"
+    status: "proposed"
+```
+
 A trait is a property of a clan which specifies additional properties in-game or at character creation time.
 
 Traits are limited by a few factors:

@@ -22,6 +22,18 @@ someone is doing magic.
 For Magic users, there is an understanding that while the process of returning these empties is 'required', no one
 polices the practice. However, it does have the benefit for some retired or otherwise generally passive magic users to
 interact with society at large and acts as something of a check on their power, as their often vast fortunes are tied up
-in what is techinically insolvent money.
+in what is technically insolvent money.
 
 No one bothers to press the issue as the result would certainly involve some very dangerous fireworks.
+```RpgManager4
+id: 
+  type: "subplot"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+tasks: 
+  - id: "14c32ebe-b126-473c-9739-25faa91b5c95"
+    priority: 1
+    name: "Complete Subplot"
+    description: "Complete Subplot Ducats"
+    type: "creation"
+    status: "proposed"
+```

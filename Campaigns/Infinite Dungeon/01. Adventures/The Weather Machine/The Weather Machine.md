@@ -1,3 +1,25 @@
+
+```ad-note
+
+WIP
+
+```
+
+```RpgManager4
+id: 
+  type: "adventure"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+  parent: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+  positionInParent: 3
+tasks: 
+  - id: "4a89d169-5a42-4f4c-a76d-d12f70f65c2d"
+    priority: 1
+    name: "Complete Adventure"
+    description: "Complete Adventure The Weather Machine"
+    type: "creation"
+    status: "proposed"
+```
+
 I want to imagine this as a kind of 'depth-crawl' -- The man shows up with his weather engine and he's powering it with
 the souls of children or whatever, he's making farmers rich, and funding schools and churches and picnics and whatever.
 Everyone the party runs into seems to love the guy; he's squeaky clean.
@@ -138,7 +160,7 @@ The players can:
     - Trying to inspect the device
     - Trying to talk to the Jon (they don't know his name yet, but it's easy to learn)
     - Trying to set an appointment
-2. Go Back
+3. Go Back
     - Run into Mrs. Cavagnor, who is distraught about her missing son.
     - Run into Mr. Cavagnor, who is drinking midday, counting coins and looking stressed.
     - Run into Father Peter, who is talking with some construction worker about the work to be done on the parish's
@@ -184,3 +206,17 @@ mod justice, Jon escapes, and nobody ever finds Whit.
 ### Ending Bonus, Catch A.D.'s complicity
 
 ### Ending Bonus, Catch Mises' frameup of Father Peter
+```RpgManager4
+id: 
+  type: "adventure"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+  parent: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+  positionInParent: 3
+tasks: 
+  - id: "d598c20d-1289-4d80-8a64-c674c724ddcf"
+    priority: 1
+    name: "Complete Adventure"
+    description: "Complete Adventure The Weather Machine"
+    type: "creation"
+    status: "proposed"
+```
