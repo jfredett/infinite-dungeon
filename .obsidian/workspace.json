@@ -11,14 +11,10 @@
             "id": "a665710d12b7c2ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Infinite Dungeon/11. Monsters/Flamespew.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Flamespew"
+              "title": "New tab"
             }
           }
         ]
@@ -142,13 +138,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/11. Monsters/Flamespew.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Flamespew"
+              "title": "Outline"
             }
           },
           {
@@ -221,10 +216,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "a665710d12b7c2ce",
+  "active": "9b205d3a5b3ab092",
   "lastOpenFiles": [
-    "Old Repo/adventures/tower-of-the-mad-wizard/flamespew/flamespew.md",
+    "Old Repo/infinite-dungeon/clans/traits-old.md",
+    "Old Repo/infinite-dungeon/clans/saving-death-points.md",
     "Campaigns/Infinite Dungeon/11. Monsters/Flamespew.md",
+    "Old Repo/adventures/tower-of-the-mad-wizard/flamespew/flamespew.md",
     "Campaigns/Infinite Dungeon/05. Locations/The Infernal Machine/Flamespew's Chamber.md",
     "Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hotel.md",
     "Old Repo/adventures/tower-of-the-mad-wizard/flamespew/stat-block.md",
@@ -250,8 +247,6 @@
     "Campaigns/Infinite Dungeon/09. Subplots/Vesper.md",
     "Old Repo/infinite-dungeon/resources/vesper.md",
     "Old Repo/infinite-dungeon/resources/fame.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/Condition Die.md",
-    "Old Repo/infinite-dungeon/resources/condition-die.md",
     "Campaigns/Infinite Dungeon/01. Adventures/The Weather Machine",
     "Campaigns/Infinite Dungeon/09. Subplots",
     "Assets/FameVesperDucats-v0.1.pdf",
