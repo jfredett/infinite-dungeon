@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Old Repo/infinite-dungeon/resources/resources.md",
+                "file": "Campaigns/Infinite Dungeon/09. Subplots/The Big Idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "resources"
+              "title": "The Big Idea"
             }
           }
         ]
@@ -241,11 +241,12 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "a87af074a151ccc8",
+  "active": "018a1660e2695d1a",
   "lastOpenFiles": [
-    "Campaigns/Infinite Dungeon/09. Subplots/Loot Distribution.md",
-    "Campaigns/Infinite Dungeon/11. Monsters/Flamespew.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/The Big Idea.md",
     "Old Repo/infinite-dungeon/resources/resources.md",
+    "Campaigns/Infinite Dungeon/11. Monsters/Flamespew.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/Loot Distribution.md",
     "Old Repo/infinite-dungeon/resources/items-and-equipment.md",
     "Old Repo/adventures/tower-of-the-mad-wizard/loot-tables.md",
     "Old Repo/adventures/tower-of-the-mad-wizard/flamespew/stat-block.md",
@@ -270,7 +271,6 @@
     "Old Repo/infinite-dungeon/resources/coin.md",
     "Old Repo/infinite-dungeon/depth/rooms.md",
     "Old Repo/infinite-dungeon/guilds/guilds.md",
-    "Old Repo/infinite-dungeon/hexcrawl/iskavi.md",
     "Campaigns/Infinite Dungeon/01. Adventures/The Weather Machine",
     "Campaigns/Infinite Dungeon/09. Subplots",
     "Assets/FameVesperDucats-v0.1.pdf",

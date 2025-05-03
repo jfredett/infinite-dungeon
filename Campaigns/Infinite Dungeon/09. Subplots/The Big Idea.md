@@ -11,6 +11,12 @@ The goal is fundamentally this:
 
 Or, more succinctly, turn every character into a pinata the player really wants to break open.
 
+Consider 5e, which excellently mechanizes combat to the point that it isn't necessary to really think about it. The goal of ID is, on some level, to do the same with loot and rewards. This involves taking over several systems:
+
+1. Inventory Management
+2. Level Progression and Character Creation
+3. Background/Downtime Projects
+
 ```RpgManager4
 id: 
   type: "subplot"
