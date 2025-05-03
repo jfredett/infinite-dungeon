@@ -4,8 +4,9 @@
   "dataview",
   "obsidian-excalidraw-plugin",
   "table-editor-obsidian",
-  "statblock-sidekick",
   "rpg-manager",
   "novel-word-count",
-  "obsidian-admonition"
+  "obsidian-admonition",
+  "obsidian-5e-statblocks",
+  "obsidian-dice-roller"
 ]
