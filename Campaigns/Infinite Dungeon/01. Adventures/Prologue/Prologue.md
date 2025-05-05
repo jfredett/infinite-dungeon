@@ -20,7 +20,7 @@ tasks:
     description: 
     status: "incomplete"
     type: "custom"
-    mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md","Campaigns/Infinite Dungeon/10. Objects/The Scepters.md"]
+    mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md","Campaigns/Infinite Dungeon/10. Objects/Demon Queen/The Scepters.md"]
   - id: "96075a09-a35d-43e1-ad5a-6a5596d34b08"
     priority: 2
     name: "Defeat Neheb-khalet"
