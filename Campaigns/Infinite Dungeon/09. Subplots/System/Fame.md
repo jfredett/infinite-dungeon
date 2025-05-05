@@ -21,4 +21,11 @@ When players spend Fame, it's not destroyed, it goes into the GM's Fame pool, fr
 How precisely that is going to work is in progress
 ```
 
-A primary way the GM will spend fame is upgrading [[Raid|Raids]], most raids will tell you how much Fame is needed to unlock a new upgrade. Usually this will come with narrative events that should occur to indicate that it's happening. GMs can also use Fame to upgrade or level up NPCs, Villains, their holdings or hideouts, or to progress their own [[Projects]] more generally.
+A primary way the GM will spend fame is upgrading [[Campaigns/Infinite Dungeon/09. Subplots/System/Raid|Raids]], most raids will tell you how much Fame is needed to unlock a new upgrade. Usually this will come with narrative events that should occur to indicate that it's happening. GMs can also use Fame to upgrade or level up NPCs, Villains, their holdings or hideouts, or to progress their own [[Projects]] more generally.
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Projects.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/The Big Idea.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Introduction.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md|]]

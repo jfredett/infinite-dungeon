@@ -63,5 +63,5 @@ data:
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/10. Objects/The Scepters.md|]]
-[[The Machineworks]]
+[[Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks]]
 [[Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md|]]

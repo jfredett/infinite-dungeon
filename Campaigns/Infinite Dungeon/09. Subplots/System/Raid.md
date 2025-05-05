@@ -40,10 +40,10 @@ tasks:
     type: "creation"
     status: "proposed"
 ```
-Higher levels of raids generally require some amount of invested [[Fame]] or other narrative requirements if a raid is part of a larger adventure, this can be used to manage pace. As always, ignore rules you don't like.
+Higher levels of raids generally require some amount of invested [[Campaigns/Infinite Dungeon/09. Subplots/System/Fame]] or other narrative requirements if a raid is part of a larger adventure, this can be used to manage pace. As always, ignore rules you don't like.
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/Orders.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/Fame.md|]]
+[[Orders]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Fame]]e.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Introduction.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/The Machineworks/The Infernal Machine.md|]]
 [[Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/The Machineworks.md|]]

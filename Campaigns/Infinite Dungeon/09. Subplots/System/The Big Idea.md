@@ -5,8 +5,8 @@ This, broadly, sucks a bit. Personally, I never know quite how much is too much,
 The goal is fundamentally this:
 
 1. Make Character Generation Extremely Simple, to encourage... rapid iteration on characters
-2. When Characters Die, give the player a new resource, [[Fame]].
-3. Make other resources simpler and _diegetic_, leading too [[Ducats]] for money and [[Vesper]] for experience.
+2. When Characters Die, give the player a new resource, [[Campaigns/Infinite Dungeon/09. Subplots/System/Fame]].
+3. Make other resources simpler and _diegetic_, leading too [[Ducats]] for money and [[Campaigns/Infinite Dungeon/09. Subplots/System/Vesper]] for experience.
 4. Make lots of ways to spend the new resources to improve character generation
 
 Or, more succinctly, turn every character into a pinata the player really wants to break open.
@@ -46,7 +46,7 @@ tasks:
     status: "proposed"
 ```
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/Infinite Dungeon (System).md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/Fame.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/Ducats.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/Vesper.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Infinite Dungeon (System).md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Ducats.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Vesper.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Fame.md|]]

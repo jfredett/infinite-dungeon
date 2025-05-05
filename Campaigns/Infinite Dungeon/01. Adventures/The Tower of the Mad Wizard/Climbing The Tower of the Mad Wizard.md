@@ -11,6 +11,6 @@ data:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[The Machineworks]]
+[[Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/The Machineworks]]
 [[Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md|]]
 [[Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/"Get thee to a Library!".md|]]

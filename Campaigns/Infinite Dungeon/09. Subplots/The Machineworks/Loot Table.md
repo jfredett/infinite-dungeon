@@ -1,4 +1,9 @@
-# Loot Tables
+```ad-warning
+
+This is not really aligned with current design, needs rework.
+
+```
+
 
 Loot tables are by dungeon, all items are unidentified. A player can identify in item by expending a scroll of identify
 or casting an equivalent spell, or by dint of a downtime job. These are the only methods of identification possible.
@@ -17,17 +22,17 @@ that character, if it's less than 4, generate a 'Basic' item, if it's greater ta
 12, generate a 'Legendary' item.
 
 
- | Name                   | Qty | Restriction   | Rarity |
- | ----                   | --- | -----------   | ------ |
- | Brace of Spewing Flame | 1   | Flamespew     | Legend |
- | Precision Optics       | 2   | IM            | Mid    |
- | Laparoscope            | 1   | IM, Flamespew | Rare   |
- | Third Eye Monocle      | 1   | *             | Rare   |
- | Scholar’s Monocle      | 1   | *             | Basic  |
- | Dr'ard Hive            | 1   | *             | Mid    |
- | Fame Item              | inf | *             | Basic  |
- | XP Item                | inf | *             | Basic  |
- | Coin Item              | inf | *             | Basic  |
+| Name                   | Qty | Restriction   | Rarity |
+| ---------------------- | --- | ------------- | ------ |
+| Brace of Spewing Flame | 1   | Flamespew     | Legend |
+| Precision Optics       | 2   | IM            | Mid    |
+| Laparoscope            | 1   | IM, Flamespew | Rare   |
+| Third Eye Monocle      | 1   | *             | Rare   |
+| Scholar’s Monocle      | 1   | *             | Basic  |
+| Dr'ard Hive            | 1   | *             | Mid    |
+| Fame Item              | inf | *             | Basic  |
+| XP Item                | inf | *             | Basic  |
+| Coin Item              | inf | *             | Basic  |
 
 
 Total Fame Budget is hard to determine right now, but the players should definitely level up after the Intro, which is
@@ -137,6 +142,5 @@ Basic
 found in qtys of 2d4
 
 An improvised grenade, does 2d6 damage in a 5' radius about a point, dex save or suck
-
 
 

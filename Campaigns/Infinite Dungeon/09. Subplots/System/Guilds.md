@@ -13,3 +13,7 @@ id:
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
 tasks: []
 ```
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md|]]

@@ -1,3 +1,28 @@
+
+A raid consisting of:
+
+- [[Fuel Manifold Room]]
+- [[Loading Docks]]
+- [[Skybridge]]
+- [[The Eye]]
+- [[The Infernal Machine]]
+
+It has a [[Loot Table]]
+
+
+```RpgManager4
+id: 
+  type: "subplot"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+tasks: 
+  - id: "e24835a8-c4b5-4d7f-89f8-d3432206c4cd"
+    priority: 1
+    name: "Complete Subplot"
+    description: "Complete Subplot The Machineworks"
+    type: "creation"
+    status: "proposed"
+```
+
 # The Machineworks
 
 a 3 boss + 1 puzzle raid. Two bosses, one of spark, one of oil and coal, the final is a giant warforged engine powered

@@ -11,3 +11,7 @@ tasks:
     type: "creation"
     status: "proposed"
 ```
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/The Big Idea.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md|]]
