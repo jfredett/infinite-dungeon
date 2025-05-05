@@ -21,6 +21,8 @@ Players can generally:
     - Slot in a monster hunting module, or a simple hex crawl
     - Nik has a delivery he needs made to Matilda, the Hedge Witch across the lake.
 
+There are scenes in this session for those, but they may not get into all of them.
+
 If the players don't attempt the tower in a session, roll d20 + number of missed attempts. DC30, no natural 20s. If at any point you pass, the reward from the raid is halved, the count reset, and the clock restarted. The first time this happens, the party is informed that the so-called 'Counterparty' claims to have defeated the encounter and brought back some various machinery and such from the tower as 'proof'. The machinery is genuine, but the claims are not, they stole this from the entry area, and this is obvious when the players actually go to the Raid; as the pipes are made of iron, and not copper as they are further in.
 
 ```RpgManager4

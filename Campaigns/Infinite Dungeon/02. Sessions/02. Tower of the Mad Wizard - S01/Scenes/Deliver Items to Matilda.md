@@ -1,3 +1,5 @@
+[[Nikolai Ivanovich Lobachevsky|Nik]] has a shipment of... well he hasn't opened it and doesn't intend to based on the smell. It's for the local Hedge Witch, [[Matilda the Hedge-Witch|Maltilda]], her porters frequently refuse to deliver things to her swamp, so they leave them here and he has them sent over by adventurers for a few ducats. It's not particularly dangerous, just local fauna. The package weighs about 10kg, and must be borne by a single individual, it's on a small cart, and could be pulled by an animal.
+
 
 ```RpgManager4
 id: 
@@ -12,7 +14,11 @@ tasks:
     description: "Complete Scene Deliver Items to Matilda"
     type: "creation"
     status: "proposed"
+data: 
+  scenetype: "action"
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Nikolai Ivanovich Lobachevsky.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Matilda the Hedge-Witch.md|]]

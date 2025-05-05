@@ -11,11 +11,27 @@ The goal is fundamentally this:
 
 Or, more succinctly, turn every character into a pinata the player really wants to break open.
 
-Consider 5e, which excellently mechanizes combat to the point that it isn't necessary to really think about it. The goal of ID is, on some level, to do the same with loot and rewards. This involves taking over several systems:
+Consider 5e, which excellently mechanizes combat to the point that it isn't necessary to really think about it. The goal of ID is, on some level, to do the same with loot and rewards. This involves taking over several systems: 
 
 1. Inventory Management
 2. Level Progression and Character Creation
 3. Background/Downtime Projects
+
+The idea is to provide lots of interesting sinks for these resources, make those sinks very large, very expensive, and very attractive. In this way you really can't 'underserve' resources to the players. Orders are designed to eventually become 'too expensive' to generate characters from, upkeeps grow exponentially. The goal is to encourage players to create multiple characters across multiple orders over time. These orders remain persistent, and since Fame is accrued by the _player_ as the game goes on players can return to older orders and revisit them with new characters while allowing the fame awards to be ever increasing. This makes it so the GM only needs to control the _rate of increase_ of rewards.
+
+Basically it's introducing an inflationary economy to the traditional resource system. By controlling the rate of incoming resources, the GM can buff or nerf the players. Ideally tying the expenditure with the income means that the powerlevel will be kept constant, but if the GM wants to stick with certain orders for longer, they'll necessarily have to increase the rate at which fame is injected into the economy. Similarly if players decided to revisit older prepared content, or you want to restrict the powerlevel of the players somewhat because things have been to easy or you need more turnover, decrease the rate of fame. The resource economy will reset itself as players spent a diminishing resource.
+
+Inflation also allows for a much easier way of quickly building nontrivial orders later -- any trait, once established, is reusable, and since the amount of fame you have grows over time, it's easy to pre-assemble different character generation procedures to generate weird characters.
+
+Ultimately I want the system to elicit these behaviors from players:
+
+1. Players should be excited to retire characters in spectacular ways.
+2. Players should be comfortable switching characters/running multiple characters
+3. Players should be managing a couple orders at a time, and eventually have a long trail of them.
+4. The game should impart the feeling of when you're a kid trying to understand a board game that's just a little too complicated for you, but you like, study the rules intently anyway, but someone accidentally mixed up like, three different rulebooks, so you're really just kind of improvising a melding of lots of different rules you only partly understand. Just a little chaotic, but still with at least some internal logic. Strange mashups should occur.
+5. Players might play each other's orders, I think that'd be cool.
+
+For GMs, Orders also provide a lot of narrative resources, an easy source of NPCs and such, and a natural way to add factions. I think it may even be interesting for GMs to have Orders where they negotiate traits in the other direction (where players have the role of GM in the negotiation and vice versa).
 
 ```RpgManager4
 id: 
@@ -29,3 +45,8 @@ tasks:
     type: "creation"
     status: "proposed"
 ```
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/Infinite Dungeon (System).md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/Fame.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/Ducats.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/Vesper.md|]]

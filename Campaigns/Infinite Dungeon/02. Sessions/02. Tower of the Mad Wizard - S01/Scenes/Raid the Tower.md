@@ -12,6 +12,9 @@ tasks:
     description: "Complete Scene Raid the Tower"
     type: "creation"
     status: "proposed"
+data: 
+  scenetype: "combat"
+  externalactions: true
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]

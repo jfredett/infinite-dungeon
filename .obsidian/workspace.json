@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/\"Get thee to a Library!\".md",
+                "file": "Campaigns/Infinite Dungeon/09. Subplots/The Big Idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "\"Get thee to a Library!\""
+              "title": "The Big Idea"
             }
           }
         ]
@@ -221,17 +221,18 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "9b205d3a5b3ab092",
+  "active": "a665710d12b7c2ce",
   "lastOpenFiles": [
-    "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/The Infernal Machine.md",
-    "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md",
-    "Campaigns/Infinite Dungeon/10. Objects/Comments on Cauchy's Rotated Reals and Applications to Algebraic Arcana.md",
-    "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Introduction.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Deliver Items to Matilda.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Raid the Tower.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Mithrandir's Warrant.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Introduction.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Deliver Items to Matilda.md",
+    "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md",
+    "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md",
+    "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/The Infernal Machine.md",
+    "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/\"Get thee to a Library!\".md",
+    "Campaigns/Infinite Dungeon/10. Objects/Comments on Cauchy's Rotated Reals and Applications to Algebraic Arcana.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard/Scenes/What.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard/Scenes",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard",
@@ -254,7 +255,6 @@
     "Campaigns/Infinite Dungeon/11. Monsters/Flamespew.md",
     "Old Repo/adventures/tower-of-the-mad-wizard/infernal-machine/stat-block.md",
     "Campaigns/Infinite Dungeon/05. Locations/The Infernal Machine/Infernal Machine Chamber.md",
-    "Old Repo/adventures/tower-of-the-mad-wizard/infernal-machine/infernal-machine.md",
     "Campaigns/Infinite Dungeon/08. Player Characters/Gen 0",
     "Campaigns/Infinite Dungeon/11. Monsters",
     "Campaigns/Infinite Dungeon/05. Locations/The Infernal Machine",
