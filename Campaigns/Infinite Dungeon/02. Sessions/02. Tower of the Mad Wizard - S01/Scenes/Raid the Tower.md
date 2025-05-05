@@ -1,3 +1,7 @@
+Players Raid the Tower, they enter [[The Machineworks]] and can explore. In Intro Mode, the [[Infernal Machine]] does not happen, but the escape sequence does, but without loot or anything players run for the door, but they are all killed. Cut to a scene with [[Nikolai Ivanovich Lobachevsky|Nik]] collecting the players' things and setting them aside in a room _filled_ with similar stuff. He smirks and goes to greet some incoming customers (the players, again) giving the same spiel as started the thing, "You you... are you going to drink or just read?" Future encounters at the Machineworks will be in 'normal' mode, and include the final fight and full sequence.
+
+Players can otherwise get to the [[Campaigns/Infinite Dungeon/05. Locations/The Machineworks/Skybridge|Skybridge]], [[Loading Docks]], and [[Fuel Manifold Room]] and engage the 'intro' mode fights for those bosses/areas
+
 
 ```RpgManager4
 id: 
@@ -19,3 +23,9 @@ data:
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md|]]
+[[Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/The Machineworks.md|]]
+[[Campaigns/Infinite Dungeon/11. Monsters/Infernal Machine.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Nikolai Ivanovich Lobachevsky.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/The Machineworks/Loading Docks.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/The Machineworks/Fuel Manifold Room.md|]]
+[[Fuel Manifold Room]]

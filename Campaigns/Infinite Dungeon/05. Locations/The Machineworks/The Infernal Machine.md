@@ -1,6 +1,6 @@
 
 
-The Infernal Machine can be activated when the players have at least defeated the 'Flame' encounter. All interaction
+The [[Infernal Machine]] can be activated when the players have at least defeated the 'Flame' encounter. All interaction
 with it's control panel is rejected prior to that. Additionally, they must activate the panel by going to the skybridge
 control room first. They can learn of a secret way that the players can know and they can use later on to bypass this if
 the players decide to farm the Raid.
@@ -119,3 +119,6 @@ tasks:
     status: "proposed"
 ```
 
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/11. Monsters/Infernal Machine.md|]]

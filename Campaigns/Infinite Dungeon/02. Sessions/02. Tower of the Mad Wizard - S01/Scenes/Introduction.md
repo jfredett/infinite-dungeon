@@ -30,7 +30,7 @@ We're going to take a slightly on-rails tour of everything, and then you will be
 Full disclosure, these characters are _designed_ not to survive. If I have not killed them by the end of the session, I have failed you, so please behave recklessly.
 ## Phases
 
-My testing is going to proceed in phases, I'll introduce a subsystem, we'll do some initial sessions with it to get familiar and kick the tires. I may tweak some stuff, and once it's settled a bit, I'll move on to the next phase where we'll add another subsystem and repeat. I'll do this till I've got everything in place, and then proceed to balance and refine.
+My testing is going to proceed in phases, I'll introduce a subsystem, we'll do some initial sessions with it to get familiar and kick the tires. I may tweak some stuff, and once it's settled a bit, I'll move on to the next phase where we'll add another subsystem and repeat. I'll do this till I've got everything in place, and then proceed to balance and refine. Periodically, you should expect some short surveys so I can gather some data about how things are going / bits you like or don't like, etc.
 
 ```RpgManager4
 id: 
