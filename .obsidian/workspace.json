@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/09. Subplots/Raid.md",
+                "file": "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/\"Get thee to a Library!\".md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Raid"
+              "title": "\"Get thee to a Library!\""
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/09. Subplots/Raid.md",
+                "file": "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - TBD/01. Prologue - S3 - TBD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Raid"
+              "title": "Outline of 01. Prologue - S3 - TBD"
             }
           },
           {
@@ -221,45 +221,45 @@
       "obsidian-5e-statblocks:Open Creature pane": false
     }
   },
-  "active": "a665710d12b7c2ce",
+  "active": "9b205d3a5b3ab092",
   "lastOpenFiles": [
-    "Campaigns/Infinite Dungeon/05. Locations/The Infernal Machine/Flamespew's Chamber.md",
-    "Old Repo/adventures/tower-of-the-mad-wizard/skybridge/skybridge.md",
-    "Old Repo/adventures/tower-of-the-mad-wizard/infernal-machine/stat-block.md",
-    "Old Repo/adventures/tower-of-the-mad-wizard/infernal-machine/infernal-machine.md",
-    "Old Repo/adventures/tower-of-the-mad-wizard/ants-go-marching/ant-machine.md",
-    "Old Repo/adventures/tower-of-the-mad-wizard/flamespew/flamespew.md",
-    "Old Repo/adventures/tower-of-the-mad-wizard/flamespew/stat-block.md",
-    "Old Repo/infinite-dungeon/clans/traits-old.md",
-    "Old Repo/infinite-dungeon/clans/saving-death-points.md",
+    "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/The Infernal Machine.md",
+    "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md",
+    "Campaigns/Infinite Dungeon/10. Objects/Comments on Cauchy's Rotated Reals and Applications to Algebraic Arcana.md",
+    "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Deliver Items to Matilda.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Raid the Tower.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Mithrandir's Warrant.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Introduction.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard/Scenes/What.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard/Scenes",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard",
+    "Campaigns/Infinite Dungeon/02. Sessions/Session 1.0 - New Beginnings/Scenes/Introduction.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - TBD/01. Prologue - S3 - TBD.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - TBD/Scenes/Fight Anubhet.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - TBD/Scenes/Fight Nehkbel.md",
+    "Campaigns/Infinite Dungeon/Infinite Dungeon.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - /Scenes/lntroduction.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - /Scenes",
+    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - ",
+    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S2 - Serketraj, Dovid, and the Hold Person from Hell/01. Prologue - S2 - Serketraj, Dovid, and the Hold Person from Hell.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/Session 1.0 - New Beginnings/Scenes",
+    "Campaigns/Infinite Dungeon/02. Sessions/Session 1.0 - New Beginnings",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Introduction To Infinite Dungeon.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S0 - Initial Encounter/01. Prologue - S0 - Initial Encounter.md",
+    "Campaigns/Infinite Dungeon/11. Monsters/Ant Worker.md",
+    "Campaigns/Infinite Dungeon/11. Monsters/Ant Soldier.md",
+    "Campaigns/Infinite Dungeon/11. Monsters/Infernal Machine.md",
     "Campaigns/Infinite Dungeon/11. Monsters/Flamespew.md",
-    "Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hotel.md",
-    "Campaigns/Infinite Dungeon/08. Player Characters/Gen 0/D3-VAR.md",
-    "Campaigns/Infinite Dungeon/08. Player Characters/Gen 0/Dovid.md",
+    "Old Repo/adventures/tower-of-the-mad-wizard/infernal-machine/stat-block.md",
+    "Campaigns/Infinite Dungeon/05. Locations/The Infernal Machine/Infernal Machine Chamber.md",
+    "Old Repo/adventures/tower-of-the-mad-wizard/infernal-machine/infernal-machine.md",
     "Campaigns/Infinite Dungeon/08. Player Characters/Gen 0",
-    "Campaigns/Infinite Dungeon/09. Subplots/The Big Idea.md",
-    "Old Repo/infinite-dungeon/resources/resources.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/Loot Distribution.md",
-    "Old Repo/infinite-dungeon/resources/items-and-equipment.md",
-    "Old Repo/adventures/tower-of-the-mad-wizard/loot-tables.md",
-    "Campaigns/Infinite Dungeon/05. Locations/The Infernal Machine/Infernal Machine.md",
     "Campaigns/Infinite Dungeon/11. Monsters",
-    "Campaigns/Infinite Dungeon/05. Locations/Pleasantly Finite.md",
-    "Old Repo/infinite-dungeon/useful-tables/combat-type-and-objective.md",
-    "Old Repo/infinite-dungeon/playtesting.md",
-    "Campaigns/Infinite Dungeon/05. Locations/The Infernal Machine/Ants-go-marching.md",
-    "Campaigns/Infinite Dungeon/05. Locations/The Infernal Machine/Skybridge.md",
     "Campaigns/Infinite Dungeon/05. Locations/The Infernal Machine",
-    "Old Repo/adventures/tower-of-the-mad-wizard/raid.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/Vesper.md",
     "Campaigns/Infinite Dungeon/01. Adventures/The Weather Machine",
-    "Campaigns/Infinite Dungeon/09. Subplots",
-    "Assets/FameVesperDucats-v0.1.pdf",
-    "Campaigns/Infinite Dungeon/02. Sessions/The Tower of the Mad Wizard",
-    "Campaigns/Infinite Dungeon/02. Sessions/Prologue",
     "Assets/iskavi.jpg",
-    "Assets/upper-carpathia.jpg",
-    "Campaigns/Infinite Dungeon/10. Objects/Letters, Postings, etc",
-    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers"
+    "Assets/upper-carpathia.jpg"
   ]
 }

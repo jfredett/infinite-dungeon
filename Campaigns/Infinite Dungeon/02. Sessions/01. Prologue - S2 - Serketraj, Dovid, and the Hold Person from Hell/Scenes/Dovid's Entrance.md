@@ -4,7 +4,7 @@
 id: 
   type: "scene"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/02. Sessions/Prologue/Session 2/Session 2 - Serketraj, Dovid, and the Hold Person from Hell.md"
+  parent: "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S2 - Serketraj, Dovid, and the Hold Person from Hell/01. Prologue - S2 - Serketraj, Dovid, and the Hold Person from Hell.md"
   positionInParent: 2
 tasks: []
 data: 

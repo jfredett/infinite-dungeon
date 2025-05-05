@@ -14,7 +14,7 @@
 id: 
   type: "scene"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/02. Sessions/Prologue/Session 3/Session 3.md"
+  parent: "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - TBD/01. Prologue - S3 - TBD.md"
   positionInParent: 1
 tasks: 
   - id: "6b790484-8286-4cf8-8822-dfd926eb9c9e"
@@ -29,4 +29,7 @@ data:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/Prologue/Session 3/Session 3.md|]]
+
+[[Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - Session 3/01. Prologue - S3 - .md|]]
+
+[[Campai[[Session 3]]

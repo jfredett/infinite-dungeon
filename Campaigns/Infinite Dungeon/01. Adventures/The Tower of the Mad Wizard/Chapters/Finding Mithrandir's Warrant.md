@@ -10,6 +10,10 @@ The tower initially had no visible entrance, and was assumed to be some sort of 
 
 This introductory chapter should be about getting the players to hexcrawl to the tower, having a small random encounter with bears or w/e along the way. They do the intro raid, die, and get their Fame bonuses.
 
+## Restrictions
+
+- Players cannot leave the Iskavi subhex.
+
 
 ```RpgManager4
 id: 
@@ -26,13 +30,19 @@ tasks:
     type: "custom"
   - id: "c2cae020-cce8-4a57-8dd9-a2f71d242343"
     priority: 1
-    name: "Deliver some stuff to Matilda for Nik"
+    name: "Delivered some stuff to Matilda for Nik"
     description: 
     status: "incomplete"
     type: "custom"
   - id: "86affea0-7c74-41fd-aa02-83be31b29945"
     priority: 1
-    name: "Defeat the 'intro' IM encounter at the tower"
+    name: "Defeated the 'intro' IM encounter at the tower"
+    description: 
+    status: "incomplete"
+    type: "custom"
+  - id: "6f8026d9-d5a3-442a-943c-8da959bb2282"
+    priority: 1
+    name: "Starter Characters died and Orders founded."
     description: 
     status: "incomplete"
     type: "custom"

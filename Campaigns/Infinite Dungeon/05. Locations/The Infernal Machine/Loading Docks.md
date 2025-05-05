@@ -1,4 +1,4 @@
-# Ants Go Marching
+# Loading Docks
 
 An open air section overlooks a massive sprawling network of pipes and widgets. These all coallesce to feed their
 contents to great machines in the middle distance. tanks to the engine in the center of the facility. Buzzing, pilotless
@@ -67,3 +67,19 @@ like golems, later like fire golems that heal from flame attacks. Relatively wea
 PC, normal 2-3, heroic 1-2, and mythic 1 should be a challenge for 1-2 players.
 
 The swarm in, at least 2 per turn on all levels, but more as the challenge increases.
+
+
+```RpgManager4
+id: 
+  type: "location"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+tasks: 
+  - id: "a5acb40c-e111-4b8e-b9f9-63ac0ee91013"
+    priority: 1
+    name: "Complete Location"
+    description: "Complete Location Ants-go-marching"
+    type: "creation"
+    status: "proposed"
+```
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]

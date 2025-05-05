@@ -1,13 +1,13 @@
 
 ```RpgManager4
 id: 
-  type: "location"
+  type: "monster"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
 tasks: 
-  - id: "a5acb40c-e111-4b8e-b9f9-63ac0ee91013"
+  - id: "eaa7f75b-b59a-414d-a479-9f12377b5294"
     priority: 1
-    name: "Complete Location"
-    description: "Complete Location Ants-go-marching"
+    name: "Complete Monster"
+    description: "Complete Monster Ant Loader"
     type: "creation"
     status: "proposed"
 ```

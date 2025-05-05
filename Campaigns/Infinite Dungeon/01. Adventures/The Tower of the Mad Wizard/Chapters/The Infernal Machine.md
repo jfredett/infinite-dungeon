@@ -2,14 +2,22 @@ At this stage the players are entering the main gameplay loop:
 
 1. Attempt the Raid
 2. Do Sidequests
-		- Both custom for Nik/Matilda as appropriate, but also insert some of the monster hunting modules?
+		- Both custom for Nik/Matilda as appropriate, but also insert some of the monster hunting modules? Maybe just have Nik or Matilda introduce them?
 3. Try to get fame and build wealth.
 
 The chapter is finished when they beat the normal mode IM encounter
 
-The aim in this chapter is to fully introduce Ynn, do some hexcrawling around UP, and start to find hints about broader themes.
+The aim in this chapter is to fully introduce Ynn, do some hexcrawling around Iskavi, and start to find hints about broader themes.
 
 Maybe introduce some building mechanics at this stage.
+
+
+This ends with [[Mithrandir]] sending the party a missive via `Sending` or whatever, and asking them to head to Odessa and retrieve a book for him, "[[Comments on Cauchy's Rotated Reals and Applications to Algebraic Arcana]]"
+
+
+# Restrictions
+
+- Players cannot leave Iskavi's hex except to faciliate a monster hunting module, they just 'travel off hex' for a while if it's inconvenient to fit in place.
 
 
 ```RpgManager4
@@ -34,6 +42,12 @@ tasks:
   - id: "ea44363c-ca65-4d48-8018-d5b728696d3c"
     priority: 1
     name: "Explore around Upper Carpathia"
+    description: 
+    status: "incomplete"
+    type: "custom"
+  - id: "afb29a23-fdfa-436d-96c9-2e4448aecb67"
+    priority: 1
+    name: "Go Monster Hunting"
     description: 
     status: "incomplete"
     type: "custom"
