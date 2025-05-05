@@ -1,4 +1,3 @@
-# Skybridge
 
 Giant bellows which have to be fixed in order to open the final door. These are only viewable through an observation and
 control room; it contains a large mechanical computer that the players can use. All instructions are written in a
@@ -23,18 +22,17 @@ Players can control an aspect of each of the three fights indirectly. They can d
 entirely. Finally, they can ultimately gain full control of the facility, completely negating the rest of the dungeon and
 allowing free loot of the IM with no risk to the structure. This enables the Mythic version of the encounter.
 
-### Around the Ring
-
-there are 4 rooms, the initial control room with the computer; then there is an Employee Break Room
-
-> You enter what appears to be some kind of break room, a few scattered round tables, simple chairs, a counter against
-> one wall with shelves, a coffee station, an icebox. The room is light with a light that feels unnatural and harsh,
-> though you can't quite tell where. The ceiling feels a little too low, it makes you feel ill-fit to the space, it's
-> quite uncomfortable to be here. On the walls are a variety of posters with 'motivational' messages, among them:
-
-![](https://i.redd.it/pmg78j8vion81.jpg)
 
 
-Then there is an "Upper Garden" -- which has a small shed with a book about the Secret Garden of Ynn.
-
-Then there is a [[depth/Room Descriptions/The Golem Factory.md]], which is an otherwise unrelated battle room.
+```RpgManager4
+id: 
+  type: "location"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+tasks: 
+  - id: "f751439d-e3f6-4ded-89bc-71313c6891d6"
+    priority: 1
+    name: "Complete Location"
+    description: "Complete Location The Eye"
+    type: "creation"
+    status: "proposed"
+```

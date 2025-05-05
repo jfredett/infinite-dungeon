@@ -27,7 +27,7 @@ Encounters here will pull from a "Reserve" from which XP, Ducats, and Fame are d
 | 20          | Splicing Vats                  |                          |
 | 21          | Garden                         |                          |
 | 23          | Cryptosleep Beds               |                          |
-| 24+         | The Eye                        |                          |
+| 24+         | [[The Eye]]                    |                          |
 
 
 | d6 + depth | Details                                 | Theme                             |
@@ -54,7 +54,7 @@ Encounters here will pull from a "Reserve" from which XP, Ducats, and Fame are d
 | 20         | A reclaimed, now manicured Garden space |                                   |
 | 21         | Converted to Lavish Quarters            | Oddly good Condition              |
 | 22         | Converted to SOTA Laboratory            |                                   |
-| +23        | The Eye                                 | Pristine                          |
+| +23        | [[The Eye]]                             | Pristine                          |
 
 
 Locations generated gain tags, tags have the following meaning
@@ -124,3 +124,4 @@ tasks:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/The Machineworks/The Eye.md|]]
