@@ -12,6 +12,8 @@ tasks:
     description: "Complete Scene Fight Anubhet"
     type: "creation"
     status: "proposed"
+data: 
+  scenetype: "combat"
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]

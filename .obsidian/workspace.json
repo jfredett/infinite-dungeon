@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/The Machineworks.md",
+                "file": "Campaigns/Infinite Dungeon/03. Non Player Characters/Matilda the Hedge-Witch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Machineworks"
+              "title": "Matilda the Hedge-Witch"
             }
           }
         ]
@@ -233,12 +233,20 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9b205d3a5b3ab092",
+  "active": "a665710d12b7c2ce",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - TBD/01. Prologue - S3 - TBD.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - TBD/Scenes/Regroup after a long rest.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - TBD/Scenes/Fight DQ.md",
+    "Campaigns/Infinite Dungeon/05. Locations/The Machineworks/The Eye.md",
+    "Campaigns/Infinite Dungeon/05. Locations/The Machineworks/Skybridge.md",
+    "Campaigns/Infinite Dungeon/05. Locations/The Machineworks/Loading Docks.md",
+    "Campaigns/Infinite Dungeon/05. Locations/The Machineworks/The Infernal Machine.md",
+    "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/The Machineworks.md",
+    "Old Repo/infinite-dungeon/conflict-resolution.md",
     "Old Repo/infinite-dungeon/depth/depth.md",
     "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/Comments on Cauchy's Rotated Reals and Applications to Algebraic Arcana.md",
     "Campaigns/Infinite Dungeon/10. Objects/Demon Queen",
-    "Old Repo/infinite-dungeon/conflict-resolution.md",
     "Old Repo/infinite-dungeon/playtesting.md",
     "Old Repo/infinite-dungeon/resources/fame.md",
     "Old Repo/infinite-dungeon/depth/rooms.md",
@@ -253,17 +261,9 @@
     "Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md",
     "Campaigns/Infinite Dungeon/09. Subplots/The Machineworks",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Condition Die.md",
-    "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/The Machineworks.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Raid the Tower.md",
     "Campaigns/Infinite Dungeon/05. Locations/Monster Break Room.md",
-    "Old Repo/infinite-dungeon/depth/room-descriptions/monster-break-room.md",
-    "Campaigns/Infinite Dungeon/05. Locations/The Machineworks/The Eye.md",
-    "Old Repo/adventures/tower-of-the-mad-wizard/skybridge/skybridge.md",
-    "Campaigns/Infinite Dungeon/05. Locations/The Machineworks/Skybridge.md",
-    "Campaigns/Infinite Dungeon/05. Locations/The Machineworks/The Infernal Machine.md",
-    "Campaigns/Infinite Dungeon/05. Locations/The Machineworks/Fuel Manifold Room.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Mithrandir's Warrant.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard/Scenes",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard",
     "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - /Scenes",
