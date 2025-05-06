@@ -7,17 +7,15 @@ At this stage the players are entering the main gameplay loop:
 
 The chapter is finished when they beat the normal mode IM encounter
 
-The aim in this chapter is to fully introduce Ynn, do some hexcrawling around Iskavi, and start to find hints about broader themes.
+The aim in this chapter is to fully introduce [[Ynn]], do some hexcrawling around [[Iskavi]], and start to find hints about broader themes.
 
 Maybe introduce some building mechanics at this stage.
 
-
 This ends with [[Mithrandir]] sending the party a missive via `Sending` or whatever, and asking them to head to Odessa and retrieve a book for him, "[[Comments on Cauchy's Rotated Reals and Applications to Algebraic Arcana]]"
-
 
 # Restrictions
 
-- Players cannot leave Iskavi's hex except to faciliate a monster hunting module, they just 'travel off hex' for a while if it's inconvenient to fit in place.
+- Players cannot leave Iskavi's hex except to facilitate a monster hunting module, they just 'travel off hex' for a while if it's inconvenient to fit in place.
 
 
 ```RpgManager4

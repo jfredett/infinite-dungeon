@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/Comments on Cauchy's Rotated Reals and Applications to Algebraic Arcana.md",
+                "file": "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/The Machineworks.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Comments on Cauchy's Rotated Reals and Applications to Algebraic Arcana"
+              "title": "The Machineworks"
             }
           }
         ]
@@ -233,10 +233,11 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5b992fd847a60ec4",
+  "active": "9b205d3a5b3ab092",
   "lastOpenFiles": [
-    "Campaigns/Infinite Dungeon/10. Objects/Demon Queen",
     "Old Repo/infinite-dungeon/depth/depth.md",
+    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/Comments on Cauchy's Rotated Reals and Applications to Algebraic Arcana.md",
+    "Campaigns/Infinite Dungeon/10. Objects/Demon Queen",
     "Old Repo/infinite-dungeon/conflict-resolution.md",
     "Old Repo/infinite-dungeon/playtesting.md",
     "Old Repo/infinite-dungeon/resources/fame.md",
@@ -270,7 +271,6 @@
     "Campaigns/Infinite Dungeon/02. Sessions/Session 1.0 - New Beginnings/Scenes",
     "Campaigns/Infinite Dungeon/02. Sessions/Session 1.0 - New Beginnings",
     "Campaigns/Infinite Dungeon/08. Player Characters/Gen 0",
-    "Campaigns/Infinite Dungeon/11. Monsters",
     "Assets/iskavi.jpg",
     "Assets/upper-carpathia.jpg"
   ]
