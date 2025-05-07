@@ -1,7 +1,7 @@
-
-[[The Concierge]]
-[[The Bellboy]]
-[[Housekeeping]]
+- [[The Hotel Manager]]
+- [[The Concierge]]
+- [[The Bellboy]]
+- [[Housekeeping]]
 
 ```RpgManager4
 id: 
@@ -36,4 +36,5 @@ tasks:
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/The Concierge.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/The Bellboy.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/Housekeeping.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/The Hotel Manager.md|]]
 [[Housekeeping]]

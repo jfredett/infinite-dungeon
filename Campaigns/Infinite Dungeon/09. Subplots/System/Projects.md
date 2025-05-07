@@ -1,4 +1,6 @@
 Players may undertake Projects, which are long term resource/time sinks that have -- you guessed it -- arbitrary effects.
+
+
 ```RpgManager4
 id: 
   type: "subplot"
@@ -11,3 +13,6 @@ tasks:
     type: "creation"
     status: "proposed"
 ```
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Fame.md|]]
