@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md",
+                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Orders"
+              "title": "Traits"
             }
           }
         ],
@@ -152,21 +152,6 @@
             }
           },
           {
-            "id": "d2acd24e3743e4cb",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - TBD/01. Prologue - S3 - TBD.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of 01. Prologue - S3 - TBD"
-            }
-          },
-          {
             "id": "5055465cf71993a9",
             "type": "leaf",
             "state": {
@@ -207,7 +192,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "e2c54735a63075fd",
@@ -222,8 +207,24 @@
               "icon": "skull",
               "title": "Combatant"
             }
+          },
+          {
+            "id": "d2acd24e3743e4cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Traits"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -250,9 +251,9 @@
   },
   "active": "bc53394e3e31ea26",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Projects.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Condition Die.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Guilds.md",
     "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - TBD/01. Prologue - S3 - TBD.md",
     "Campaigns/Infinite Dungeon/06. Factions/Eyes of Aten.md",

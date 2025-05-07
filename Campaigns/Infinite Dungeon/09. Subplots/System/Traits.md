@@ -22,6 +22,34 @@ GMs, aim to have traits start with deliberate weaknesses/guardrails, but be libe
 
 Finally, Traits may be restricted-from/apply-only-to specific systems. Traits may be wildly different across systems, again -- it's a negotiation, so work through it.
 
+## Example traits
+
+```yaml
+name: "Heirloom"
+description: |
+	For the next character generated; equip them with a simple magic item from a table approved by your GM. When they die, there is a chance (at GM discretion) the heirloom is lost. A subsequent character of this order may recover it to recieve it's benefits and half the Fame spent to create it, they are then subject to the same condition (loss on death, etc). If the item is not lost, no fame gain to the next character, but they get the weapon. If _another character_ (PC or otherwise) gets the heirloom, they do not gain the fame, but they do gain a copy of this trait to their order if they choose. If they destroy the item, they gain the fame, and this trait cannot be activated again. If you gain your vengenance, gain invested fame times the number of successful transfers to subsequent characters (by inheritance or recovery)
+cost: 15m
+activation: As described above
+restrictions: none
+chosen-item: Short Sword
+item-table: SIMPLE_MAGIC_ITEMS
+```
+
+Here I'm just inventing some extra keys to notate the specific table, this may be generic or per character.
+
+```yaml
+name: Swap Die
+description: |
+	Gain an advantage die, you may swap this die with any die of equivalent size during chargen _once_, you may take this trait multiple times. Each time you gain either one additional swap, or one additional die. Once a die has been swapped, it _may_ be swapped again, but you may not exceed the total number of swaps.
+cost: 1m, doubling per instance. (e.g., 1m + 2m + 6m for 3 instances)
+upkeep: 0m for the first three, +1m compounding thereafter
+restrictions: 
+	applies-to: 5e, OSR-stuff.
+	banned-from: Dungeon World (overpowered)
+```
+
+This is a strictly-better-than-advantage dice rolling. Since you get to choose where you use it, and you can use it to do some limited sorting (two instances is enough to turn a 3d6 from a 13 to an 18 if you're lucky). Note this doesn't affect the in-order roll component of this. The restrictions/bans here are also pretty freeform, the point isn't to be prescriptive, just to find interesting chargen mechanics; good traits should be let past an initial ban, bad ones should be restricted even if they were designed to apply. Err on the side of saying "Yes" if you can.
+
 ```RpgManager4
 id: 
   type: "subplot"
