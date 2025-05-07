@@ -168,3 +168,15 @@ option. D12 you lose that, D10 is -1 AC, -1 to hit, or -1 damage at your option,
 three again, and if you fail you lose a piece of equipment until can't lose anymore.
 
 
+```RpgManager4
+id: 
+  type: "subplot"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+tasks: 
+  - id: "4abe2ddc-551d-4ad2-94d7-3243727c9c7a"
+    priority: 1
+    name: "Complete Subplot"
+    description: "Complete Subplot Items and Equipment"
+    type: "creation"
+    status: "proposed"
+```

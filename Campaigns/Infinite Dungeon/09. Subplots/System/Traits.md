@@ -39,5 +39,5 @@ tasks:
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Infinite Dungeon (System).md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Guilds.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Introduction.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Fame.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Introduction.md|]]

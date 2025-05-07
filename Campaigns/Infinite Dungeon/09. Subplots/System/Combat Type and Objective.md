@@ -1,3 +1,4 @@
+
 # Care of "Mystic Arts" on Youtube
 
 https://www.youtube.com/@Mystic-Arts-DM
@@ -60,3 +61,15 @@ deweight the ones I run, and do nothing to ones I skip. That way if I get a weir
 only make sense in a narrow narrative space, I can eventually get a weight table which should work, and I can tie the
 seed to the hallway the players are currently in.
 
+```RpgManager4
+id: 
+  type: "subplot"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+tasks: 
+  - id: "12d76409-31c7-4ba0-9df0-853dd91273b1"
+    priority: 1
+    name: "Complete Subplot"
+    description: "Complete Subplot Combat Type and Objective"
+    type: "creation"
+    status: "proposed"
+```

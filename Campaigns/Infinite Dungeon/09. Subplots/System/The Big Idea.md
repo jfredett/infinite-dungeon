@@ -48,5 +48,3 @@ tasks:
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Infinite Dungeon (System).md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Ducats.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/System/Vesper.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/System/Fame.md|]]

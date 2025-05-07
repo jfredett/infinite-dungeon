@@ -74,12 +74,32 @@ id:
   type: "location"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
 tasks: 
-  - id: "a5acb40c-e111-4b8e-b9f9-63ac0ee91013"
+  - id: "b9a2f53d-48cd-4b7a-b886-2431e1289301"
     priority: 1
-    name: "Complete Location"
-    description: "Complete Location Ants-go-marching"
-    type: "creation"
-    status: "proposed"
+    name: "Arena Design (10')"
+    description: 
+    status: "incomplete"
+    type: "custom"
+  - id: "1a4cd9ee-053f-4d32-a0ca-9faf4d1668a6"
+    priority: 1
+    name: "Arena Design (5')"
+    description: 
+    status: "incomplete"
+    type: "custom"
+  - id: "6f554c88-3e25-4189-9821-0ca090e516e2"
+    priority: 1
+    name: "Stat Block(s)"
+    description: 
+    status: "incomplete"
+    type: "custom"
+  - id: "4f72d08c-5653-40c0-98d0-92309e6a95b7"
+    priority: 1
+    name: "Encounter Design"
+    description: 
+    status: "incomplete"
+    type: "custom"
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Raid the Tower.md|]]

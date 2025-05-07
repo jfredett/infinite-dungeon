@@ -23,10 +23,9 @@ data:
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md|]]
 [[Campaigns/Infinite Dungeon/11. Monsters/Infernal Machine.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Nikolai Ivanovich Lobachevsky.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/The Machineworks/Loading Docks.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/The Machineworks/Fuel Manifold Room.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md|]]
-[[Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/The Machineworks.md|]]
 [[Fuel Manifold Room]]

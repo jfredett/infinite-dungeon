@@ -20,8 +20,10 @@ tasks:
     status: "proposed"
 ```
 
-I want to imagine this as a kind of 'depth-crawl' -- The man shows up with his weather engine and he's powering it with
-the souls of children or whatever, he's making farmers rich, and funding schools and churches and picnics and whatever.
+I want to imagine this as a kind of point-crawl through time, where players can point crawl around a space within a specific time, then as they perform specific things, time will pass and the point crawl will change / parts of the belowdescribed tables will have items redacted/shuffled/whatever.
+
+The man shows up with his weather engine and he's powering it with the souls of children or whatever, he's making farmers rich, and funding schools and churches and picnics and whatever.
+
 Everyone the party runs into seems to love the guy; he's squeaky clean.
 
 But kids keep going missing; parents are distraught.
@@ -146,13 +148,18 @@ The whistles scream and the engine roars
 The giant device starts to spew and sputter and bright blue liquid starts to spray into the air,
 
 "Liquid ice!" the man standing by it shouts and a crack of thunder is followed by rain pouring over the town square...
-and _only_ the town square.
+and _only_ the town square. Billows of cold fog roll over the ground, and you can see the water briefly freezing on some metal surfaces before being melted again by the ambient heat.
 
 "Come, come, talk with my assistants and they will schedule _you_ for a visit from my device, our prices are quite
 reasonable, and we offer installment plans!"
 
-
 The players can:
+
+```ad-warning
+
+This was structured initially as a investigative depth crawl, but I think a point crawl makes more sense.
+
+```
 
 1. Stay
     - Staying at the town square and talking to the other onlookers
@@ -220,3 +227,5 @@ tasks:
     type: "creation"
     status: "proposed"
 ```
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]

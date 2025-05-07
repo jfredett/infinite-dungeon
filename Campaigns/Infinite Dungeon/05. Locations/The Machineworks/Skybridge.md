@@ -103,12 +103,6 @@ id:
   type: "location"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
 tasks: 
-  - id: "cb221fd6-f751-49eb-8182-47e342ccb828"
-    priority: 1
-    name: "Complete Location"
-    description: "Complete Location Skybridge"
-    type: "creation"
-    status: "proposed"
   - id: "3376dfc6-0512-4c00-a75c-11768d5a65f8"
     priority: 1
     name: "Finish Encounter Table"
@@ -121,7 +115,14 @@ tasks:
     description: 
     status: "incomplete"
     type: "custom"
+  - id: "451feb03-3108-4e91-96cc-4e68f5e416df"
+    priority: 1
+    name: "Maps?"
+    description: 
+    status: "incomplete"
+    type: "custom"
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/The Machineworks/The Eye.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md|]]

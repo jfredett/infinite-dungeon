@@ -9,22 +9,19 @@ the players decide to farm the Raid.
 
 The Infernal Machine has three modes:
 
-Mode 1: Flamespew
+## Mode 1: Turret
 
-The IM assumes the powers of the Flamespew and adopts it's abilities, but with the addition that the blade might
+The IM assumes the powers of the [[Flamespew]] and adopts similar abilities, but with the addition that the blade might
 occasionally advance by two sectors of the ring.
 
-When the Flamespew mode is active, at the end of each round, a number of chemical barrels appear. These will accumulate
-and could cause chain reactions.
+When this mode is active and the [[Loading Docks]] encounter was not completed in a way that turned off the system, at random throughout the fight a number of chemical barrels appear at random places around the arena.
+
+The arena has 16 total 'vents' scattered around divided into a left half of 6, a right half of 6, a center column of 4, and the large throne area around the IM. In this mode, the IM sits in this throne and throws firebolts and cherry bombs a la [[Flamespew]] at similar difficulty, but also after a random player's turn, as a legendary action, the vents explode like a cherry bomb. If a barrel is impacted, they also explode like a cherry bomb. Different difficulties have different sizes/effects/number of barrels.
 
 In this mode it has high saves but is weak to being extinguished. Savvy players might be able to use the environment to
 their advantage.
 
-The Flamespew stays at range, using _Flamewalk_ to blink around the arena, staying distant from the players.
-
-It does not summon any adds in this mode.
-
-Mode 2: Ant-bots
+## Mode 2: Mobile
 
 The IM spits out mechanical legs and chases the party, making devastating multiattacks. In this mode it has resistance
 to lots of things but poor saves. So it has to rely on it's legendary resistance pool to survive. Players can tax this
@@ -33,7 +30,9 @@ pool deliberately as another way to defeat the boss.
 It summons Ants from the previous section in this mode at the end of every turn, 2d4 ants flood out as a
 single unit.
 
-Mode 3: Refuel
+In lower modes, no chemical barrels, ants instead, in higher modes, barrels too, and keep the vents exploding.
+
+## Mode 3: Refuel
 
 In this mode the IM returns to the center and activates a shield that takes 2d20 + 10 attacks to destroy. It can be
 dealt 1/(number-of-cables) of it's total life by destroying any of the much weaker (100HP) cables that connect to it.
@@ -49,6 +48,12 @@ If the players manage to destroy all the cables, all the healing is lost and the
 attacks on it automatically hit and are natural crits.
 
 ### Phase 2: Rapid Unplanned Disassembly
+
+```ad-warning
+
+This phase doesn't occur in intro mode, the ceiling just collapses and kills the players.
+
+```
 
 The defeat of the machine has destablized the structure, there is a door to the north you did not previously notice, it
 is opening.
@@ -111,14 +116,32 @@ id:
   type: "location"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
 tasks: 
-  - id: "7108aaee-8975-4e98-80ce-16267c990d44"
+  - id: "4bdabfb8-b848-4a9d-a87e-99c79b43fc6c"
     priority: 1
-    name: "Complete Location"
-    description: "Complete Location Infernal Machine"
-    type: "creation"
-    status: "proposed"
+    name: "Stat block for IM"
+    description: 
+    status: "incomplete"
+    type: "custom"
+  - id: "bb618001-4083-4449-9faa-b72634d6d581"
+    priority: 1
+    name: "Map for IM"
+    description: 
+    status: "complete"
+    type: "custom"
+    completionDate: "2025-05-07T17:28:32.997Z"
+  - id: "60f525fa-348d-4958-ba7f-269b2710cc72"
+    priority: 1
+    name: "Encounter Design"
+    description: 
+    status: "incomplete"
+    type: "custom"
 ```
 
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/11. Monsters/Infernal Machine.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/The Machineworks.md|]]
+[[Campaigns/Infinite Dungeon/11. Monsters/Flamespew.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/The Machineworks/Loading Docks.md|]]
