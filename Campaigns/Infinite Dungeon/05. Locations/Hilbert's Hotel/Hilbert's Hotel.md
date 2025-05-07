@@ -34,4 +34,7 @@ data:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hallway.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hotel/Hilbert's Hallway.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hotel/Ollam's Deviantproof Doorways, Inc..md|]]
+[[Ollam's Deviantproof Doorways, Inc.]]
+[[Hilbert's Hallway]]

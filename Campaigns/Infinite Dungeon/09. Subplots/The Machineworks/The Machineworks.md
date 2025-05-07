@@ -70,3 +70,10 @@ mechanics are and how to avoid the majority of problems.
 
 If a player dies on the successful run, they should get a free trait, "Clan Martyr - <Charname>" which gives some kind
 of minor boon (maybe bonus Fame when they avenge them?)
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Fuel Manifold Room.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Loading Docks.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Skybridge.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Raid the Tower.md|]]

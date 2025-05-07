@@ -45,5 +45,5 @@ Higher levels of raids generally require some amount of invested [[Campaigns/Inf
 [[Orders]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Fame]]e.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Introduction.md|]]
-[[Campaigns/Infinite Dungeon/05. Locations/The Machineworks/The Infernal Machine.md|]]
+[[The Infernal Machine]]
 [[Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/The Machineworks.md|]]

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/Ollam.md",
+                "file": "Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hotel/Ollam's Deviantproof Doorways, Inc..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ollam"
+              "title": "Ollam's Deviantproof Doorways, Inc."
             }
           }
         ],
@@ -248,11 +248,24 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9b205d3a5b3ab092",
+  "active": "5b992fd847a60ec4",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard",
+    "Campaigns/Infinite Dungeon/05. Locations/Demon Queen",
+    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/Monster Break Room.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hotel/Hilbert's Hallway.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hotel",
+    "Assets/infernal-machine-lair.jpg",
+    "Assets/infernal-machine-lair.jpg",
+    "Assets/boss monster.jpg",
+    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Skybridge.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Loading Docks.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Fuel Manifold Room.md",
+    "Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/Ollam.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/The Bellboy.md",
-    "Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/Ollam.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/Housekeeping.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Combat Type and Objective.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel",
@@ -264,28 +277,18 @@
     "Old Repo/infinite-dungeon/resources/resources.md",
     "Campaigns/Infinite Dungeon/05. Locations/Disorganized Rooms/down.md",
     "Old Repo/infinite-dungeon/depth/depth.md",
-    "Campaigns/Infinite Dungeon/05. Locations/The Machineworks/The Infernal Machine.md",
     "Campaigns/Infinite Dungeon/05. Locations/Disorganized Rooms",
-    "Campaigns/Infinite Dungeon/05. Locations/The Machineworks/The Eye.md",
-    "Campaigns/Infinite Dungeon/05. Locations/The Machineworks/Loading Docks.md",
-    "Campaigns/Infinite Dungeon/05. Locations/The Machineworks.md",
-    "Campaigns/Infinite Dungeon/05. Locations/The Machineworks/Fuel Manifold Room.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks.md",
     "Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md",
-    "Campaigns/Infinite Dungeon/05. Locations/The Machineworks/Skybridge.md",
     "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md",
     "Campaigns/Infinite Dungeon/01. Adventures/The Weather Machine/The Weather Machine.md",
     "Campaigns/Infinite Dungeon/05. Locations/Disorganized Rooms/the-one-with-the-improv-scene.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md",
-    "Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Matilda the Hedge-Witch.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - TBD/01. Prologue - S3 - TBD.md",
     "Campaigns/Infinite Dungeon/10. Objects/Demon Queen",
     "Campaigns/Infinite Dungeon/09. Subplots/The Machineworks",
     "Campaigns/Infinite Dungeon/09. Subplots/System",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard/Scenes",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard",
-    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - /Scenes",
-    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - ",
-    "Campaigns/Infinite Dungeon/02. Sessions/Session 1.0 - New Beginnings/Scenes",
     "Assets/iskavi.jpg",
     "Assets/upper-carpathia.jpg"
   ]

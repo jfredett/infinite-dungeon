@@ -24,5 +24,5 @@ to the Head Office, and from there to the C-Suite, which is where the C-Suite ha
 office there (which is in the Janitor closet) is a final door that leads to a small lab where [[Ollam]] works.
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hotel.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hotel/Hilbert's Hotel.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/Ollam.md|]]

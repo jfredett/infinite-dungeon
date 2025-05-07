@@ -50,4 +50,5 @@ tasks:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hotel.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hotel/Hilbert's Hotel.md|]]
+[[Hilbert's Hotel]]
