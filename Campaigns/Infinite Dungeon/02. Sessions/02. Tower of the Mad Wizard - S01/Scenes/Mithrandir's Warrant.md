@@ -17,9 +17,10 @@ Players can generally:
     - Tips the players to the [[The Secret Garden of Ynn]]
 3. Ask Nik about something
     - See below for details, Nik is most likely who they will ask general setting questions
-4. Explore other known areas for random encounters, local quests, etc. These offer no Fame, but do pay Gold and Vesper
+4. Explore other known areas for random encounters, local quests, etc. These offer minimal Fame, but do pay Gold and Vesper
     - Slot in a monster hunting module, or a simple hex crawl
-    - Nik has a delivery he needs made to Matilda, the Hedge Witch across the lake.
+    - Nik has a delivery he needs made to [[Matilda the Hedge-Witch]] across the lake. [[Deliver Items to Matilda]]
+    - Nik points out [[Threeflower]] and mentions he had come in a week or two ago with some others, but he hasn't seen them in a while.
 
 There are scenes in this session for those, but they may not get into all of them.
 
@@ -39,3 +40,6 @@ data:
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/The Secret Garden of Ynn.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Deliver Items to Matilda.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Matilda the Hedge-Witch.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Threeflower.md|]]

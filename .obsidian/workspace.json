@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Mithrandir's Warrant.md",
+                "file": "Campaigns/Infinite Dungeon/05. Locations/Lut's Tavern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mithrandir's Warrant"
+              "title": "Lut's Tavern"
             }
           }
         ],
@@ -214,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Mithrandir's Warrant.md",
+                "file": "Campaigns/Infinite Dungeon/05. Locations/Lut's Tavern.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mithrandir's Warrant"
+              "title": "Outline of Lut's Tavern"
             }
           }
         ],
@@ -249,8 +249,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "bc53394e3e31ea26",
+  "active": "9b205d3a5b3ab092",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Mithrandir's Warrant.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Lut's Tavern.md",
+    "Campaigns/Infinite Dungeon/03. Non Player Characters/Threeflower.md",
+    "Matilda, the Hedge Witch.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Introduction.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Discover the Counterparty.md",
@@ -279,11 +283,7 @@
     "Assets/boss monster.jpg",
     "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md",
     "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Skybridge.md",
-    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Loading Docks.md",
-    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Fuel Manifold Room.md",
-    "Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/Ollam.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi",
-    "Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/The Bellboy.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel",
     "Campaigns/Infinite Dungeon/05. Locations/Disorganized Rooms",
     "Campaigns/Infinite Dungeon/10. Objects/Demon Queen",
