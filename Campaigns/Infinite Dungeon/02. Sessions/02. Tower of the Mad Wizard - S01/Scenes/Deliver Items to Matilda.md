@@ -20,5 +20,6 @@ data:
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md|]]
-[[Campaigns/Infinite Dungeon/03. Non Player Characters/Nikolai Ivanovich Lobachevsky.md|]]
-[[Campaigns/Infinite Dungeon/03. Non Player Characters/Matilda the Hedge-Witch.md|]]
+[[Nikolai Ivanovich Lobachevsky]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Matilda the Hedge-Witch.md|]]
+[[Matilda the Hedge-Witch]]

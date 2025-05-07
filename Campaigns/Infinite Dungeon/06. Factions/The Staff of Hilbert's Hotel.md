@@ -31,3 +31,9 @@ tasks:
     type: "creation"
     status: "proposed"
 ```
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/The Concierge.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/The Bellboy.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/Housekeeping.md|]]
+[[Housekeeping]]

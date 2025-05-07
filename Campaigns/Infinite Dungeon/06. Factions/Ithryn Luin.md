@@ -33,3 +33,8 @@ id:
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
 tasks: []
 ```
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Southron University of the Arcane Arts.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Mithrandir.md|]]
+[[Mithrandir]]

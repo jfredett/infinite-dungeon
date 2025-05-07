@@ -19,5 +19,5 @@ data:
 
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/03. Non Player Characters/Matilda the Hedge-Witch.md|]]
+[[Matilda the Hedge-Witch]]
 [[Campaigns/Infinite Dungeon/05. Locations/Upper Carpathia.md|]]

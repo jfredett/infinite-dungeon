@@ -22,3 +22,7 @@ of them will greet the players slightly before they're ready.
 The store is a brick and mortar for Ollam's Deviantproof Doorways, Inc. In the back there is another doorway that leads
 to the Head Office, and from there to the C-Suite, which is where the C-Suite have there offices, and from Ollam's
 office there (which is in the Janitor closet) is a final door that leads to a small lab where [[Ollam]] works.
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hotel.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/Ollam.md|]]
