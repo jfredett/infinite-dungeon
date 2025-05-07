@@ -22,7 +22,7 @@ This ends with [[Mithrandir]] sending the party a missive via `Sending` or whate
 id: 
   type: "chapter"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md"
+  parent: "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md"
   positionInParent: 2
 tasks: 
   - id: "3c131331-07bf-4622-8c6a-21067db39f3f"

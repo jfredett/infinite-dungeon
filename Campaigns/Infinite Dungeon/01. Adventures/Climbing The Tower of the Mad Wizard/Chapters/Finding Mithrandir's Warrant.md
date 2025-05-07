@@ -19,7 +19,7 @@ This introductory chapter should be about getting the players to hexcrawl to the
 id: 
   type: "chapter"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md"
+  parent: "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md"
   positionInParent: 1
 tasks: 
   - id: "949cff71-26ca-4a06-9e52-aee9f44bd993"
@@ -55,6 +55,4 @@ data:
 [[Mithrandir]]
 [[Upper Carpathia]]
 [[Nikolai Ivanovich Lobachevsky]]
-[[Campaigns/Infinite Dungeon/05. Locations/The Pleasantly Finite.md|]]
-
-[[Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/The Pleasantly Finit[[Climbing The Tower of the Mad Wizard]]ard.md|]]

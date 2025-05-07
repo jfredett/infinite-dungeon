@@ -21,4 +21,6 @@ images:
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Odesa.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Iskavi.md|]]
-[[Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md|]]
+[[Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md|]]
+[[Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/"Get thee to a Library!".md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Lut's Tavern.md|]]

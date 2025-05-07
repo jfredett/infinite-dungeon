@@ -9,7 +9,7 @@ Goal is to change things up by pointing to the Stygian Library and a broader hex
 id: 
   type: "chapter"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/01. Adventures/The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md"
+  parent: "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md"
   positionInParent: 3
 tasks: []
 data: 

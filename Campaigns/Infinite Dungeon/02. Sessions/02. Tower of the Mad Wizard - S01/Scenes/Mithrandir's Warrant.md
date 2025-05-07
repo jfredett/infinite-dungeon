@@ -6,7 +6,7 @@ Nik interrupts the party as they read, "You, you, you want drink or just read? N
 Nik is there to answer questions, he mentions at least:
 
 1. That the notice is old, a way to enter the Tower is just up the road, Nik really lucked out on the placement. The PF was struggling before. The Counterparty found it and are a little bit lauded, but Nik lucked out because he happened to be one of the closest entrepreneurial innkeeps that has set up shop here recently.
-2. Mention Matilda, who knows more about how the tower entrance works. Nik just knows how to get there, but doesn't have any intention of going himself.
+2. Mention [[Matilda the Hedge-Witch]], who knows more about how the tower entrance works. Nik just knows how to get there, but doesn't have any intention of going himself.
 3. Nik offers free room and board to the players, on the condition that he gets to keep their stuff if they don't come back. He shows a contract that allows for a next of kin to claim half of the value in gold and vesper so long as they show up within 30 calendar days. Nik complains that the damn government made him add that clause, Nik does not like the government.
 
 Players can generally:
