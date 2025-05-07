@@ -21,6 +21,7 @@ Players can generally:
     - Slot in a monster hunting module, or a simple hex crawl
     - Nik has a delivery he needs made to [[Matilda the Hedge-Witch]] across the lake. [[Deliver Items to Matilda]]
     - Nik points out [[Threeflower]] and mentions he had come in a week or two ago with some others, but he hasn't seen them in a while.
+    - He finally notes that there is plenty of good hunting in the area and somewhat less intrepid characters might make a good living hunting and selling rations to other adventurers.
 
 There are scenes in this session for those, but they may not get into all of them.
 
@@ -39,7 +40,7 @@ data:
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Matilda the Hedge-Witch.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/The Secret Garden of Ynn.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Deliver Items to Matilda.md|]]
-[[Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Matilda the Hedge-Witch.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Threeflower.md|]]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/09. Subplots/Hexcrawling.md",
+                "file": "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Mithrandir's Warrant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Hexcrawling"
+              "title": "Mithrandir's Warrant"
             }
           }
         ]
@@ -199,13 +199,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/09. Subplots/Hexcrawling.md",
+                "file": "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Mithrandir's Warrant.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Hexcrawling"
+              "title": "Outline of Mithrandir's Warrant"
             }
           }
         ],
@@ -236,20 +236,23 @@
   },
   "active": "9b205d3a5b3ab092",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Introduction.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md",
+    "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md",
+    "Hexcrawl.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/Hexcrawling.md",
+    "Campaigns/Infinite Dungeon/Infinite Dungeon.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Random Encounters.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Hexcrawling.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/The Shining Shrine.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/Housekeeping.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/Hunting the Sun.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Mithrandir's Warrant.md",
-    "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md",
     "Campaigns/Infinite Dungeon/05. Locations/Lut's Tavern.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Threeflower.md",
     "Matilda, the Hedge Witch.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Introduction.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Discover the Counterparty.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md",
@@ -261,9 +264,6 @@
     "Campaigns/Infinite Dungeon/06. Factions/Ithryn Luin.md",
     "Campaigns/Infinite Dungeon/06. Factions/The Counterparty.md",
     "Campaigns/Infinite Dungeon/06. Factions/The Editing Staff.md",
-    "Campaigns/Infinite Dungeon/06. Factions/The Staff of Hilbert's Hotel.md",
-    "Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hotel/Hilbert's Hotel.md",
-    "Systems/04. Fame, Vesper, and Ducats/Overview.md",
     "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard",
     "Campaigns/Infinite Dungeon/05. Locations/Demon Queen",
     "Campaigns/Infinite Dungeon/05. Locations/Hilbert's Hotel",

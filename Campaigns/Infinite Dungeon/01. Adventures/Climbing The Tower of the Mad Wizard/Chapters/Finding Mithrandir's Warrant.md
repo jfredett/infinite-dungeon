@@ -8,7 +8,7 @@ This warrant has already been fulfilled by the time the player's see it at the [
 
 The tower initially had no visible entrance, and was assumed to be some sort of extraplanar entity. For months, no one knew how to enter, but the strange sight attracted scholar's, intellectuals, adventurers, and entrepreneurs to the site. Including on [[Nikolai Ivanovich Lobachevsky]], or Nik for short. Nik is the proprietor of [[The Pleasantly Finite]] Tavern and Inn; one of the more popular of the many entrepreneurial encampments near the tower, and definitely the closest.
 
-This introductory chapter should be about getting the players to hexcrawl to the tower, having a small random encounter with bears or w/e along the way. They do the intro raid, die, and get their Fame bonuses.
+This introductory chapter should be about getting the players to [[Hexcrawling|Hexcrawl]] to the tower, having a small random encounter with bears or w/e along the way. They do the intro raid, die, and get their Fame bonuses.
 
 ## Restrictions
 
