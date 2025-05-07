@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md",
+                "file": "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Mithrandir's Warrant.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Traits"
+              "title": "Mithrandir's Warrant"
             }
           }
         ],
@@ -214,13 +214,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md",
+                "file": "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Mithrandir's Warrant.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Traits"
+              "title": "Outline of Mithrandir's Warrant"
             }
           }
         ],
@@ -251,6 +251,10 @@
   },
   "active": "bc53394e3e31ea26",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Introduction.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Discover the Counterparty.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Projects.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Condition Die.md",
@@ -280,11 +284,7 @@
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/Ollam.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/The Bellboy.md",
-    "Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel/Housekeeping.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Combat Type and Objective.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Hilbert's Hotel",
-    "Old Repo/infinite-dungeon/useful-tables/combat-type-and-objective.md",
-    "Old Repo/adventures/tower-of-the-mad-wizard/todo.md",
     "Campaigns/Infinite Dungeon/05. Locations/Disorganized Rooms",
     "Campaigns/Infinite Dungeon/10. Objects/Demon Queen",
     "Campaigns/Infinite Dungeon/09. Subplots/The Machineworks",
