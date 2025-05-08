@@ -33,6 +33,8 @@ Ultimately I want the system to elicit these behaviors from players:
 
 For GMs, Orders also provide a lot of narrative resources, an easy source of NPCs and such, and a natural way to add factions. I think it may even be interesting for GMs to have Orders where they negotiate traits in the other direction (where players have the role of GM in the negotiation and vice versa).
 
+A way to think about Orders in particular is that they place a player in the role of the _concept of the Bene Gesserit_ from _Dune_. They are placed in a role of "How do I make a Kwisatch Haderach?", which is _extremely_ fun for the GM because it means your players are always breaking the game, so every encounter _should_ be overtuned. Throw out clearly impossible challenges and make your players work together to build some unholy broken thing to beat it over the course of many increasingly powerful sessions as characters throw themselves into an eternal churning stew of heroic deeds done dirt cheap for sake of accruing ever more [[Fame]] to their Orders' names, finally building the ultimate broken unthing that has more hitpoints than God and powers to match. It also means that players can plot multi-character projects to aid characters they plan to play down the road. It turns players from points into vectors, and vectors are much better at telling you where they're going.
+
 ```RpgManager4
 id: 
   type: "subplot"
@@ -48,3 +50,4 @@ tasks:
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Infinite Dungeon (System).md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Ducats.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Fame.md|]]
