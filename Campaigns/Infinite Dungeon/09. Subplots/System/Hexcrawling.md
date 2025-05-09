@@ -86,6 +86,8 @@ When the Scout fails the navigation check, they may get lost. There are three wa
 
 When players arrive in a square they have been before, make a mark. Starting at DC20, subtract the number of marks and compare against passive perception. If there are notable features, or if a player remarks on notable features, subtract additional values from the DC. When the DC is <5, someone recognizes the hex, and the players simply know the area well enough to not need to navigate. All travel in this hex is 25% quicker. Does not stack with roads.
 
+Once players have explored a sufficient percentage of the map thoroughly, and the GM no longer wants to place new items there, the official, GM maintained map can and should be used, and all travel in this area should be made free and fast, accounting only time. The players can consider the area 'conquered' or 'made safe' or whatever they like. No sense tracking the old expansions when their is new stuff to do elsewhere.
+
 # Resources
 
 There are two resources while crawling, time and provisions.
@@ -94,7 +96,7 @@ There are 24 hours in a day, this is split into 8 hour chunks. One of those chun
 
 Players can spend any unspent time on any [[Projects]] they might have. Additionally they can spend time Foraging for Provisions, making an appropriate skill check. On a success, you cannot fail your provision check, on a fail, nothing happens.
 
-Every day you must roll your Provisions Die. Well-equipped players start with a d10 provision die, and may spend extra foraging rolls to attempt to upgrade the die, or buy an upgrade from a vendor. The provision die is a [[Condition Die]] which degrades on a `2-` and upgrades when Foraging/Hunting on a critical success on that roll. A set of provisions may be shared by more than one player, but you _must roll_ for each player using the provisions. You roll provisions twice per day (once in the morning, once in the evening), if your characters skip a meal, CON save against a level of exhaustion. If you have not rolled provisions that day, you must roll your provisions die to see if any provisions have spoiled.
+Every day you must roll your [[Provisions Die]]. Well-equipped players start with a d10 provision die, and may spend extra foraging rolls to attempt to upgrade the die, or buy an upgrade from a vendor. The provision die is a [[Condition Die]] which degrades on a `2-` and upgrades when Foraging/Hunting on a critical success on that roll. A set of provisions may be shared by more than one player, but you _must roll_ for each player using the provisions. You roll provisions twice per day (once in the morning, once in the evening), if your characters skip a meal, CON save against a level of exhaustion. If you have not rolled provisions that day, you must roll your provisions die to see if any provisions have spoiled. See [[Fast Travel]] for details on provisions when returning to known safe locations.
 
 When your die degrades, you have some spoilt food, ruined equipment, or other narratively appropriate thing happen.
 
@@ -116,3 +118,5 @@ tasks:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Fast Travel.md|]]
