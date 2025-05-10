@@ -1,6 +1,12 @@
 A boss encounter featuring [[Campaigns/Infinite Dungeon/11. Monsters/Flamespew|Flamespew]] 
 # Requirements
 
+```ad-warning
+
+This is not really how I want this to work, I think, but I don't want to lose the idea.
+
+```
+
 ## Intro
 
 No requirements
@@ -61,4 +67,3 @@ tasks:
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Raid the Tower.md|]]
-[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks.md|]]

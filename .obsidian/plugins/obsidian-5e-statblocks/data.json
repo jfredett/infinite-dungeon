@@ -1,5 +1,78 @@
 {
-  "monsters": [],
+  "monsters": [
+    [
+      "Flamespew (Intro)",
+      {
+        "layout": "Basic 5e Layout",
+        "dice": false,
+        "name": "Flamespew (Intro)",
+        "size": "Huge",
+        "ac": 19,
+        "cr": 7,
+        "stats": [
+          25,
+          10,
+          25,
+          10,
+          10,
+          10
+        ],
+        "speed": "stationary",
+        "damage_resistances": "Cold, Radiant, Physical",
+        "damage_immunities": "Fire, Necrotic",
+        "condition_immunities": "Charmed, Grappeled, Frightened, Paralyzed, Petrified, Poisoned, Prone, Restrained",
+        "Weaknesses": "Bludgening to stuff _around_ Flamespew, attacking parts of the arena itself",
+        "saves": [
+          {
+            "dexterity": 5
+          },
+          {
+            "strength": 7
+          },
+          {
+            "constitution": 12
+          },
+          {
+            "intelligence": 3
+          },
+          {
+            "wisdom": 10
+          },
+          {
+            "charisma": 10
+          }
+        ],
+        "hit_dice": "15d8",
+        "hp": 172,
+        "type": "Elemental",
+        "actions": [
+          {
+            "name": "Steam Vent Activation",
+            "desc": "At the end of each its turns, Flamespew rolls a d{CW,CCW} to determine which way to swing it's scythe next turn. Steam vents activate in the direction in which it will travel"
+          },
+          {
+            "name": "Wither",
+            "desc": "At the end of each of it's turns, it withers by 5d8. Flamespew dies if it has less than 10HP remaining."
+          },
+          {
+            "name": "Flame Jet",
+            "desc": "1d10 Fire damage, +5 to hit, reach the whole arena."
+          }
+        ],
+        "legendary_actions": [
+          {
+            "name": "Flame Jet",
+            "desc": "as the action, on a won coinflip each turn"
+          },
+          {
+            "name": "Flame Scythe",
+            "desc": "Rotate a Wall of Flame in the currently indicated direction"
+          }
+        ],
+        "source": "Homebrew"
+      }
+    ]
+  ],
   "defaultLayouts": {},
   "layouts": [],
   "default": "basic-5e-layout",

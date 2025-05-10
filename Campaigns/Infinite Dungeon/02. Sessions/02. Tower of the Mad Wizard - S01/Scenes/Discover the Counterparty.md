@@ -12,4 +12,9 @@ tasks:
     description: "Complete Scene Discover the Counterparty"
     type: "creation"
     status: "proposed"
+data: 
+  scenetype: "exposition"
 ```
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md|]]

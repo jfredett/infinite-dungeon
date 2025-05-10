@@ -2,9 +2,39 @@
 
 ### Phase 1: The Infernal Machine
 
-The Infernal Machine has three modes:
+The Infernal Machine has three modes, below are described all the _Lair_ actions (mentioned in the statblock), but not IM's own actions.
 
 ## Mode 1: Turret
+
+
+### Intro
+
+IM is not active in the intro mode. The "Escape" sequence fires but it's a rocks-fall-on-you moment for all players. They walk out with 15m / fame per player; but retain none of their inventory or anything.
+### Normal
+
+#### Lair
+##### Vent explosions
+
+At the end of the IM's turn, roll `d6` , `d4`, and `d6`. Number each marked vent in each section and activate a 20' lightring around it. Next, roll `d3`, after that many turns, roll `d3` and trigger a cherry bomb from the column you roll.
+
+So if you roll, e.g., `1,3,6`, you might mark the top-leftmost on the left column, the bottom rightmost in the center, and bottom-rightmost on the left. Then you roll a `2`, so after 2 turns, you trigger your legendary action and roll `d3` again to determine which column blows up.
+##### Barrels
+
+Assuming the [[Loading Docks]] and/or efforts at [[The Eye]] have failed to disable the fueling apparatus, then periodically ornithopters drop d6 barrels around the arena randomly. Roll d16 for each barrel, then roll d8 and d4 for cardinal direction and distance. Find the `nth` grate and place a barrel according to your roll. This will ensure they are likely to be triggering chain reactions when other things explode, which is the point. Players can proactively blow these up with a firebolt or other fire-based attack. Non-firebased attacks turn a 10' radius into grease, which alights if an explosion occurs and makes a difficult, dangerous fire terrain that will do damage on entry bar a save for half. The fire lasts for d3+1 turns. It only occurs if they destroy the barrel without exploding it. See the statblock(s) for details.
+
+A barrel explosion just does a Cherry Bomb (a la [[Flamespew]]) damage.
+
+### Heroic
+
+#### Lair
+##### Vent explosions
+
+Roll 2 die for each vent.
+##### Barrels
+
+Double the number of barrels generated.
+
+### Mythic
 
 The IM assumes the powers of the [[Flamespew]] and adopts similar abilities, but with the addition that the blade might
 occasionally advance by two sectors of the ring.

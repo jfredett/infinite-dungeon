@@ -1,0 +1,72 @@
+- [ ] RAID
+	- [ ] Maps
+		- [ ] Flamespew Map
+		- [ ] Loading Docs map
+	- [ ] Encounter Design
+		- [ ] IM
+			- [ ] Finish at least N mode, ideas in place, but nothing doing
+		- [ ] Loading Docks
+	- [ ] Statblocks
+		- [ ] Fuel Barrel
+			- [ ] Designed
+			- [ ] Imported
+		- [ ] Flamespew
+			- [ ] I
+				- [x] Designed
+				- [ ] Imported
+			- [ ] N
+				- [x] Designed
+				- [x] Imported
+			- [ ] H
+				- [x] Designed
+				- [ ] Imported
+			- [ ] M
+				- [x] Designed
+				- [ ] Imported
+		- [ ] IM
+			- [ ] N
+				- [ ] Designed
+				- [ ] Imported
+			- [ ] H
+				- [ ] Designed
+				- [ ] Imported
+			- [ ] M
+				- [ ] Designed
+				- [ ] Imported
+		- [ ] Loader
+			- [x] I
+				- [x] Designed
+				- [x] Imported
+			- [x] N
+				- [x] Designed
+				- [x] Imported
+			- [ ] H
+				- [ ] Designed
+				- [ ] Imported
+			- [ ] M
+				- [ ] Designed
+				- [ ] Imported
+		- [ ] Defender
+			- [x] I
+				- [x] Designed
+				- [x] Imported
+			- [x] N
+				- [x] Designed
+				- [x] Imported
+			- [ ] H
+				- [ ] Designed
+				- [ ] Imported
+			- [ ] M
+				- [ ] Designed
+				- [ ] Imported
+	- [ ] Loot Tables
+		- [x] Fame Object Macro
+		- [ ] Magic Items
+		- [ ] Calculate total reward
+- [ ] Non-Raid stuff
+	- [ ] PF Map
+	- [ ] Iron Roller
+		- [x] Basic Macro, no support for traits
+		- [ ] More advanced macro that supports custom traits
+	- [ ] Matilda Map
+	- [ ] Isk Village Map
