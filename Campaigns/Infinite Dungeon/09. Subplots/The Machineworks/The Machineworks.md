@@ -76,4 +76,5 @@ of minor boon (maybe bonus Fame when they avenge them?)
 [[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Skybridge.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Raid the Tower.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/Scenes/Raid the Tower.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md|]][[Raid the Tower]]

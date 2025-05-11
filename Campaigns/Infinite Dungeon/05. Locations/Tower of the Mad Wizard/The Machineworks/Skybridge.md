@@ -30,31 +30,31 @@ Encounters here will pull from a "Reserve" from which XP, Ducats, and Fame are d
 | 24+         | [[The Eye]]                    |                          |
 
 
-| d6 + depth | Details                                 | Theme                             |
-| ---------- | --------------------------------------- | --------------------------------- |
-| 1          | Empty                                   | Well Maintained                   |
-| 2          | Valuables                               |                                   |
-| 3          | Well-Maintained                         |                                   |
-| 4          | Dead Adventurers                        |                                   |
-| 5          | Glass-Roofed                            |                                   |
-| 6          | Abandoned Mid Repair                    | Minor Disrepair                   |
-| 7          | Scaffolding                             |                                   |
-| 8          | Flooded                                 |                                   |
-| 9          | Broken Machines                         |                                   |
-| 10         | Rusting and Wet                         | Disrepair                         |
-| 11         | Low / Ruined Ceiling                    |                                   |
-| 12         | Reeks of Fuel and Oil                   |                                   |
-| 13         | Broken Windows allow Howling Gusts      | Unmaintained, Decrepit, Dangerous |
-| 14         | Burnt out and Smouldering               |                                   |
-| 15         | Crumbling to nothing                    |                                   |
-| 16         | Actively Disintegrates on Interaction   |                                   |
-| 17         | Nests                                   | Returned to Nature                |
-| 18         | Riddled with Pests                      |                                   |
-| 19         | Overgrown with Vines                    |                                   |
-| 20         | A reclaimed, now manicured Garden space |                                   |
-| 21         | Converted to Lavish Quarters            | Oddly good Condition              |
-| 22         | Converted to SOTA Laboratory            |                                   |
-| +23        | [[The Eye]]                             | Pristine                          |
+| d12 + depth | Details                                 | Theme                             |
+| ----------- | --------------------------------------- | --------------------------------- |
+| 1           | Empty                                   | Well Maintained                   |
+| 2           | Valuables                               |                                   |
+| 3           | Well-Maintained                         |                                   |
+| 4           | Dead Adventurers                        |                                   |
+| 5           | Glass-Roofed                            |                                   |
+| 6           | Abandoned Mid Repair                    | Minor Disrepair                   |
+| 7           | Scaffolding                             |                                   |
+| 8           | Flooded                                 |                                   |
+| 9           | Broken Machines                         |                                   |
+| 10          | Rusting and Wet                         | Disrepair                         |
+| 11          | Low / Ruined Ceiling                    |                                   |
+| 12          | Reeks of Fuel and Oil                   |                                   |
+| 13          | Broken Windows allow Howling Gusts      | Unmaintained, Decrepit, Dangerous |
+| 14          | Burnt out and Smouldering               |                                   |
+| 15          | Crumbling to nothing                    |                                   |
+| 16          | Actively Disintegrates on Interaction   |                                   |
+| 17          | Nests                                   | Returned to Nature                |
+| 18          | Riddled with Pests                      |                                   |
+| 19          | Overgrown with Vines                    |                                   |
+| 20          | A reclaimed, now manicured Garden space |                                   |
+| 21          | Converted to Lavish Quarters            | Oddly good Condition              |
+| 22          | Converted to SOTA Laboratory            |                                   |
+| +23         | [[The Eye]]                             | Pristine                          |
 
 
 Locations generated gain tags, tags have the following meaning
@@ -126,5 +126,4 @@ tasks:
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md|]]
-[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Raid the Tower.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/Scenes/Raid the Tower.md|]]

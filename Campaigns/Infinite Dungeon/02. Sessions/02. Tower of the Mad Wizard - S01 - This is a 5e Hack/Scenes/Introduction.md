@@ -45,7 +45,7 @@ Lastly, just for convenience purposes, quests survive the character who gets the
 id: 
   type: "scene"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md"
+  parent: "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/02. Tower of the Mad Wizard - S01 - This is a 5e Hack.md"
   positionInParent: 1
 tasks: 
   - id: "6a50c034-199e-495c-80bd-e38788792f5c"
@@ -60,11 +60,11 @@ data:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/System/Fame.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Ducats.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Vesper.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Fame.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Condition Die.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/02. Tower of the Mad Wizard - S01 - This is a 5e Hack.md|]]

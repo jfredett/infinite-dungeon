@@ -31,7 +31,7 @@ If the players don't attempt the tower in a session, roll d20 + number of missed
 id: 
   type: "scene"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md"
+  parent: "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/02. Tower of the Mad Wizard - S01 - This is a 5e Hack.md"
   positionInParent: 2
 tasks: []
 data: 
@@ -39,8 +39,8 @@ data:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Matilda the Hedge-Witch.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/The Secret Garden of Ynn.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/Scenes/Deliver Items to Matilda.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/Scenes/Deliver Items to Matilda.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Threeflower.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/02. Tower of the Mad Wizard - S01 - This is a 5e Hack.md|]]

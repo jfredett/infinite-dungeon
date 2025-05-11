@@ -1,7 +1,13 @@
 - [ ] RAID
 	- [ ] Maps
 		- [ ] Flamespew Map
+			- [x] 5' Drawn
+			- [ ] 5' Imported
+			- [ ] 5' Rigged/Macroed
 		- [ ] Loading Docs map
+			- [ ] 5' Drawn
+			- [ ] 5' Imported
+			- [ ] 5' Rigged/Macroed
 	- [ ] Encounter Design
 		- [ ] IM
 			- [ ] Finish at least N mode, ideas in place, but nothing doing
@@ -63,6 +69,24 @@
 		- [x] Fame Object Macro
 		- [ ] Magic Items
 		- [ ] Calculate total reward
+	- [ ] Skybridge Depth
+		- [ ] Fill In Tables
+			- [x] Location
+			- [x] Details
+			- [ ] Encounter
+			- [x] Event
+			- [x] Tag
+				- This is underutilized here
+		- [ ] Import Tables
+			- [ ] Location
+			- [ ] Details
+			- [ ] Encounter
+			- [ ] Event
+			- [ ] Tag
+		- [ ] Design Macros to roll on the depth chart
+			- [ ] Maybe make these create journal entries?
+				- just update a journal entry automatically with a log of the die roll + result, chapter per roll or whatever. I can add notes there and figure out how to export it back out.
+				- It'd be cool if it tracked it more nonlinearly, maybe creating items that reference each other dynamically? Items that can be found in the dungeon later?
 - [ ] Non-Raid stuff
 	- [ ] PF Map
 	- [ ] Iron Roller
@@ -70,3 +94,4 @@
 		- [ ] More advanced macro that supports custom traits
 	- [ ] Matilda Map
 	- [ ] Isk Village Map
+	- [ ] Nik and Matilda Portraits

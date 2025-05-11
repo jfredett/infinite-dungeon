@@ -11,3 +11,9 @@ development as well.
 ## 1651
 
 All imported and uploaded and such. Hopefully should help with organizing a bit.
+
+# 11-MAY-2025
+
+## 0006
+
+I really don't plan on updating this too much, the LOG I mean. I usually do for projects like these, but the whole thing is like a LOG usually is. So I suppose this file is more redundant here than usual.

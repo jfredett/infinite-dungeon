@@ -5,7 +5,7 @@
 id: 
   type: "scene"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md"
+  parent: "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/02. Tower of the Mad Wizard - S01 - This is a 5e Hack.md"
   positionInParent: 4
 tasks: 
   - id: "1b658ae7-1c65-44cc-b804-f773cfb48095"
@@ -18,8 +18,7 @@ data:
   scenetype: "action"
 ```
 
-[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01/02. Tower of the Mad Wizard - S01.md|]]
+[[Campaigns/Infinite Dungeon/Inf[[02. Tower of the Mad Wizard - S01]]d Wizard - S01.md|]]
 [[Nikolai Ivanovich Lobachevsky]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Matilda the Hedge-Witch.md|]]
 [[Matilda the Hedge-Witch]]
