@@ -1,12 +1,9 @@
 These rules are a combination of rules from Mystic Arts, a variety of hexcrawl books I have, and my own insane machinations.
-
-
 # Maps and Scales
 
 ## Units
 
-The primary unit of measurement is a League, which is the size of a single [[#Area Hexes|Area Hex]]. A party can easily cover 8 leagues (about 24mi) in a single day on good terrain or on roads, but 
-
+The primary unit of measurement is a League, which is the size of a single [[#Area Hexes|Area Hex]]. A party can easily cover 8 leagues (about 24mi or 40km) in a single day on good terrain or on roads, but 
 ## World Map
 
 [[Eret]] is a big place, we are playing in a small part of it, but we may visit others. These are points in a big point-crawl map, each point of which is a [[#Region Hexes|Region]].

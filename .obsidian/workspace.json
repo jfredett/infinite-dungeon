@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On Rotated Realities\".md",
+                "file": "Campaigns/Infinite Dungeon/05. Locations/Eret.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "\"On Rotated Realities\""
+              "title": "Eret"
             }
           }
         ]
@@ -253,8 +253,12 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9b205d3a5b3ab092",
+  "active": "230a04693cd96894",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Hexcrawling.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Infinite Dungeon (System).md",
+    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On the Viral Idea\".md",
+    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On Rotated Realities\".md",
     "Campaigns/Infinite Dungeon/11. Monsters/Flamespew.md",
     "Campaigns/Infinite Dungeon/11. Monsters/Loader.md",
     "Systems/04. Fame, Vesper, and Ducats/Overview.md",
@@ -278,10 +282,6 @@
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/02. Tower of the Mad Wizard - S01 - This is a 5e Hack.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/Handouts",
     "LOG.md",
-    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md",
-    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md",
-    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Fuel Manifold Room.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/Loot Table.md",
     "TODOs",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard",
