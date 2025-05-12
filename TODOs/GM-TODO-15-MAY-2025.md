@@ -78,10 +78,10 @@
 			- [x] Tag
 				- This is underutilized here
 		- [ ] Import Tables
-			- [ ] Location
-			- [ ] Details
+			- [x] Location
+			- [x] Details
 			- [ ] Encounter
-			- [ ] Event
+			- [x] Event
 			- [ ] Tag
 		- [ ] Design Macros to roll on the depth chart
 			- [ ] Maybe make these create journal entries?
