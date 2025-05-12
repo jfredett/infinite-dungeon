@@ -68,6 +68,7 @@
 	- [ ] Loot Tables
 		- [x] Fame Object Macro
 		- [ ] Magic Items
+			- [ ] Table with some stuff from one of the splatbooks, and some +1 items
 		- [ ] Calculate total reward
 	- [ ] Skybridge Depth
 		- [ ] Fill In Tables
@@ -95,3 +96,4 @@
 	- [ ] Matilda Map
 	- [ ] Isk Village Map
 	- [ ] Nik and Matilda Portraits
+	- [ ] Build and load scripts from this repo
