@@ -1,0 +1,39 @@
+
+
+- [ ] RAID
+	- [ ] Statblocks
+		- [ ] Flamespew
+			- [ ] H
+				- [x] Designed
+				- [ ] Imported
+			- [ ] M
+				- [x] Designed
+				- [ ] Imported
+		- [ ] IM
+			- [ ] H
+				- [ ] Designed
+				- [ ] Imported
+			- [ ] M
+				- [ ] Designed
+				- [ ] Imported
+		- [ ] Loader
+			- [ ] H
+				- [ ] Designed
+				- [ ] Imported
+			- [ ] M
+				- [ ] Designed
+				- [ ] Imported
+		- [ ] Defender
+			- [ ] H
+				- [ ] Designed
+				- [ ] Imported
+			- [ ] M
+				- [ ] Designed
+				- [ ] Imported
+	- [ ] Skybridge Depth
+		- [ ] Improve Macros to roll on the depth chart
+			- [ ] Maybe make these create journal entries?
+				- just update a journal entry automatically with a log of the die roll + result, chapter per roll or whatever. I can add notes there and figure out how to export it back out.
+				- It'd be cool if it tracked it more nonlinearly, maybe creating items that reference each other dynamically? Items that can be found in the dungeon later?
+- [ ] Non-Raid stuff
+	- [ ] Rename towns/cities away from real names.

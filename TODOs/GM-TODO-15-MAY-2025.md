@@ -13,58 +13,34 @@
 			- [ ] Finish at least N mode, ideas in place, but nothing doing
 		- [ ] Loading Docks
 	- [ ] Statblocks
-		- [ ] Fuel Barrel
-			- [ ] Designed
-			- [ ] Imported
-		- [ ] Flamespew
-			- [ ] I
-				- [x] Designed
-				- [ ] Imported
-			- [ ] N
+		- [x] Fuel Barrel
+			- [x] Designed
+			- [x] Imported
+		- [x] Flamespew
+			- [x] I
 				- [x] Designed
 				- [x] Imported
-			- [ ] H
+			- [x] N
 				- [x] Designed
-				- [ ] Imported
-			- [ ] M
-				- [x] Designed
-				- [ ] Imported
+				- [x] Imported
 		- [ ] IM
 			- [ ] N
 				- [ ] Designed
 				- [ ] Imported
-			- [ ] H
-				- [ ] Designed
-				- [ ] Imported
-			- [ ] M
-				- [ ] Designed
-				- [ ] Imported
-		- [ ] Loader
+		- [x] Loader
 			- [x] I
 				- [x] Designed
 				- [x] Imported
 			- [x] N
 				- [x] Designed
 				- [x] Imported
-			- [ ] H
-				- [ ] Designed
-				- [ ] Imported
-			- [ ] M
-				- [ ] Designed
-				- [ ] Imported
-		- [ ] Defender
+		- [x] Defender
 			- [x] I
 				- [x] Designed
 				- [x] Imported
 			- [x] N
 				- [x] Designed
 				- [x] Imported
-			- [ ] H
-				- [ ] Designed
-				- [ ] Imported
-			- [ ] M
-				- [ ] Designed
-				- [ ] Imported
 	- [ ] Loot Tables
 		- [x] Fame Object Macro
 		- [ ] Magic Items
@@ -85,9 +61,6 @@
 			- [x] Event
 			- [ ] Tag
 		- [ ] Design Macros to roll on the depth chart
-			- [ ] Maybe make these create journal entries?
-				- just update a journal entry automatically with a log of the die roll + result, chapter per roll or whatever. I can add notes there and figure out how to export it back out.
-				- It'd be cool if it tracked it more nonlinearly, maybe creating items that reference each other dynamically? Items that can be found in the dungeon later?
 - [ ] Non-Raid stuff
 	- [ ] PF Map
 	- [ ] Iron Roller
