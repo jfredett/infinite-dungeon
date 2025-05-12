@@ -13,10 +13,11 @@ tasks:
 ```
 
 > A transcription from the Journals of The Wizard Dracul Dracthulu Dracthir. Recovered from room 2^31-1 + 82 by an
-> unidentifiable party of adventurers. The original transcriptionist indicates this journal was translated partially due
-> to the realization that it would not help deal with the thing growing in the adventurers. The translation, at various
-> points was passed back and forth. This contained the notes, the marginalia includes various comments signed, as the
-> note indicates, in originally magical ink, though reproduced using mundane means here.
+> unidentifiable party of adventurers. The original transcriptionist indicates this journal was translated only partially due
+> to the realization that it would not help deal with the thing growing in the aforementioned adventurers. The translation, at various
+> points, appears to have been passed back and forth between several parties, among which are [[Mithrandir]] and the [[Ithryn Luin]]. 
+> This contained the notes, the marginalia includes various comments signed, as the note indicates, in originally magical ink, 
+> though reproduced using mundane means here.
 >
 > With included commentary by Mithrandir, the Ithryn Luin, and others as cited. Edits and review are due to all quoted,
 > all remarks recorded in real time.
@@ -24,7 +25,7 @@ tasks:
 > 18-MAR-1878, Hilbert Hotel, Paris
 
 Perpendicularity is not Parallelity. Different Topoi, have to invoke secondary reaction principle.
-Seven layers of horcra needed, not SIX!
+Seven seals of seven layers each sounding seven trumpets are needed, not SIX!
 
 > Here a diagram depicting some sort of door is shown.
 
@@ -32,12 +33,12 @@ The Sidhe could do it, why can't I! Cave Magic, it must be Cave Magic.
 
 > "The Mad Wizard here seems to imply that the legend among the Elves about their own ancient forebears may be true,
 > such a thing was once considered madness, but if he records it in his own journal, how could he be lying?" - gtg [ED:
-> gtg is the present copyists representation of the mark associated with Mithrandir the Wise of the Far Lands, Grey
+> gtg is the present copyists representation of the mark associated with [[Mithrandir]] the Wise of the Far Lands, Grey
 > Wizard of the Esteemed Council]
 > "Sidhe are a myth, the way of the universe is _known_, madness often lies to itself, such is it's essence." - ail [ED:
-> refers to "A" of the Ithryn Luin, the so-called "Blue Wizards", a psuedonym for a group of researchers from the
+> refers to "A" of the [[Ithryn Luin]], the so-called "Blue Wizards", a psuedonym for a group of researchers from the
 > Renowned Southron University of the Arcane Arts. Authors from this group would individuate with a letter, it is not
-> known if the lettering was consistent between reference by design of the group.]]
+> known if the lettering was consistent between reference by design of the group.]
 
 [ED: In this section is reproduced a large body of text in an unknown and untranslated script. Significant work must be
 done to study and understand it. A note follows]
@@ -81,7 +82,7 @@ Induce via eddy currents at the leylines, like spinning a top...
 [ED: An interrupted note returns from above]
 
 > "Pardon prior henscratch, it seems that in this model one can explain the phenomena in _Garden_ as a coincidental
-> corotation of our respective realities. I belive the underlying arcana must be somewhat more complicated, but one can
+> corotation of our respective realities. I believe the underlying arcana must be somewhat more complicated, but one can
 > imaging our reality as a sort of ring, spinning through the air, an infinity of other rings spin with it, and before
 > it, and behind it. The entire path, and every single path that the ring _could_ take is traversed, simultaneously
 > across all time. When you choose any particular pair of paths, you can measure how often parts of the ring of reality
@@ -97,7 +98,7 @@ Induce via eddy currents at the leylines, like spinning a top...
 > Magicks contain all rules for all things, it is the most fundamental description of a reality; as such, it contains
 > certain rules that -- for life to exist as we know it, must be adhered to. This, in simple terms, is physics,
 > fundamental logic, mathematics, and the core arcana. Of interest, one might concieve of a world without arcana -- or
-> with minimal arcana, already we see the magic of our world receding after the passing of the Elves, so perhaps this
+> with minimal arcana, already I see the magic of my own world receding after the passing of the Elves, so perhaps this
 > relates to a 'slowing' or precessing 'rotation' of our reality?
 >
 > I wish we had a copy of that damn book!" - gtg
@@ -107,3 +108,7 @@ Induce via eddy currents at the leylines, like spinning a top...
 
 [ED: No additional information was included in the text set for copyist, and no further commentary. Another 5 pages
 of this are untranslated and, for the copyist, untranslatable at time of copy.]
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Mithrandir.md|]]
+[[Campaigns/Infinite Dungeon/06. Factions/Ithryn Luin.md|]]

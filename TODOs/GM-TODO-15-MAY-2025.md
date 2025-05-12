@@ -1,17 +1,18 @@
 - [ ] RAID
 	- [ ] Maps
-		- [ ] Flamespew Map
+		- [x] Flamespew Map
 			- [x] 5' Drawn
-			- [ ] 5' Imported
-			- [ ] 5' Rigged/Macroed
+			- [x] 5' Imported
+			- [x] 5' Rigged
 		- [ ] Loading Docs map
 			- [ ] 5' Drawn
 			- [ ] 5' Imported
-			- [ ] 5' Rigged/Macroed
+			- [ ] 5' Rigged
 	- [ ] Encounter Design
 		- [ ] IM
 			- [ ] Finish at least N mode, ideas in place, but nothing doing
 		- [ ] Loading Docks
+			- [ ] Finish at least N mode, ideas in place, but nothing doing
 	- [ ] Statblocks
 		- [x] Fuel Barrel
 			- [x] Designed
@@ -45,12 +46,12 @@
 		- [x] Fame Object Macro
 		- [ ] Magic Items
 			- [ ] Table with some stuff from one of the splatbooks, and some +1 items
-		- [ ] Calculate total reward
+		- [ ] Calculate total reward / do some simulated loot pools / maybe make a macro
 	- [ ] Skybridge Depth
-		- [ ] Fill In Tables
+		- [x] Fill In Tables
 			- [x] Location
 			- [x] Details
-			- [ ] Encounter
+			- [x] Encounter
 			- [x] Event
 			- [x] Tag
 				- This is underutilized here
@@ -63,9 +64,8 @@
 		- [ ] Design Macros to roll on the depth chart
 - [ ] Non-Raid stuff
 	- [ ] PF Map
-	- [ ] Iron Roller
+	- [x] Iron Roller
 		- [x] Basic Macro, no support for traits
-		- [ ] More advanced macro that supports custom traits
 	- [ ] Matilda Map
 	- [ ] Isk Village Map
 	- [ ] Nik and Matilda Portraits
