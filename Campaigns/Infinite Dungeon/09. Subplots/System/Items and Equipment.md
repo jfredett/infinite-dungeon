@@ -69,18 +69,18 @@ somewhat more in-shape than said Dad, could easily carry a bit more.
 
 #### Table of common items forms and their weight ranges
 
-   | Item               | Weight Range  | Examples                                                             |
-   | ----               | ------------  | --------                                                             |
-   | Pocket Weapon/Tool | 0.1kg - 1kg   | Pocketknife, brass knuckles, small baton                             |
-   | Belt Weapon/Tool   | 0.5kg - 3kg   | Small axe/hatchet, long knife, cudgel, framing hammer                |
-   | Short Weapon/Tool  | 2kg - 5kg     | Short Sword, Small Battleaxe, Buckler                                |
-   | Long Weapon/Tool   | 4kg - 15kg    | Long Sword, Battleaxe, Small-Medium Shield                           |
-   | Great Weapon/Tool  | 10kg - 30kg   | Claymore, Large Axe, Polearm, Large Shield                           |
-   | Clothing           | 1kg - 3kg     | This may vary much more if the player is in a very warm/cold climate |
-   | Light Armor        | 3kg - 5kg     | Padded Armor, could be used for winter clothes as well.              |
-   | Medium Armor       | 5kg - 15kg    | Leathers on the low end, Studded Leather/Mail Leather on the high    |
-   | Heavy Armor        | 12.5kg - 40kg | Ring/Chain Mail - Full Plate                                         |
-   | Bag of Concrete    | 35kg          | Useful Reference Point                                               |
+| Item               | Weight Range  | Examples                                                             |
+| ----               | ------------  | --------                                                             |
+| Pocket Weapon/Tool | 0.1kg - 1kg   | Pocketknife, brass knuckles, small baton                             |
+| Belt Weapon/Tool   | 0.5kg - 3kg   | Small axe/hatchet, long knife, cudgel, framing hammer                |
+| Short Weapon/Tool  | 2kg - 5kg     | Short Sword, Small Battleaxe, Buckler                                |
+| Long Weapon/Tool   | 4kg - 15kg    | Long Sword, Battleaxe, Small-Medium Shield                           |
+| Great Weapon/Tool  | 10kg - 30kg   | Claymore, Large Axe, Polearm, Large Shield                           |
+| Clothing           | 1kg - 3kg     | This may vary much more if the player is in a very warm/cold climate |
+| Light Armor        | 3kg - 5kg     | Padded Armor, could be used for winter clothes as well.              |
+| Medium Armor       | 5kg - 15kg    | Leathers on the low end, Studded Leather/Mail Leather on the high    |
+| Heavy Armor        | 12.5kg - 40kg | Ring/Chain Mail - Full Plate                                         |
+| Bag of Concrete    | 35kg          | Useful Reference Point                                               |
 
 You can use this to estimate other objects, think of the size, add more if the material is heavy, make a guess. The
 internet exists, these are real-world weight ranges, so you can just search for it.
@@ -180,3 +180,5 @@ tasks:
     type: "creation"
     status: "proposed"
 ```
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]

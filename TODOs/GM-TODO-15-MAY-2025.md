@@ -55,12 +55,12 @@
 			- [x] Event
 			- [x] Tag
 				- This is underutilized here
-		- [ ] Import Tables
+		- [x] Import Tables
 			- [x] Location
 			- [x] Details
-			- [ ] Encounter
+			- [x] Encounter
 			- [x] Event
-			- [ ] Tag
+			- [x] Tag
 		- [ ] Design Macros to roll on the depth chart
 - [ ] Non-Raid stuff
 	- [ ] PF Map

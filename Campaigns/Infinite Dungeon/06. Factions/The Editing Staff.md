@@ -14,7 +14,12 @@ tasks:
 
 The Editing Staff refers to the following people:
 
-1. The Editor, writes in the margins/interstitials with `[ED: something]` -- does a lot of the talking
-2. The Translator, who works to translate the stuff `Mithrandir` and his interlocuters left untranslated.
-3. The Copyist, who is responsible for making copies of these works.
+1. [[The Editor]], writes in the margins/interstitials with `[ED: something]` -- does a lot of the talking
+2. [[The Translator]], who works to translate the stuff `Mithrandir` and his interlocutors left untranslated.
+3. [[The Copyist]], who is responsible for making copies of these works.
 
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/The Editor.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/The Copyist.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/The Translator.md|]]
