@@ -1,6 +1,11 @@
-Players Raid the Tower, they enter [[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks]] and can explore. In Intro Mode, the [[Infernal Machine]] does not happen, but the escape sequence does, but without loot or anything players run for the door, but they are all killed. Cut to a scene with [[Nikolai Ivanovich Lobachevsky|Nik]] collecting the players' things and setting them aside in a room _filled_ with similar stuff. He smirks and goes to greet some incoming customers (the players, again) giving the same spiel as started the thing, "You you... are you going to drink or just read?" Future encounters at the Machineworks will be in 'normal' mode, and include the final fight and full sequence.
+Players Raid the Tower, they enter [[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks]] and can explore. In Intro Mode, the [[Infernal Machine]] does not happen, but the escape sequence does, but without loot or anything players run for the door, but they are all killed. 
 
-Players can otherwise get to the [[Skybridge|Skybridge]], [[Loading Docks]], and [[Fuel Manifold Room]] and engage the 'intro' mode fights for those bosses/areas
+As they are dying running toward the doorway, the camera flies through and emerges to see the massive black tower that was about a league away from the entrance to the Machineworks. There is a doorway at the top of the tower where the camera has been flying around, and we see the last character standing crawling through it and finally expiring at the top of the tower. A towering individual in dark robes floats down and finishes the character, then raises his arms and the tower continues to grow up around him, the room goes dark as the walls close in, and only the dark figures eyes remain glowing, staring into the camera.
+
+Hard cut to a scene with [[Nikolai Ivanovich Lobachevsky|Nik]] collecting the players' things and setting them aside in a room _filled_ with similar stuff. He smirks and goes to greet some incoming customers (the players, again) giving the same spiel as started the thing, "You you... are you going to drink or just read?" Future encounters at the Machineworks will be in 'normal' mode, and include the final fight and full sequence.
+
+
+
 
 
 ```RpgManager4
