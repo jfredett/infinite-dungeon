@@ -6,7 +6,12 @@
 		- Last gets more agitated at that suggestion (passive insight check)
 	- Regardless of where they go, they will find tools
 - More details about Serketraj
-	- 
+	- Readalouds
+
+
+At this point they'll know what leads where, they'll have the subquest about the Last, and it'll just be 'go kill stuff.'
+
+If I'm lucky, this will be all of the remaining first layer bosses, and leave just DQ for the next session.
 
 
 
