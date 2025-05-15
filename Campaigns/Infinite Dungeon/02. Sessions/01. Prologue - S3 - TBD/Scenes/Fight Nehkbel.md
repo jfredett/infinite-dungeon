@@ -1,3 +1,4 @@
+Nehkbel tries to convince the players he was just an opportunist, trying to survive in DQ's regime, he didn't want to do anything bad necessarily, he was just a business man doing business.
 
 ```RpgManager4
 id: 
