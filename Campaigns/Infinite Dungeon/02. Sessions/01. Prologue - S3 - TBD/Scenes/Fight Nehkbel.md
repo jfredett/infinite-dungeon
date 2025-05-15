@@ -1,5 +1,7 @@
 Nehkbel tries to convince the players he was just an opportunist, trying to survive in DQ's regime, he didn't want to do anything bad necessarily, he was just a business man doing business.
 
+Sort of a New Yawk/Jersey-adjacent accent, very Sopranos, very Guido. If I could do a Gandolfini, I'd do a Gandolfini
+
 ```RpgManager4
 id: 
   type: "scene"
