@@ -2,7 +2,6 @@ Nehkbel tries to convince the players he was just an opportunist, trying to surv
 
 Sort of a New Yawk/Jersey-adjacent accent, very Sopranos, very Guido. If I could do a Gandolfini, I'd do a Gandolfini
 
-
 For a fight, open up the following:
 
 - Legendary Actions
@@ -22,11 +21,13 @@ He's level 13, so he gets three EB targets/turn
 
 Remember Lair Actions need their own initiative (they have initiative 20).
 
+
+
 ```RpgManager4
 id: 
   type: "scene"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - TBD/01. Prologue - S3 - TBD.md"
+  parent: "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - I'm just a businessman, eh?/01. Prologue - S3 - I'm just a business man, eh?.md"
   positionInParent: 2
 tasks: 
   - id: "7b3f9239-bbd8-489b-9ca1-0aa1b636061e"
@@ -37,7 +38,10 @@ tasks:
     status: "proposed"
 data: 
   scenetype: "action"
+  duration: 6000
+  externalactions: true
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - TBD/01. Prologue - S3 - TBD.md|]]
+
+[[Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - I'm just a businessman, eh?/01. Prologue - S3 - I'm just a business man, eh?.md|]]
