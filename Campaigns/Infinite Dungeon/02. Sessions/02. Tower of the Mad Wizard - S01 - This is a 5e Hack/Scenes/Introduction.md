@@ -39,6 +39,10 @@ Full disclosure, these characters are _designed_ not to survive. If I have not k
 
 Lastly, just for convenience purposes, quests survive the character who gets them, we'll just handwave away if a different character completes the quest.
 
+Long term, this campaign is going to be a West-Marches style campaign, I'll continue to run these bimonthly sessions, but when I run out of material, they'll stop. When I have more material, I'll schedule a new set of sessions. I'll also be scattering subadventures and sidequests around the world, and expect _you_ to come up with things _you_ want to do to advance your character and Order's goals. Side content will be _literally_ signposted in the world. Like there will be a sign that states how many players, what system, etc. You can organize a party to take on that adventure, and we can work out a time where we can run that adventure. This main bimonthly session I hope will eventually become more of a 'routine check in/office hours' level thing; mostly just tying things up and maybe making raid attempts.
+
+If _you_ want to put up a signpost in the world somewhere, let me know and I'll set it up and then you can run your game in the Shared Tablematic Universe that is _Infinite Dungeon_, you can. If you aren't interested in using the [[Order]] mechanics, it's easy to bypass (there exists a canonical 'Order' that is 'Normal Character Generation' for every system).
+
 
 
 ```RpgManager4
@@ -60,6 +64,7 @@ data:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/02. Tower of the Mad Wizard - S01 - This is a 5e Hack.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Ducats.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Vesper.md|]]
@@ -67,4 +72,3 @@ data:
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Condition Die.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/02. Tower of the Mad Wizard - S01 - This is a 5e Hack.md|]]
