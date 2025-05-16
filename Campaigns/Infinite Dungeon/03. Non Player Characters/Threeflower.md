@@ -1,4 +1,5 @@
 From Heliana's Monsterhunt "The Shining Shrine", he's hanging out at the [[Pleasantly Finite]] and gives players the hook about the adventure. The Druid has seen better days, and is clearly dazed an in shock, he shows the players a partially burnt feather and while hesitant, if convinced to drink to excess, will become loquacious and spill details about how his adventuring party was brutally murdered by some hideous thing in the woods to the south.
+
 ```RpgManager4
 id: 
   type: "nonplayercharacter"
@@ -13,3 +14,6 @@ tasks:
     type: "creation"
     status: "proposed"
 ```
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/Scenes/Mithrandir's Warrant.md|]]
