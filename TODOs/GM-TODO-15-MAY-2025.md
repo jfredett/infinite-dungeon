@@ -1,4 +1,4 @@
-- [ ] RAID
+- [x] RAID
 	- [ ] Maps
 		- [x] Flamespew Map
 			- [x] 5' Drawn
