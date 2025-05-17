@@ -9,6 +9,8 @@ Brennan Lee Mulligan once noted that the reason he used 5e for his narrative hea
 
 The problem, fundamentally, is that it sucks for a character to die. _Even though_ one of the most fun parts of TTRPGs is character creation, it sucks because all this effort that goes into building up a character is lost, there is no benefit to character _death_, for anyone, other than some narrative satisfaction.
 
+> An aside, character creation is also really dull, because it ultimately does come down to rolling some die; the _real_ fun is character _ideation_ -- thinking about what kinds of characters you could play. The creation part is mostly mechanics, a simple little minigame -- Infinite Dungeon tries to extend ideation to the whole play process. The narrative happens as much on the level of [[Orders]] as it does with the characters -- the players are both agent of, and invisible hand guiding, their order through the duration.
+
 How to solve this?
 
 Resources. In particular, breaking up traditional XP into [[Ducats]] (replacing gold), [[Vesper]] (replacing XP), and a new resource, [[Fame]]. Each is spent in different ways and at different levels, and all the resources are _diegetic_, meaning they exist physically within the game world, your characters know about them, and they can be used for multiple things. Ducats are spent on things money is typically spent on, Vesper is liquid experience that can be used to complete projects, level up your character, or simply stored for later use. It's also explosive.
@@ -16,7 +18,7 @@ Resources. In particular, breaking up traditional XP into [[Ducats]] (replacing 
 Fame is the most important resource. It is spent to buy [[Traits]] for your [[Orders|Order]]. An Order is a particular set of rules used to generate characters in the underlying system. In that system, you reduce character creation initially to a completely random process. You generate a character, which starts with 15m of fame as a base. As that character accomplishes great deeds, discovers lost artifacts, or otherwise earns it (at the GMs discretion), they will gain more Fame. When the character dies, that Fame may be _spent_ to add new traits to ones order, or activate traits for the next character generated. A new character is generated subject to the rules of it's Order, and the process repeats. Spent fame is pooled by the GM, who then uses it to upgrade old content, progress factions, create new stuff, etc.
 ## What do you need to do?
 
-In ID, the focus is not solely on the Character, but on the [[Orders|Order]] from which they hail. It could be a literal family clan, a military faction, a coven of witches, school of wizards, whatever. I've already generated valid characters for each of you for this session, since they are fully random, I'll have you all roll a d20 and claim whichever you land on, if two people match, I'll copy the sheet. If you'd like to roll one yourself, that's fine, here are the initial rules for 5e.
+In ID, the focus is not solely on the Character, but on the [[Orders|Order]] from which they hail. It could be a literal family clan, a military faction, a coven of witches, school of wizards, whatever. There is a macro in the macro bar that will generate a character with a random # and class. You'll need to apply the class by dragging it from chat onto the sheet. Don't worry about naming them yet. Instead, while we play, you should think about what kind of Order you want to build, what their motivations might be, beliefs, goals, whatever. Your characters are currently generated like:
 
 1. Roll stats as 3d6, in order.
 2. Roll for class from the PHB2024 guide only.
@@ -24,9 +26,7 @@ In ID, the focus is not solely on the Character, but on the [[Orders|Order]] fro
 4. Roll for hitpoints
 5. Roll for any subsequent choice where rolling is possible.
 6. If your net modifier is < -6, your character is nonviable and you may reroll if you like.
-7. You have no equipment beyond clothes, a simple weapon/focus/etc, simple adventuring gear, and a [[Condition Die|d10 Ration Die]].
-
-There's a macro in the VTT, "Iron Roll" that does this.
+7. You have no equipment beyond clothes, a simple weapon/focus/etc (<d10 damage die), simple adventuring gear, and a [[Condition Die|d10 Ration Die]].
 
 We're going to take a slightly on-rails tour of everything, and then you will be left to your own devices. In this session we will:
 
@@ -35,13 +35,11 @@ We're going to take a slightly on-rails tour of everything, and then you will be
 3. Get some Side quests queued up.
 4. Visit the [[Raid]], which I'll talk about more when we get there.
 
-Full disclosure, these characters are _designed_ not to survive. If I have not killed them by the end of the session, I have failed you, so please behave recklessly. If all characters die before we get to the end of the above list, I'll do a quick overview of whatever we missed and we'll jump into the 'main' event.
-
-Lastly, just for convenience purposes, quests survive the character who gets them, we'll just handwave away if a different character completes the quest.
+Full disclosure, these characters are _designed_ not to survive. If I have not killed them by the end of the session, I have failed you, so please behave recklessly. We'll replace characters that die as we go, and any remaining characters at the end will definitely be killed for narrative reasons.
 
 Long term, this campaign is going to be a West-Marches style campaign, I'll continue to run these bimonthly sessions, but when I run out of material, they'll stop. When I have more material, I'll schedule a new set of sessions. I'll also be scattering subadventures and sidequests around the world, and expect _you_ to come up with things _you_ want to do to advance your character and Order's goals. Side content will be _literally_ signposted in the world. Like there will be a sign that states how many players, what system, etc. You can organize a party to take on that adventure, and we can work out a time where we can run that adventure. This main bimonthly session I hope will eventually become more of a 'routine check in/office hours' level thing; mostly just tying things up and maybe making raid attempts.
 
-If _you_ want to put up a signpost in the world somewhere, let me know and I'll set it up and then you can run your game in the Shared Tablematic Universe that is _Infinite Dungeon_, you can. If you aren't interested in using the [[Order]] mechanics, it's easy to bypass (there exists a canonical 'Order' that is 'Normal Character Generation' for every system).
+If _you_ want to put up a signpost in the world somewhere, let me know and I'll set it up and then you can run your game in the **Shared Tablematic Universe for Playing _Infinite Dungeon_**, you can. If you aren't interested in using the [[Order]] mechanics, it's easy to bypass (there exists a canonical 'Order' that is 'Normal Character Generation' for every system). My intent is to leave the adventures I want to run scattered around the world (dropping them into the hexcrawl or ID or whatever); My intent is to always run something, but it might not always be directly related, and I have a bunch of systems and modules I want to try so this will help tie it all together.
 
 
 
