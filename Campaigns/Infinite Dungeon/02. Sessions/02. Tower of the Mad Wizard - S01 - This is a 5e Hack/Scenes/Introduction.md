@@ -18,26 +18,18 @@ Resources. In particular, breaking up traditional XP into [[Ducats]] (replacing 
 Fame is the most important resource. It is spent to buy [[Traits]] for your [[Orders|Order]]. An Order is a particular set of rules used to generate characters in the underlying system. In that system, you reduce character creation initially to a completely random process. You generate a character, which starts with 15m of fame as a base. As that character accomplishes great deeds, discovers lost artifacts, or otherwise earns it (at the GMs discretion), they will gain more Fame. When the character dies, that Fame may be _spent_ to add new traits to ones order, or activate traits for the next character generated. A new character is generated subject to the rules of it's Order, and the process repeats. Spent fame is pooled by the GM, who then uses it to upgrade old content, progress factions, create new stuff, etc.
 ## What do you need to do?
 
-In ID, the focus is not solely on the Character, but on the [[Orders|Order]] from which they hail. It could be a literal family clan, a military faction, a coven of witches, school of wizards, whatever. There is a macro in the macro bar that will generate a character with a random # and class. You'll need to apply the class by dragging it from chat onto the sheet. Don't worry about naming them yet. Instead, while we play, you should think about what kind of Order you want to build, what their motivations might be, beliefs, goals, whatever. Your characters are currently generated like:
-
-1. Roll stats as 3d6, in order.
-2. Roll for class from the PHB2024 guide only.
-3. Roll for background
-4. Roll for hitpoints
-5. Roll for any subsequent choice where rolling is possible.
-6. If your net modifier is < -6, your character is nonviable and you may reroll if you like.
-7. You have no equipment beyond clothes, a simple weapon/focus/etc (<d10 damage die), simple adventuring gear, and a [[Condition Die|d10 Ration Die]].
+In ID, the focus is not solely on the Character, but on the [[Orders|Order]] from which they hail. It could be a literal family clan, a military faction, a coven of witches, school of wizards, whatever. There is a macro in the macro bar that will [[Character Generation|generate a character]] with a random # and class. You'll need to apply the class by dragging it from chat onto the sheet. Don't worry about naming them yet. Instead, while we play, you should think about what kind of Order you want to build, what their motivations might be, beliefs, goals, whatever. 
 
 We're going to take a slightly on-rails tour of everything, and then you will be left to your own devices. In this session we will:
 
-1. Visit the main hub you'll come back do while we run this.
-2. Do some light hexcrawling
+1. Visit the main hub you'll come back do while we run this (the [[Pleasantly Finite]]).
+2. Do some light hexcrawling (around the area of [[Iskavi]])
 3. Get some Side quests queued up.
 4. Visit the [[Raid]], which I'll talk about more when we get there.
 
 Full disclosure, these characters are _designed_ not to survive. If I have not killed them by the end of the session, I have failed you, so please behave recklessly. We'll replace characters that die as we go, and any remaining characters at the end will definitely be killed for narrative reasons.
 
-Long term, this campaign is going to be a West-Marches style campaign, I'll continue to run these bimonthly sessions, but when I run out of material, they'll stop. When I have more material, I'll schedule a new set of sessions. I'll also be scattering subadventures and sidequests around the world, and expect _you_ to come up with things _you_ want to do to advance your character and Order's goals. Side content will be _literally_ signposted in the world. Like there will be a sign that states how many players, what system, etc. You can organize a party to take on that adventure, and we can work out a time where we can run that adventure. This main bimonthly session I hope will eventually become more of a 'routine check in/office hours' level thing; mostly just tying things up and maybe making raid attempts.
+Long term, this campaign is going to be a West-Marches style campaign, I'll continue to run these bimonthly sessions, but when I run out of material, they'll stop. When I have more material, I'll schedule a new set of sessions. I'll also be scattering subadventures and sidequests around the world, and expect _you_ to come up with things _you_ want to do to advance your character and Order's goals -- as this will help me in making more stuff. Side content will be _literally_ signposted in the world. Like there will be a sign that states how many players, what system, etc. You can organize a party to take on that adventure, and we can work out a time where we can run that adventure. This main bimonthly session I hope will eventually become more of a 'routine check in/office hours' level thing; mostly just tying things up and maybe making raid attempts.
 
 If _you_ want to put up a signpost in the world somewhere, let me know and I'll set it up and then you can run your game in the **Shared Tablematic Universe for Playing _Infinite Dungeon_**, you can. If you aren't interested in using the [[Order]] mechanics, it's easy to bypass (there exists a canonical 'Order' that is 'Normal Character Generation' for every system). My intent is to leave the adventures I want to run scattered around the world (dropping them into the hexcrawl or ID or whatever); My intent is to always run something, but it might not always be directly related, and I have a bunch of systems and modules I want to try so this will help tie it all together.
 
@@ -68,5 +60,6 @@ data:
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Vesper.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Fame.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/System/Condition Die.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Iskavi.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/Condition Die.md|]]
