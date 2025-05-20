@@ -1,4 +1,4 @@
-A raid is a dungeon which is highly focused on a few boss fights, it is intended to be completed in a few sessions in any given 'instance', and focus heavily on movement mechanics and non-combat or even out-of-character problem solving.
+A raid ("Repeatable, Action-oriented, Interesting Dungeon") is a dungeon which is highly focused on a few boss fights, it is intended to be completed in a few sessions in any given 'instance', and focus heavily on movement mechanics and non-combat or even out-of-character problem solving.
 
 Raids are additionally intended to be repeated, even farmed, by players. The goal is to mimic _World of Warcraft_ or similar MMORPG-style fights, but with the benefit that TTRPGs allow for much more freedom in tactics.
 
@@ -44,6 +44,6 @@ Higher levels of raids generally require some amount of invested [[Campaigns/Inf
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Orders]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Fame]]e.md|]]
-[[Introduction]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Introduction]]
 [[The Infernal Machine]]
 [[Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/The Machineworks]]

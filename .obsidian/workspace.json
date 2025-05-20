@@ -6,6 +6,28 @@
       {
         "id": "2747fadc7c47fc62",
         "type": "tabs",
+        "dimension": 52.62938230383973,
+        "children": [
+          {
+            "id": "f0e9f4603f0b8ceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systems/GM's Manual/05. Characters/Disorganized Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Disorganized Notes"
+            }
+          }
+        ]
+      },
+      {
+        "id": "61869e904e6ff148",
+        "type": "tabs",
+        "dimension": 47.37061769616027,
         "children": [
           {
             "id": "316b0922848e9d8e",
@@ -13,40 +35,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md",
+                "file": "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Eye"
-            }
-          },
-          {
-            "id": "37b0340a0dc6a65f",
-            "type": "leaf",
-            "state": {
-              "type": "rpg-manager-readme",
-              "state": {},
-              "icon": "d20",
-              "title": "RPG Manager Documentation"
-            }
-          },
-          {
-            "id": "f0e9f4603f0b8ceb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Raid"
+              "title": "Introduction"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -100,10 +97,31 @@
             }
           }
         ]
+      },
+      {
+        "id": "1406a6865b46933e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d2acd24e3743e4cb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Systems/GM's Manual/05. Characters/Disorganized Notes.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Disorganized Notes"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 654.5086555480957
+    "width": 418.5086555480957
   },
   "right": {
     "id": "6518d3750dd1a88a",
@@ -112,6 +130,7 @@
       {
         "id": "003a3731efbcd124",
         "type": "tabs",
+        "dimension": 18.7807881773399,
         "children": [
           {
             "id": "c471c3c8e51a27bf",
@@ -232,48 +251,7 @@
       {
         "id": "e2c54735a63075fd",
         "type": "tabs",
-        "children": [
-          {
-            "id": "eec21474addc9bf9",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "skull",
-              "title": "Combatant"
-            }
-          },
-          {
-            "id": "d2acd24e3743e4cb",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Raid"
-            }
-          },
-          {
-            "id": "9b205d3a5b3ab092",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
-        "id": "a2a11c454741ab54",
-        "type": "tabs",
+        "dimension": 20.997536945812808,
         "children": [
           {
             "id": "438097f0e950fb32",
@@ -287,6 +265,33 @@
               },
               "icon": "CALENDARIUM_AGENDA",
               "title": "Agenda"
+            }
+          }
+        ]
+      },
+      {
+        "id": "937f4411d96a3806",
+        "type": "tabs",
+        "dimension": 60.22167487684729,
+        "children": [
+          {
+            "id": "9b205d3a5b3ab092",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "eec21474addc9bf9",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {},
+              "icon": "skull",
+              "title": "Combatant"
             }
           }
         ]
@@ -314,12 +319,23 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "438097f0e950fb32",
+  "active": "f0e9f4603f0b8ceb",
   "lastOpenFiles": [
+    "Systems/Player's Manual/01. The Basics.md",
+    "Systems/GM's Manual/00. The Basics (for GMs).md",
+    "Systems/Player's Manual/02. Traits, Orders, and Character Generation.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Introduction.md",
+    "Systems/Player's Manual/04. Raids and Repeatable Content.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md",
+    "Systems/Player's Manual/03. Vesper, Ducats, and Fame.md",
+    "TODOs/2025/05 (MAY)/GM-TODO-29-MAY-2025.md",
+    "Systems/GM's Manual/05. Characters/Disorganized Notes.md",
+    "Systems/Player's Manual/Overview.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md",
+    "REFERENCES.md",
     "Systems/GM's Manual",
     "Systems/Player's Manual",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Introduction.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Deliver Items to Matilda.md",
     "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On Rotated Realities\".md",
     "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"Intruding Thought Magic\".md",
@@ -327,31 +343,20 @@
     "Campaigns/Infinite Dungeon/09. Subplots/System/Combat Type and Objective.md",
     "Campaigns/Infinite Dungeon/11. Monsters/Loader.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/GM Fame Sinks.md",
-    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md",
-    "TODOs/2025/05 (MAY)/GM-TODO-29-MAY-2025.md",
     "TODOs/2025/06 (JUNE)/GM-TODO-12-JUN-2025.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Matilda the Hedge-Witch.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Mithrandir's Warrant.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Nikolai Ivanovich Lobachevsky.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Hexcrawling.md",
-    "TODOs/2025/05 (MAY)/GM-TODO-15-MAY-2025.md",
     "TODOs/2025",
     "TODOs/2025/06 (JUNE)",
     "TODOs/2025/05 (MAY)",
-    "Campaigns/Infinite Dungeon/Infinite Dungeon.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Character Generation.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Infinite Dungeon (System).md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/The Big Idea.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - I'm just a businessman, eh?/01. Prologue - S3 - I'm just a business man, eh?.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/01. Prologue - S4 - TBD.md",
     "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/Scenes",
     "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD",
     "Systems/GM's Manual/05. Characters",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/Handouts",
     "TODOs",
-    "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters",
     "Assets/infernal-machine-lair.jpg",
     "Assets/infernal-machine-lair.jpg",
     "Assets/boss monster.jpg",

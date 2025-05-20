@@ -26,5 +26,6 @@
 	- [ ] Isk Village Map
 	- [ ] Nik and Matilda Portraits
 	- [ ] Build and load scripts from this repo
-- [ ] Prep handouts for how ID will work.
-	- [ ] Ideally this is like, a wiki that I expose along w/ the VTT
+- [ ] Prep Initial Player's Manual for ID
+	- [ ] Initial version as a single handout (see [[01. The Basics]])
+		- Ideally this is like, a wiki that I expose along w/ the VTT
