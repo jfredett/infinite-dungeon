@@ -20,8 +20,33 @@
               "icon": "lucide-file",
               "title": "The Eye"
             }
+          },
+          {
+            "id": "37b0340a0dc6a65f",
+            "type": "leaf",
+            "state": {
+              "type": "rpg-manager-readme",
+              "state": {},
+              "icon": "d20",
+              "title": "RPG Manager Documentation"
+            }
+          },
+          {
+            "id": "f0e9f4603f0b8ceb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/GM Fame Sinks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GM Fame Sinks"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -233,8 +258,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "5b992fd847a60ec4",
+  "active": "9b205d3a5b3ab092",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/GM Fame Sinks.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/Scenes/Introduction.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/02. Tower of the Mad Wizard - S01 - This is a 5e Hack.md",
@@ -262,8 +289,6 @@
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Threeflower.md",
     "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/Scenes/Fight DQ.md",
     "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/Scenes/Regroup and recover.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/Scenes/Denouement + Tie In.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/Scenes/D3 Enters.md",
     "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/Scenes",
     "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD",
     "Systems/05. Characters",

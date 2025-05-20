@@ -3982,6 +3982,33 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "Campaigns/Infinite Dungeon/09. Subplots/System/GM Fame Sinks.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 280,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.9333333333333333,
+      "characterCount": 1740,
+      "nonWhitespaceCharacterCount": 1415,
+      "newlineCount": 36,
+      "readingTimeInMinutes": 1.0566037735849056,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1747707075888,
+      "modifiedDate": 1747707762276,
+      "sizeInBytes": 1740,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
