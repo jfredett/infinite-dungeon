@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/GM Fame Sinks.md",
+                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GM Fame Sinks"
+              "title": "Raid"
             }
           }
         ],
@@ -103,7 +103,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 617.5086555480957
+    "width": 654.5086555480957
   },
   "right": {
     "id": "6518d3750dd1a88a",
@@ -182,16 +182,6 @@
             }
           },
           {
-            "id": "9b205d3a5b3ab092",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "d38b023176ccb165",
             "type": "leaf",
             "state": {
@@ -200,9 +190,44 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "63373660e12fb0a6",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_fb292b3afbc8",
+                "ephemeral": {
+                  "viewing": {
+                    "day": 20,
+                    "month": 4,
+                    "year": 2025
+                  },
+                  "viewState": 2,
+                  "displaying": {
+                    "day": 20,
+                    "month": 4,
+                    "year": 2025
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayAbsoluteYear": true,
+                  "displayMoons": true,
+                  "displayWeeks": true,
+                  "displayWeather": true,
+                  "location": "ID_69388b8a3829"
+                },
+                "id": "ID_09fb38bb995b",
+                "child": "ID_ebea6a48a998"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       },
       {
         "id": "e2c54735a63075fd",
@@ -224,20 +249,51 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TODOs/GM-TODO-15-MAY-2025.md",
+                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GM-TODO-15-MAY-2025"
+              "title": "Outline of Raid"
+            }
+          },
+          {
+            "id": "9b205d3a5b3ab092",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "a2a11c454741ab54",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "438097f0e950fb32",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM_AGENDA",
+              "state": {
+                "calendar": "ID_fb292b3afbc8",
+                "id": "ID_ebea6a48a998",
+                "parent": "ID_09fb38bb995b"
+              },
+              "icon": "CALENDARIUM_AGENDA",
+              "title": "Agenda"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 430.5
+    "width": 1036.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,18 +314,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9b205d3a5b3ab092",
+  "active": "438097f0e950fb32",
   "lastOpenFiles": [
-    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md",
+    "Systems/GM's Manual",
+    "Systems/Player's Manual",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Introduction.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Deliver Items to Matilda.md",
+    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On Rotated Realities\".md",
+    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"Intruding Thought Magic\".md",
+    "TODOs/GM-TODO-NEXT.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Combat Type and Objective.md",
+    "Campaigns/Infinite Dungeon/11. Monsters/Loader.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/GM Fame Sinks.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/Scenes/Introduction.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/02. Tower of the Mad Wizard - S01 - This is a 5e Hack.md",
     "TODOs/2025/05 (MAY)/GM-TODO-29-MAY-2025.md",
     "TODOs/2025/06 (JUNE)/GM-TODO-12-JUN-2025.md",
-    "TODOs/GM-TODO-NEXT.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Matilda the Hedge-Witch.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/Scenes/Mithrandir's Warrant.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Mithrandir's Warrant.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Nikolai Ivanovich Lobachevsky.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Hexcrawling.md",
     "TODOs/2025/05 (MAY)/GM-TODO-15-MAY-2025.md",
@@ -283,19 +346,12 @@
     "Campaigns/Infinite Dungeon/09. Subplots/System/The Big Idea.md",
     "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - I'm just a businessman, eh?/01. Prologue - S3 - I'm just a business man, eh?.md",
     "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/01. Prologue - S4 - TBD.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - I'm just a businessman, eh?/Scenes/Fight Nehkbel.md",
-    "Campaigns/Infinite Dungeon/03. Non Player Characters/Mithrandir.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/Scenes/Raid the Tower.md",
-    "Campaigns/Infinite Dungeon/03. Non Player Characters/Threeflower.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/Scenes/Fight DQ.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/Scenes/Regroup and recover.md",
     "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/Scenes",
     "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD",
-    "Systems/05. Characters",
+    "Systems/GM's Manual/05. Characters",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/Handouts",
     "TODOs",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters",
-    "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard",
     "Assets/infernal-machine-lair.jpg",
     "Assets/infernal-machine-lair.jpg",
     "Assets/boss monster.jpg",

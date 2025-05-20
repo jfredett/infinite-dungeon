@@ -12,7 +12,7 @@ Hard cut to a scene with [[Nikolai Ivanovich Lobachevsky|Nik]] collecting the pl
 id: 
   type: "scene"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/02. Tower of the Mad Wizard - S01 - This is a 5e Hack.md"
+  parent: "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying.md"
   positionInParent: 3
 tasks: 
   - id: "75728c50-5f0c-4016-b52c-26f9ee117dab"
@@ -26,7 +26,7 @@ data:
   externalactions: true
 ```
 
-[[Campaigns/[[02. Tower of the Mad Wizard - S01 - This is a 5e Hack]]e Mad Wizard - S01]]d Wizard - S01.md|]]
+[[Camp[[02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying]]Hack]]e Mad Wizard - S01]]d Wizard - S01.md|]]
 [[Campaigns/Infinite Dungeon/11. Monsters/Infernal Machine.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Nikolai Ivanovich Lobachevsky.md|]]
 [[Loading Docks]]

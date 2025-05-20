@@ -38,4 +38,4 @@ tasks:
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Guilds.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Fame.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/Scenes/Introduction.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Introduction.md|]]
