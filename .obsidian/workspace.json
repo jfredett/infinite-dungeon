@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/GM's Manual/05. Characters/Disorganized Notes.md",
+                "file": "Systems/Player's Manual/02. Traits, Orders, and Character Generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Disorganized Notes"
+              "title": "02. Traits, Orders, and Character Generation"
             }
           }
         ]
@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Introduction.md",
+                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "Traits"
             }
           }
         ]
@@ -108,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/GM's Manual/05. Characters/Disorganized Notes.md",
+                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Disorganized Notes"
+              "title": "Outline of Traits"
             }
           }
         ]
@@ -319,17 +319,19 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f0e9f4603f0b8ceb",
+  "active": "316b0922848e9d8e",
   "lastOpenFiles": [
-    "Systems/Player's Manual/01. The Basics.md",
-    "Systems/GM's Manual/00. The Basics (for GMs).md",
     "Systems/Player's Manual/02. Traits, Orders, and Character Generation.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Introduction.md",
+    "Systems/Player's Manual/03. Vesper, Ducats, and Fame.md",
+    "Systems/Player's Manual/01. The Basics.md",
+    "Systems/GM's Manual/05. Characters/Disorganized Notes.md",
+    "Systems/GM's Manual/00. The Basics (for GMs).md",
     "Systems/Player's Manual/04. Raids and Repeatable Content.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md",
-    "Systems/Player's Manual/03. Vesper, Ducats, and Fame.md",
     "TODOs/2025/05 (MAY)/GM-TODO-29-MAY-2025.md",
-    "Systems/GM's Manual/05. Characters/Disorganized Notes.md",
     "Systems/Player's Manual/Overview.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying.md",
     "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md",
@@ -343,12 +345,10 @@
     "Campaigns/Infinite Dungeon/09. Subplots/System/Combat Type and Objective.md",
     "Campaigns/Infinite Dungeon/11. Monsters/Loader.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/GM Fame Sinks.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md",
     "TODOs/2025/06 (JUNE)/GM-TODO-12-JUN-2025.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Matilda the Hedge-Witch.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Mithrandir's Warrant.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Nikolai Ivanovich Lobachevsky.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Hexcrawling.md",
     "TODOs/2025",
     "TODOs/2025/06 (JUNE)",
     "TODOs/2025/05 (MAY)",
