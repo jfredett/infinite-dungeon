@@ -18,4 +18,4 @@ He may appear as an NPC in [[Edom by way of Ynn]]
 
 This is a Psuedonym he acquired much later from some folks he met on a later trip to Ynn. His real name is as yet undecided
 
-- Dr. Robby from The Pitt, a little bit.
+- Dr. Robby from The Pitt
