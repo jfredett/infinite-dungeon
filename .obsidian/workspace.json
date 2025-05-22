@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/03. Non Player Characters/Parmadil.md",
+                "file": "Systems/Player's Manual/01. The Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Parmadil"
+              "title": "01. The Basics"
             }
           },
           {
@@ -69,6 +69,7 @@
       {
         "id": "1ff831cc100c5050",
         "type": "tabs",
+        "dimension": 66.66666666666666,
         "children": [
           {
             "id": "5b992fd847a60ec4",
@@ -115,6 +116,7 @@
       {
         "id": "1406a6865b46933e",
         "type": "tabs",
+        "dimension": 33.33333333333333,
         "children": [
           {
             "id": "d2acd24e3743e4cb",
@@ -122,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/03. Non Player Characters/Parmadil.md",
+                "file": "Systems/Player's Manual/01. The Basics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Parmadil"
+              "title": "Outline of 01. The Basics"
             }
           }
         ]
@@ -144,7 +146,7 @@
       {
         "id": "003a3731efbcd124",
         "type": "tabs",
-        "dimension": 18.7807881773399,
+        "dimension": 23.772408417770848,
         "children": [
           {
             "id": "c471c3c8e51a27bf",
@@ -213,70 +215,14 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "63373660e12fb0a6",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM",
-              "state": {
-                "calendar": "ID_fb292b3afbc8",
-                "ephemeral": {
-                  "viewing": {
-                    "day": 19,
-                    "month": 4,
-                    "year": -425
-                  },
-                  "viewState": 1,
-                  "displaying": {
-                    "day": 19,
-                    "month": 4,
-                    "year": -425
-                  },
-                  "displayDayNumber": true,
-                  "displaySeasonColors": true,
-                  "interpolateColors": true,
-                  "displayAbsoluteYear": true,
-                  "displayMoons": true,
-                  "displayWeeks": true,
-                  "displayWeather": true,
-                  "location": "ID_69388b8a3829"
-                },
-                "id": "ID_09fb38bb995b",
-                "child": "ID_ebea6a48a998"
-              },
-              "icon": "CALENDARIUM",
-              "title": "Calendarium"
-            }
           }
         ],
-        "currentTab": 5
-      },
-      {
-        "id": "e2c54735a63075fd",
-        "type": "tabs",
-        "dimension": 20.997536945812808,
-        "children": [
-          {
-            "id": "438097f0e950fb32",
-            "type": "leaf",
-            "state": {
-              "type": "CALENDARIUM_AGENDA",
-              "state": {
-                "calendar": "ID_fb292b3afbc8",
-                "id": "ID_ebea6a48a998",
-                "parent": "ID_09fb38bb995b"
-              },
-              "icon": "CALENDARIUM_AGENDA",
-              "title": "Agenda"
-            }
-          }
-        ]
+        "currentTab": 4
       },
       {
         "id": "937f4411d96a3806",
         "type": "tabs",
-        "dimension": 60.22167487684729,
+        "dimension": 76.22759158222915,
         "children": [
           {
             "id": "9b205d3a5b3ab092",
@@ -333,8 +279,10 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "63373660e12fb0a6",
+  "active": "641f00504587d793",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On the Viral Idea\".md",
+    "Campaigns/Infinite Dungeon/03. Non Player Characters/Parmadil.md",
     "Languages/Edomic/Edomic (Language).md",
     "Languages/Edomic",
     "Languages",
@@ -344,8 +292,6 @@
     "Campaigns/Infinite Dungeon/09. Subplots/Private Language of the Mad Wizard Dracul Dracthulu Dracthir.md",
     "Campaigns/Infinite Dungeon/09. Subplots/Sidhe.md",
     "Systems/Player's Manual/02. Orders.md",
-    "Campaigns/Infinite Dungeon/03. Non Player Characters/Parmadil.md",
-    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On the Viral Idea\".md",
     "Campaigns/Infinite Dungeon/09. Subplots/The Garden of Ynn.md",
     "Campaigns/Infinite Dungeon/09. Subplots/The Idea of Thorns.md",
     "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"Intruding Thought Magic\".md",
