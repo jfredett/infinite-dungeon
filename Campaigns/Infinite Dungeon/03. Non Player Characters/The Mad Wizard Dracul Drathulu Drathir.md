@@ -1,3 +1,10 @@
+aka:
+
+Athul re'Athir - An [[Edom|Edomic]] Magus in the Court of a Rival faction to [[Parmadil]]. At this time he is not the ultra-powerful Wizard he is in the current timeline.
+
+[[Nikolai Ivanovich Lobachevsky]]
+
+
 
 ```RpgManager4
 id: 
@@ -17,3 +24,9 @@ tasks:
 
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/System/The Big Idea.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Eret.md|]]
+[[Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom by way of Ynn.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Nikolai Ivanovich Lobachevsky.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Parmadil.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Edom.md|]]
