@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/Player's Manual/03. Vesper, Ducats, and Fame.md",
+                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/The Big Idea.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03. Vesper, Ducats, and Fame"
+              "title": "The Big Idea"
             }
           }
         ]
@@ -30,17 +30,17 @@
         "dimension": 47.370617696160274,
         "children": [
           {
-            "id": "316b0922848e9d8e",
+            "id": "641f00504587d793",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md",
+                "file": "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On the Viral Idea\".md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Traits"
+              "title": "\"On the Viral Idea\""
             }
           }
         ]
@@ -108,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/Player's Manual/03. Vesper, Ducats, and Fame.md",
+                "file": "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On the Viral Idea\".md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 03. Vesper, Ducats, and Fame"
+              "title": "Outline of \"On the Viral Idea\""
             }
           }
         ]
@@ -220,8 +220,8 @@
                 "ephemeral": {
                   "viewing": {
                     "day": 20,
-                    "month": 4,
-                    "year": 2025
+                    "month": 0,
+                    "year": -425
                   },
                   "viewState": 2,
                   "displaying": {
@@ -298,7 +298,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1036.5
+    "width": 571.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,36 +319,37 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f0e9f4603f0b8ceb",
+  "active": "63373660e12fb0a6",
   "lastOpenFiles": [
-    "Systems/Player's Manual/02. Traits, Orders, and Character Generation.md",
-    "Systems/Player's Manual/03. Vesper, Ducats, and Fame.md",
-    "Systems/Player's Manual/04. Raids and Repeatable Content.md",
-    "Systems/GM's Manual/00. The Basics (for GMs).md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md",
+    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"Intruding Thought Magic\".md",
+    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On Rotated Realities\".md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Provisions Die.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/The Big Idea.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Guilds.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/GM Fame Sinks.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Ducats.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Combat Type and Objective.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Infinite Dungeon (System).md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Character Generation.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Items and Equipment.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Loot Distribution.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Introduction.md",
-    "Systems/Player's Manual/01. The Basics.md",
-    "Systems/GM's Manual/05. Characters/Disorganized Notes.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Vesper.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Fame.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Condition Die.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md",
-    "TODOs/2025/05 (MAY)/GM-TODO-29-MAY-2025.md",
-    "Systems/Player's Manual/Overview.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying.md",
-    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md",
-    "REFERENCES.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Random Encounters.md",
+    "Systems/Player's Manual/05. Travel.md",
+    "Systems/Player's Manual/06. Downtime.md",
+    "Systems/Player's Manual/07. Raids.md",
+    "Systems/Player's Manual/04. Loot.md",
+    "Systems/Player's Manual/03. Character Generation.md",
+    "Systems/Player's Manual/02. Orders.md",
+    "Systems/Shared Concepts/Condition Die.md",
+    "Systems/Shared Concepts",
     "Systems/GM's Manual",
     "Systems/Player's Manual",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Deliver Items to Matilda.md",
-    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On Rotated Realities\".md",
-    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"Intruding Thought Magic\".md",
-    "TODOs/GM-TODO-NEXT.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Combat Type and Objective.md",
-    "Campaigns/Infinite Dungeon/11. Monsters/Loader.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/GM Fame Sinks.md",
-    "TODOs/2025/06 (JUNE)/GM-TODO-12-JUN-2025.md",
-    "Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Matilda the Hedge-Witch.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Mithrandir's Warrant.md",
-    "Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Nikolai Ivanovich Lobachevsky.md",
     "TODOs/2025",
     "TODOs/2025/06 (JUNE)",
     "TODOs/2025/05 (MAY)",
@@ -356,7 +357,6 @@
     "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD",
     "Systems/GM's Manual/05. Characters",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - This is a 5e Hack/Handouts",
-    "TODOs",
     "Assets/infernal-machine-lair.jpg",
     "Assets/infernal-machine-lair.jpg",
     "Assets/boss monster.jpg",

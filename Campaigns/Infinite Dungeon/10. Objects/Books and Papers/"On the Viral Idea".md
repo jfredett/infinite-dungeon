@@ -24,9 +24,7 @@ it details none of the origin of it's raw material nor how this was accomplished
 _worked_ for quite some time, a stable, orthogonal reality, attached to their primary Magick but _fundamentally
 altering_ parts of it to allow for different and deeper arcana to be explored.
 
-The commentaries on the sent tomes include a work by an -- I assume -- psuedonymous author, "Parmadil", which contains a
-number of entries relating to various excursions into this domain, in particular it notes something the author refuses
-to name directly, but which appears to have utterly consumed a colleague.
+The commentaries on the sent tomes include a work by an -- I assume -- psuedonymous author, "Parmadil", which contains a number of entries relating to various excursions into this domain, in particular it notes something the author refuses to name directly, but which appears to have utterly consumed a colleague.
 
 > "He has drawn more today, they seem to pervade his thinking. This idea that has so consumed him has driven him to
 > irrationality and despair. Daily he does not go up, but remains in his room, scrawling on every wall the image of
@@ -76,7 +74,7 @@ said in [[intruding-though-magic]]:
 > Intruder Intruder, won't you let me come in? I've got something to give them.
 
 Which, if we are generous with our interpretation, may be an attempt to convey the idea of a kind of magic that exists
-only as a mental trap or idea that, once concieved, poisons the mind in a way that destroys it. If such a thing were
+only as a mental trap or idea that, once conceived, poisons the mind in a way that destroys it. If such a thing were
 then given form and function to self-reproduce, such a thing would act like a disease, spreading through the minds of
 all who observe it.
 

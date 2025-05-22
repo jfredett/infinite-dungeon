@@ -6,7 +6,7 @@ Your characters are currently generated like:
 4. Roll for hitpoints
 5. Roll for any subsequent choice where rolling is possible.
 6. If your net modifier is < -6, your character is nonviable and you may reroll if you like.
-7. You have no equipment beyond clothes, a simple weapon/focus/etc (<d10 damage die), simple adventuring gear, and a [[Condition Die|d10 Ration Die]].
+7. You have no equipment beyond clothes, a simple weapon/focus/etc (<d10 damage die), simple adventuring gear, and a [[Campaigns/Infinite Dungeon/09. Subplots/System/Condition Die|d10 Ration Die]].
 
 ```RpgManager4
 id: 
