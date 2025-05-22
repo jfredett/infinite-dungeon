@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/Player's Manual/01. The Basics.md",
+                "file": "Plans/Infrastructure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. The Basics"
+              "title": "Infrastructure"
             }
           },
           {
@@ -124,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/Player's Manual/01. The Basics.md",
+                "file": "Plans/Infrastructure.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01. The Basics"
+              "title": "Outline of Infrastructure"
             }
           }
         ]
@@ -281,9 +281,16 @@
   },
   "active": "641f00504587d793",
   "lastOpenFiles": [
+    "Untitled.md",
+    "module.json",
+    "Plans/Infrastructure.md",
+    "Plans/2025/05 (MAY)/GM-TODO-29-MAY-2025.md",
+    "Systems/Shared Concepts/Condition Die.md",
+    "Languages/Edomic/Edomic (Language).md",
+    "Systems/Player's Manual/01. The Basics.md",
+    "Systems/Player's Manual/02. Orders.md",
     "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On the Viral Idea\".md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Parmadil.md",
-    "Languages/Edomic/Edomic (Language).md",
     "Languages/Edomic",
     "Languages",
     "Campaigns/Infinite Dungeon/05. Locations/Edom.md",
@@ -291,7 +298,6 @@
     "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom by way of Ynn.md",
     "Campaigns/Infinite Dungeon/09. Subplots/Private Language of the Mad Wizard Dracul Dracthulu Dracthir.md",
     "Campaigns/Infinite Dungeon/09. Subplots/Sidhe.md",
-    "Systems/Player's Manual/02. Orders.md",
     "Campaigns/Infinite Dungeon/09. Subplots/The Garden of Ynn.md",
     "Campaigns/Infinite Dungeon/09. Subplots/The Idea of Thorns.md",
     "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"Intruding Thought Magic\".md",
@@ -304,18 +310,12 @@
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/The Shining Shrine.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md",
     "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On Rotated Realities\".md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Provisions Die.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/The Big Idea.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Guilds.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/GM Fame Sinks.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Ducats.md",
     "Systems/Shared Concepts",
     "Systems/GM's Manual",
     "Systems/Player's Manual",
-    "TODOs/2025",
-    "TODOs/2025/06 (JUNE)",
-    "TODOs/2025/05 (MAY)",
-    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/Scenes",
+    "Plans/2025",
+    "Plans/2025/06 (JUNE)",
+    "Plans/2025/05 (MAY)",
     "Assets/infernal-machine-lair.jpg",
     "Assets/infernal-machine-lair.jpg",
     "Assets/boss monster.jpg",
