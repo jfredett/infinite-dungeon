@@ -12,7 +12,7 @@
       ];
 
       systems = [
-        "x86_64-linux"
+        "x86_64-linux" "aarch64-darwin"
       ];
 
       perSystem = { pkgs, system, ... }: let
@@ -25,6 +25,7 @@
             eplot
             gnuplot
             openai-whisper
+            pandoc
           ] ++ ci;
           ci = [
           ];
