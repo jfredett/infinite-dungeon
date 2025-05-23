@@ -7,6 +7,20 @@ Mission - Whatever it is, this is _How bad you **want** it_. It's not the dog in
 
 All these start as 1d6 straight rolls, calculate a modifier using the below table, Characters will use Fame to buy traits to augment these die rolls later. Characters with a net modifier less than a GM ordained value may be rerolled. 
 
+---
+Insert
+
+I think I want to have two additional things:
+
+The mechanics for skill checks should be a 'roll under stat' model, the mechanics for combat are d20 + modifier model, I like the idea of opposed rolls for combat, so you roll dP + stat + armor vs dP + stat + modifier and win on a tie or higher. For skill checks, you roll dP under your stat. `dP` is your current _Power Die_, starting at a d8 for 'normal' low level play, this is the replacement for the d20 of typical D&D. For low level play, a d6 or d8 might face enemies with a d4 or d6, lieutenants would have a d8, and boss a d10 or d12.
+
+Players can spend Vesper to advance their level _or_ to try to advance their power die. Power die above the "Natural" level for a character degrade toward the natural level, power die artificially lowered can be rolled once per long rest to upgrade until 'natural'. Traits can alter the 'natural' power of a character by one or more ticks.
+
+Vibes checks still work roughly the same, but I think it's a success-only model and the minimum obstacle goes up based on power level and character level. The Vibes are always Success - Obstacle, if negative, the vibes are bad, if positive, they're good.
+
+
+---
+
 > TODO: These should be associated with tuning info -- how likely is a d20 at DC whatever? What's the expected # of successes on a given roll? Especially as they start to nerf, those might be very aggressive or very generous, IDK. Vibes should be strong at low levels where knowing by how much one succeeds matters more -- later, vibes _failures_ are more interesting. Vibes are used when you need to know 'how bad it gets' -- at low levels this should generally be used as a way to lower the lethality, since the success rate is tuned upwards, later it should be used to show what happens when power is used unchecked. Vibes being used for mundane actions are a blessing and a curse. When you're a walking demigod with x-ray eyes, sometimes 'Investigation' becomes 'Unintentional Infliction of Cancer' because you can't contain your see-through powers when you fail a vibes check to x-ray something and accidentally irradiate a small town or something three blocks away. Oops, vibes checking 6d6 on a 6+ is very likely to show at least some successes.  See below for more.
 > Ultimately this should be tuned such that the power curve almost crosses over, this is a significantly more 'powerful' system than typical D&D-style games as currently tuned, I want to tune things up just a smidge, because the players will start at extremely low values of these stats. I don't know exactly how often players should succeed roles generally, but in 5e, for instance, the base proficiency bonus is a +2, typical 'good stat' at level 1 is a +2, and my standard easy/medium/hard DCs are 12, 15, and 20. So the lowest chance of success at a thing you're 'good' at at level 1 in 5e is an effective 60%, 45%, 20% EMH. So probably somewhere between 60% or so.
 > For the system as currently tabled below, a starting character could have as much as a +1, or as little as a -2 at level on for a Check

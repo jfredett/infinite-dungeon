@@ -25,6 +25,5 @@ A primary way the GM will spend fame is upgrading [[Campaigns/Infinite Dungeon/0
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/System/Projects.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/The Big Idea.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Introduction.md|]]
