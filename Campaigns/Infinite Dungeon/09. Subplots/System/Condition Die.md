@@ -24,7 +24,7 @@ possible it is worth optimizing for.
 However, you might want to use a Resource die if the item is a _nonfinite_ resource. Charges on a wand, uses of a health
 potion, etc.
 
-Additionally, ID uses it for managine the equipment condition, which is how it will ultimately help manage the item
+Additionally, ID uses it for managing the equipment condition, which is how it will ultimately help manage the item
 hoarding issue.
 
 ## Equipment Condition
@@ -190,5 +190,4 @@ tasks:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Introduction.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Character Generation.md|]]

@@ -27,6 +27,11 @@ Used as an initial shakedown adventure, some adaptation from my end to incorpora
 
 Mostly I've absconded with a couple characters, the setting is a deliberate kitchen-sink-multiversal-concollision, so
 various characters show up. I also make liberal use of Elvish and other conlangs of the LotR idiom.
+
+## Black Hack
+
+From whence I have stolen and screwed around with _Usage Die_.
+
 # Indirect Reference or consideration
 
 These are secondary sources that I've consulted, maybe borrowed some ideas from, but haven't directly integrated into
