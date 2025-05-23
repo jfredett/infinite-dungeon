@@ -30,3 +30,30 @@ I think this would be a lower lethality section, more story driven, so probably 
 
 
 I think the pointcrawl would be something like:
+
+There are seven houses in edom, Parmadil (of house P) needs House A and B to come to an agreement about X, He needs C and D to deal with Y, and he needs something else only house R, his house's rival house and current employer of an earlier incarnation of the BBEG. The remaining house is the current Grand Duke (G), who is basically ceremonially removed from power by election, a way of checking houses that gain too much prestige -- make them grand duke and their role is so swept with ceremonial duties that they essentially get locked out of politics for the duration of the term, systematically culling the strongest member's influence (in theory)
+
+A and B have MacGuffins M1, M2, M3
+C and D have MacGuffins M2, M3, M4
+R and P have MacGuffins M1, M4
+G has all of them, in a room, begging to be stolen. G is virtually impossible to get an audience with, but intrepid and insistent players might try to weasel/social engineer something. If they come up with a clever way then reward them greatly. The MacGuffins themselves are Fame items worth 15m of fame each, or 120m for an intact set of 4.
+
+Each pair starts with a random one from it's pool, then when the players meet the first one, roll to see if they already have the other in their possession. If they do, they'll generally not be willing to part with it and the opposing house will approach them suggesting they work together to steal both, and split them 50/50. If they don't, they'll suggest that if you steal the other, they'll give you one, they just need the other's.
+
+The same basic scenario for C and D, except always the opposite die roll. Maybe it's not a theft here but an escort to a high stakes negotiation/exchange or something.
+
+R will know that _a_ party is working with P, because of spies in P, but won't know who they are necessarily. So theft/social engineering is the only real option there. Athul is still a very powerful enemy and will happily TPK some parties. However he is not omnipresent, nor omniscient, and so sneaky or clever players may be able to get to get at the ones they have.
+
+P needs any three, and only to borrow. He assumes the party will return them, but no one knows that he's using them and he is too busy with patients to care what happens after he uses them to help his patient.
+
+
+
+
+
+----
+
+Entering Ynn for the first time:
+
+> You're... somewhere lovely. There is a bright blue sky above you, crayon clouds and cobalt blue, the air is the perfect temperature, the humidity is just right -- whatever you prefer, that's how it feels. It's uncanny, the sun is shining but you never quite get it in your eyes. A gentle, even illumination covers everything, the ground glows with saturated color -- almost technicolor. You have shadow, but it's always just a little behind and to whichever side you go looking for it, exaggerating all your gestures just enough to be pleasantly silly to onlooking children. You feel an inexorable urge to sing a tune in a major key. The ground is grassy and mossy and green, the trees are electric, like after a spring rain, there are neat hedges and hydrangeas, azaleas and lilacs and daffodils and lilies and roses -- so many roses. Sand cherry, crab apples, cherry trees, dogwoods, plum, willow, and in the distance you swear you see chestnut trees and elms and ash. This places seems endless, and the horizon is many many miles further away than what you're used too. It almost feels like the world is wrapping back in on itself. There are no pestering insects, the air is sweet smelling and clears the sinuses. It smells slightly like rain, even though it's dry. Every flower is always blooming, you're certain of it.
+>
+> There are so many paths leading away from here, every one of you sees a path towards a part of this place that looks more like the favorite spot you had outdoors when you were a kid. The door you entered by clicks shut behind you, it's gone before you can turn to see it, as if it was never there. There is no wall here where you could've drawn it even if you wanted to, I suppose you'll have to go looking for an exit. 

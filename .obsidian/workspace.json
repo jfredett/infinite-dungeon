@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/The Big Idea.md",
+                "file": "Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Big Idea"
+              "title": "Orders"
             }
           }
         ]
@@ -49,15 +49,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/09. Subplots/Sidhe.md",
+                "file": "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom by way of Ynn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sidhe"
+              "title": "Edom by way of Ynn"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -124,13 +125,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Plans/Infrastructure.md",
+                "file": "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom by way of Ynn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Infrastructure"
+              "title": "Outline of Edom by way of Ynn"
             }
           }
         ]
@@ -279,11 +280,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "641f00504587d793",
+  "active": "bf8fbca9a9bc51c4",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Projects.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/The Big Idea.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Items and Equipment.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Infinite Dungeon (System).md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Guilds.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/GM Fame Sinks.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Fame.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Ducats.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Character Generation.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/System/Combat Type and Objective.md",
+    "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom by way of Ynn.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/The Garden of Ynn.md",
+    "Campaigns/Infinite Dungeon/09. Subplots/Sidhe.md",
+    "Plans/Infrastructure.md",
     "Untitled.md",
     "module.json",
-    "Plans/Infrastructure.md",
     "Plans/2025/05 (MAY)/GM-TODO-29-MAY-2025.md",
     "Systems/Shared Concepts/Condition Die.md",
     "Languages/Edomic/Edomic (Language).md",
@@ -295,21 +310,8 @@
     "Languages",
     "Campaigns/Infinite Dungeon/05. Locations/Edom.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/The Mad Wizard Dracul Drathulu Drathir.md",
-    "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom by way of Ynn.md",
     "Campaigns/Infinite Dungeon/09. Subplots/Private Language of the Mad Wizard Dracul Dracthulu Dracthir.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/Sidhe.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/The Garden of Ynn.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/The Idea of Thorns.md",
-    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"Intruding Thought Magic\".md",
-    "Campaigns/Infinite Dungeon/Infinite Dungeon.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn",
-    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - I'm just a businessman, eh?/01. Prologue - S3 - I'm just a business man, eh?.md",
-    "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/\"Get thee to a Library!\".md",
-    "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md",
-    "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/The Machineworks.md",
-    "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/The Shining Shrine.md",
-    "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md",
-    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/\"On Rotated Realities\".md",
     "Systems/Shared Concepts",
     "Systems/GM's Manual",
     "Systems/Player's Manual",
