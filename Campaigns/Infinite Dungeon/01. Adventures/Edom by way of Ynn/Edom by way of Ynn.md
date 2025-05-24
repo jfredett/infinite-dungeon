@@ -36,11 +36,11 @@ There are seven houses in edom, Parmadil (of house P) needs House A and B to com
 A and B have MacGuffins M1, M2, M3
 C and D have MacGuffins M2, M3, M4
 R and P have MacGuffins M1, M4
-G has all of them, in a room, begging to be stolen. G is virtually impossible to get an audience with, but intrepid and insistent players might try to weasel/social engineer something. If they come up with a clever way then reward them greatly. The MacGuffins themselves are Fame items worth 15m of fame each, or 120m for an intact set of 4.
+G has all of them, in a room, begging to be stolen. G is virtually impossible to get an audience with, but intrepid and insistent players might try to weasel/social engineer something. If they come up with a clever way then reward them greatly. The MacGuffins themselves are Fame items worth 15m of fame each, or 120m for an intact set of 4. Nik knows a guy.
 
 Each pair starts with a random one from it's pool, then when the players meet the first one, roll to see if they already have the other in their possession. If they do, they'll generally not be willing to part with it and the opposing house will approach them suggesting they work together to steal both, and split them 50/50. If they don't, they'll suggest that if you steal the other, they'll give you one, they just need the other's.
 
-The same basic scenario for C and D, except always the opposite die roll. Maybe it's not a theft here but an escort to a high stakes negotiation/exchange or something.
+For C and D, the players enter the situation above but in media res, when going to meet whichever, they find it on fire, and the other house has a crew on site looting the macguffins. Now they are placed in the position of either helping whichever side, or just stealing it before the other side can.
 
 R will know that _a_ party is working with P, because of spies in P, but won't know who they are necessarily. So theft/social engineering is the only real option there. Athul is still a very powerful enemy and will happily TPK some parties. However he is not omnipresent, nor omniscient, and so sneaky or clever players may be able to get to get at the ones they have.
 

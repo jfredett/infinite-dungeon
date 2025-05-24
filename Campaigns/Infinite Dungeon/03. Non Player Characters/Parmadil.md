@@ -16,6 +16,6 @@ An Edomite Scholar and Physician, living c1700 BCE, responsible for work transla
 
 He may appear as an NPC in [[Edom by way of Ynn]]
 
-This is a Psuedonym he acquired much later from some folks he met on a later trip to Ynn. His real name is as yet undecided
+This is a Psuedonym he adopted while studying an ancient text his house keeps as an ancient and secret relic. His real name is as yet undecided
 
 - Dr. Robby from The Pitt
