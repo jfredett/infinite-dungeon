@@ -1,6 +1,6 @@
 {
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-unstable";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.05";
     devshell.url = "github:numtide/devshell";
     flake-parts.url = "github:hercules-ci/flake-parts";
   };
@@ -19,12 +19,21 @@
         deps = with pkgs; rec {
           dev = [
             cloc
+            clang
             timg
             just
             bc
             eplot
             gnuplot
             openai-whisper
+            mdbook
+            mdbook-pdf
+            mdbook-toc
+            mdbook-cmdrun
+            mdbook-d2
+            mdbook-pagetoc
+            mdbook-footnote
+            mdbook-admonish
             pandoc
           ] ++ ci;
           ci = [
@@ -41,18 +50,9 @@
           };
         };
         devshells.default = {extraModulesPath, ...}@args: {
-          imports = ["${extraModulesPath}/language/ruby.nix"];
+          # imports = ["${extraModulesPath}/language/ruby.nix"];
 
-          language.ruby.package = pkgs.ruby_3_4;
-
-          # motd = ''
-
-
-          #            ==================================
-          #             I N F I N I T E    D U N G E O N
-          #            ==================================
-
-          # '';
+          # language.ruby.package = pkgs.ruby_3_4;
 
           motd = ''
 
