@@ -15,14 +15,14 @@
                 "id": "f0e9f4603f0b8ceb",
                 "type": "leaf",
                 "state": {
-                  "type": "split-diff-view",
+                  "type": "markdown",
                   "state": {
-                    "aFile": "Systems/Players/00. The Loop.md",
-                    "bFile": "Systems/Players/00. The Loop.md",
-                    "aRef": ""
+                    "file": "Systems/Players/00. The Loop.md",
+                    "mode": "source",
+                    "source": false
                   },
-                  "icon": "diff",
-                  "title": "Diff: 00. The Loop"
+                  "icon": "lucide-file",
+                  "title": "00. The Loop"
                 }
               }
             ]
@@ -115,12 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Systems/Players/00. The Loop.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 00. The Loop"
             }
           }
         ]
@@ -296,8 +297,16 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9b205d3a5b3ab092",
+  "active": "f0e9f4603f0b8ceb",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Mithrandir's Warrant.md",
+    "Campaigns/Infinite Dungeon/10. Objects/Letters, Postings, etc/Mithrandir's Warrant.md",
+    "Systems/Players/00. The Loop.md",
+    "Systems/Players/02. Orders.md",
+    "Systems/Players/08. Condition Die.md",
+    "Systems/Players/04. Loot.md",
+    "Systems/Players/01. The Basics.md",
+    "Systems/Players/03. Character Generation.md",
     "book/pdf/output.pdf",
     "book/html/FontAwesome/fonts/fontawesome-webfont.woff",
     "book/html/FontAwesome/css/font-awesome.css",
@@ -309,20 +318,14 @@
     "book/html/fonts/source-code-pro-v11-all-charsets-500.woff2",
     "book/html/fonts/open-sans-v17-all-charsets-regular.woff2",
     "book/html/fonts/open-sans-v17-all-charsets-italic.woff2",
-    "book/html/fonts/open-sans-v17-all-charsets-800italic.woff2",
     "book/html/favicon.svg",
     "book/html/favicon.png",
-    "Systems/Players/04. Loot.md",
     "Systems/Players/05. Travel.md",
     "Systems/GM/05. Characters/Disorganized Notes.md",
     "Systems/Players/04. Travel.md",
     "Systems/Players/04. Downtime.md",
     "Systems/Players/04. Raids.md",
     "Systems/Players/04. Condition Die.md",
-    "Systems/Players/03. Character Generation.md",
-    "Systems/Players/01. The Basics.md",
-    "Systems/Players/00. The Loop.md",
-    "Systems/Players/02. Orders.md",
     "Systems/Players/00._The_Loop.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom by way of Ynn.md",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
@@ -338,8 +341,6 @@
     "Campaigns/Infinite Dungeon/09. Subplots/System/Guilds.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/GM Fame Sinks.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Fame.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Ducats.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Condition Die.md",
     "Assets/infernal-machine-lair.jpg",
     "Assets/infernal-machine-lair.jpg",
     "Assets/boss monster.jpg",

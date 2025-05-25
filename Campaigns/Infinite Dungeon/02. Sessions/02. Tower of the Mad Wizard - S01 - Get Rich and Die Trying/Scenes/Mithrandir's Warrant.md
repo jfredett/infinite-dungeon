@@ -1,5 +1,5 @@
 
-Players find [[Campaigns/Infinite Dungeon/10. Objects/Letters, Postings, etc/MIthrandir's Warrant|Mithrandir's Warrant]]
+Players find [[Campaigns/Infinite Dungeon/10. Objects/Letters, Postings, etc/Mithrandir's Warrant|Mithrandir's Warrant]]
 
 Nik interrupts the party as they read, "You, you, you want drink or just read? Notice is old -- come inside and spend money." He ushers them inside, the tavern smells like fresh timber and beer. A local band is playing in the corner, there is some bustle, mostly adventurers. It is a little too warm, but the room is lively and there is a breeze coming through. You can smell the spring of trees and flowers outside.
 
@@ -39,8 +39,8 @@ data:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Matilda the Hedge-Witch.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/The Secret Garden of Ynn.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Deliver Items to Matilda.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Threeflower.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying.md|]]
