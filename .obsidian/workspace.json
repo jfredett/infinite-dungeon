@@ -6,7 +6,6 @@
       {
         "id": "b9e8f49fd3a0b946",
         "type": "split",
-        "dimension": 52.629382303839726,
         "children": [
           {
             "id": "2747fadc7c47fc62",
@@ -18,12 +17,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Systems/GM's Manual/05. Characters/Disorganized Notes.md",
+                    "file": "Systems/Players/04. Loot.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "Disorganized Notes"
+                  "title": "04. Loot"
                 }
               }
             ]
@@ -50,27 +49,6 @@
           }
         ],
         "direction": "horizontal"
-      },
-      {
-        "id": "61869e904e6ff148",
-        "type": "tabs",
-        "dimension": 47.370617696160274,
-        "children": [
-          {
-            "id": "641f00504587d793",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom by way of Ynn.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Edom by way of Ynn"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -137,13 +115,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom by way of Ynn.md",
+                "file": "Systems/Players/04. Loot.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Edom by way of Ynn"
+              "title": "Outline of 04. Loot"
             }
           }
         ]
@@ -228,9 +206,36 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
+          },
+          {
+            "id": "7a67451c071d7fbd",
+            "type": "leaf",
+            "state": {
+              "type": "CALENDARIUM",
+              "state": {
+                "calendar": "ID_fb292b3afbc8",
+                "ephemeral": {
+                  "viewState": 1,
+                  "displaying": {
+                    "day": 20,
+                    "month": 4,
+                    "year": 2025
+                  },
+                  "displayDayNumber": true,
+                  "displaySeasonColors": true,
+                  "interpolateColors": true,
+                  "displayMoons": true,
+                  "displayWeather": true,
+                  "location": "ID_69388b8a3829"
+                },
+                "id": "ID_7a7839b83b98"
+              },
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       },
       {
         "id": "937f4411d96a3806",
@@ -292,11 +297,41 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "641f00504587d793",
+  "active": "f0e9f4603f0b8ceb",
   "lastOpenFiles": [
-    "Campaigns/Infinite Dungeon/03. Non Player Characters/Parmadil.md",
-    "Systems/GM's Manual/05. Characters/Disorganized Notes.md",
+    "Systems/Players/05. Travel.md",
+    "Systems/Players/04. Loot.md",
+    "book/html/Players/08. Condition Die.html",
+    "book/html/Players/07. Raids.html",
+    "book/html/Players/06. Downtime.html",
+    "book/html/Players/05. Travel.html",
+    "Systems/GM/05. Characters/Disorganized Notes.md",
+    "book/pdf/output.pdf",
+    "book/pdf",
+    "book/html/GM/02. Raids",
+    "book/html/GM/05. Characters",
+    "book/html/GM/04. Fame, Vesper, and Ducats",
+    "book/html/GM/03. Items and Loot",
+    "book/html/FontAwesome/fonts/fontawesome-webfont.svg",
+    "book/html/favicon.svg",
+    "book/html/favicon.png",
+    "Systems/Players/04. Travel.md",
+    "Systems/Players/04. Downtime.md",
+    "Systems/Players/04. Raids.md",
+    "Systems/Players/04. Condition Die.md",
+    "Systems/Players/03. Character Generation.md",
+    "Systems/Players/01. The Basics.md",
+    "Systems/Players/00. The Loop.md",
+    "Systems/Players/02. Orders.md",
+    "Systems/Players/00._The_Loop.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom by way of Ynn.md",
+    "book/FontAwesome/fonts/fontawesome-webfont.svg",
+    "book/favicon.svg",
+    "book/favicon.png",
+    "Systems/SUMMARY.md",
+    "src/chapter_1.md",
+    "src/SUMMARY.md",
+    "Campaigns/Infinite Dungeon/03. Non Player Characters/Parmadil.md",
     "Plans/Infrastructure.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Infinite Dungeon (System).md",
@@ -305,35 +340,9 @@
     "Campaigns/Infinite Dungeon/09. Subplots/System/Fame.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Ducats.md",
     "Campaigns/Infinite Dungeon/09. Subplots/System/Condition Die.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Combat Type and Objective.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Character Generation.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Vesper.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Traits.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/The Big Idea.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Random Encounters.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Provisions Die.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Projects.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Loot Distribution.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/System/Items and Equipment.md",
-    "Systems/GM's Manual/00. The Basics (for GMs).md",
-    "Systems/Player's Manual/00. The Loop.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Mithrandir's Warrant.md",
-    "Systems/Player's Manual/_TOC_.md",
-    "module.json",
-    "Languages/Edomic",
-    "Languages",
-    "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn",
-    "Systems/Shared Concepts",
-    "Systems/GM's Manual",
-    "Systems/Player's Manual",
-    "Plans/2025",
-    "Plans/2025/06 (JUNE)",
-    "Plans/2025/05 (MAY)",
     "Assets/infernal-machine-lair.jpg",
     "Assets/infernal-machine-lair.jpg",
     "Assets/boss monster.jpg",
-    "Assets/iskavi.jpg",
-    "Assets/upper-carpathia.jpg"
+    "Assets/iskavi.jpg"
   ]
 }
