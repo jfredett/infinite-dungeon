@@ -15,14 +15,14 @@
                 "id": "f0e9f4603f0b8ceb",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
+                  "type": "split-diff-view",
                   "state": {
-                    "file": "Systems/Players/04. Loot.md",
-                    "mode": "source",
-                    "source": false
+                    "aFile": "Systems/Players/00. The Loop.md",
+                    "bFile": "Systems/Players/00. The Loop.md",
+                    "aRef": ""
                   },
-                  "icon": "lucide-file",
-                  "title": "04. Loot"
+                  "icon": "diff",
+                  "title": "Diff: 00. The Loop"
                 }
               }
             ]
@@ -115,13 +115,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/Players/04. Loot.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 04. Loot"
+              "title": "Outline"
             }
           }
         ]
@@ -299,8 +298,8 @@
   },
   "active": "f0e9f4603f0b8ceb",
   "lastOpenFiles": [
-    "Systems/Players/05. Travel.md",
     "Systems/Players/04. Loot.md",
+    "Systems/Players/05. Travel.md",
     "book/html/Players/08. Condition Die.html",
     "book/html/Players/07. Raids.html",
     "book/html/Players/06. Downtime.html",
