@@ -18,14 +18,14 @@
 		- [ ] Magic Items
 			- [ ] Table with some stuff from one of the splatbooks, and some +1 items
 		- [ ] Calculate total reward / do some simulated loot pools / maybe make a macro
-	- [ ] Skybridge Depth
-		- [ ] Design Macros to roll on the depth chart
+	- [x] Skybridge Depth
+		- [x] Design Macros to roll on the depth chart
 - [ ] Non-Raid stuff
 	- [ ] PF Map
 	- [ ] Matilda Map
 	- [ ] Isk Village Map
 	- [ ] Nik and Matilda Portraits
 	- [ ] Build and load scripts from this repo
-- [ ] Prep Initial Player's Manual for ID
-	- [ ] Initial version as a single handout (see [[01. The Basics]])
+- [x] Prep Initial Player's Manual for ID
+	- [x] Initial version as a single handout (see [[01. The Basics]])
 		- Ideally this is like, a wiki that I expose along w/ the VTT
