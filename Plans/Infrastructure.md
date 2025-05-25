@@ -19,3 +19,6 @@
 3. Foundry Stuff
 	1. https://github.com/ElfFriend-DnD/foundryvtt-gmScreen
 	2. https://github.com/Ethaks/FVTT-Quench
+4.  mdbook stuff
+	1. Obsidian Link -> md link. I have a plugin for this, but it'd be nice to have it be a preproc step. Prior art exists
+	2. Link fixer for pdf generation -- much more complicated, will need to pick apart the existing plugin
