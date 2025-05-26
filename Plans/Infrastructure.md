@@ -22,3 +22,10 @@
 4.  mdbook stuff
 	1. Obsidian Link -> md link. I have a plugin for this, but it'd be nice to have it be a preproc step. Prior art exists
 	2. Link fixer for pdf generation -- much more complicated, will need to pick apart the existing plugin
+5.  General obsidian stuff
+	1. Better integration w/ Foundry (import/export of scripts, journals, etc.)
+	2. Better tooling (rpg plugin is well old, but I like the concept/templating at least)
+	3. Autolinking (mine the docs for links)
+	4. Maybe some limited AI autogeneration of stuff, character summaries, etc. Read the whole thing and add summaries to char pages.
+
+I've looked a bit at, e.g., world anvil and legendkeeper, but I want something self-hosted, and it seems I'll have to make it myself.
