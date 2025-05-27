@@ -57,3 +57,16 @@ Entering Ynn for the first time:
 > You're... somewhere lovely. There is a bright blue sky above you, crayon clouds and cobalt blue, the air is the perfect temperature, the humidity is just right -- whatever you prefer, that's how it feels. It's uncanny, the sun is shining but you never quite get it in your eyes. A gentle, even illumination covers everything, the ground glows with saturated color -- almost technicolor. You have shadow, but it's always just a little behind and to whichever side you go looking for it, exaggerating all your gestures just enough to be pleasantly silly to onlooking children. You feel an inexorable urge to sing a tune in a major key. The ground is grassy and mossy and green, the trees are electric, like after a spring rain, there are neat hedges and hydrangeas, azaleas and lilacs and daffodils and lilies and roses -- so many roses. Sand cherry, crab apples, cherry trees, dogwoods, plum, willow, and in the distance you swear you see chestnut trees and elms and ash. This places seems endless, and the horizon is many many miles further away than what you're used too. It almost feels like the world is wrapping back in on itself. There are no pestering insects, the air is sweet smelling and clears the sinuses. It smells slightly like rain, even though it's dry. Every flower is always blooming, you're certain of it.
 >
 > There are so many paths leading away from here, every one of you sees a path towards a part of this place that looks more like the favorite spot you had outdoors when you were a kid. The door you entered by clicks shut behind you, it's gone before you can turn to see it, as if it was never there. There is no wall here where you could've drawn it even if you wanted to, I suppose you'll have to go looking for an exit. 
+
+
+----
+
+I have a rough version of a bit of art I'm going to have for the [[The Idea of Thorns]], in particular, I'm going to take the phrase:
+
+> Lanatar tenecel ynnir
+
+Which is Quenya for:
+
+> "This is not Thorn-Idea Ynn's-bane."
+
+on like, a sketch of a rose or something. I've written the phrase in Old Syriac script, which is gently Tengwar-y (well, I suppose Tengwar is gently Aramaic-adjacent), but should make for a cool puzzle if anyone bothers to dig, and a cool thing otherwise. I don't know that I'm technically using it correctly (AFAIK it should have, e.g., vowel marks under everything? I only add them when the vowel changes), but it looks cool, just needs a few more iterations.
