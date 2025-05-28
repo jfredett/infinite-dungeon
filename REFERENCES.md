@@ -32,7 +32,7 @@ various characters show up. I also make liberal use of Elvish and other conlangs
 
 From whence I have stolen and screwed around with _Usage Die_.
 
-# Indirect Reference or consideration
+# Indirect Reference or consideration (Appendix N)
 
 These are secondary sources that I've consulted, maybe borrowed some ideas from, but haven't directly integrated into
 the setting yet.
@@ -45,3 +45,6 @@ the setting yet.
 - Blades in the Dark
 - Dragonbane
 - The entire history of D&D and all it's various offshoots, relatives, reactions, reassertions, and other renderings across the broad history of the hobby it is broadly responsible for starting.
+- Sleep Token
+- Coheed and Cambria
+- 

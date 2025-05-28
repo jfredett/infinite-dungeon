@@ -21,3 +21,4 @@ additional-css = ["./mdbook-admonish.css"]
 
 [output.pdf]
 additional-css = ["./mdbook-admonish.css"]
+

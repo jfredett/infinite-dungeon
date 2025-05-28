@@ -25,8 +25,9 @@ tasks:
     priority: 2
     name: "Defeat Neheb-khalet"
     description: 
-    status: "incomplete"
+    status: "complete"
     type: "custom"
+    completionDate: "2025-05-28T14:32:20.786Z"
     mentionedIn: ["Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md"]
   - id: "ea8beea3-802d-44ac-b21b-fef5994545ab"
     priority: 2
