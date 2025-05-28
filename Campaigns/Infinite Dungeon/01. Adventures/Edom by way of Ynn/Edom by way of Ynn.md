@@ -67,6 +67,15 @@ I have a rough version of a bit of art I'm going to have for the [[The Idea of T
 
 Which is Quenya for:
 
-> "This is not Thorn-Idea Ynn's-bane."
+> Lit "Is (present, negation) Thorn-Idea Ynn's-bane."
+
+or
+
+> Tr: "This is not the Idea of Thorns"
 
 on like, a sketch of a rose or something. I've written the phrase in Old Syriac script, which is gently Tengwar-y (well, I suppose Tengwar is gently Aramaic-adjacent), but should make for a cool puzzle if anyone bothers to dig, and a cool thing otherwise. I don't know that I'm technically using it correctly (AFAIK it should have, e.g., vowel marks under everything? I only add them when the vowel changes), but it looks cool, just needs a few more iterations.
+
+---
+
+I also want to have a proper 'thorn-idea' set of art where the line is just "_lana tenecel ynnir_" (lit: "is (present) thorn-idea ynn-bane", tr: "This _is_ The Idea of Thorns.")
+
