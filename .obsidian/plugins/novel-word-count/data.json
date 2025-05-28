@@ -6007,6 +6007,33 @@
         "nonWhitespaceCharacterCount": 0,
         "newlineCount": 0
       }
+    },
+    "Campaigns/Infinite Dungeon/03. Non Player Characters/The Traveling Seamstress.md": {
+      "isCountable": true,
+      "targetNodeType": "file",
+      "noteCount": 1,
+      "wordCount": 31,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 392,
+      "nonWhitespaceCharacterCount": 327,
+      "newlineCount": 16,
+      "readingTimeInMinutes": 0.1169811320754717,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1748455511012,
+      "modifiedDate": 1748455511012,
+      "sizeInBytes": 392,
+      "sessionStart": {
+        "noteCount": 0,
+        "pageCount": 0,
+        "wordCount": 0,
+        "characterCount": 0,
+        "nonWhitespaceCharacterCount": 0,
+        "newlineCount": 0
+      }
     }
   }
 }
