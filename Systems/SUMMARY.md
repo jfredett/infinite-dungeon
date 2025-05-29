@@ -2,6 +2,9 @@
 
 <!-- toc -->
 
+## GM's Manual
+
+- [[00. The Big Idea]]
 ## Player's Manual
 
 - [Player's Manual](Players/00.%20The%20Loop.md)
