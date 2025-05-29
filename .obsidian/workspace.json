@@ -22,12 +22,12 @@
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "Systems/Players/01. The Basics.md",
+                        "file": "Systems/Players/06. Downtime.md",
                         "mode": "source",
                         "source": false
                       },
                       "icon": "lucide-file",
-                      "title": "01. The Basics"
+                      "title": "06. Downtime"
                     }
                   }
                 ]
@@ -40,12 +40,14 @@
                     "id": "0dfe9162217b2cf6",
                     "type": "leaf",
                     "state": {
-                      "type": "excalidraw",
+                      "type": "markdown",
                       "state": {
-                        "file": "Excalidraw/Gameplay Loop.md"
+                        "file": "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/Scenes/D3 Enters.md",
+                        "mode": "source",
+                        "source": false
                       },
-                      "icon": "excalidraw-icon",
-                      "title": "Gameplay Loop"
+                      "icon": "lucide-file",
+                      "title": "D3 Enters"
                     }
                   }
                 ]
@@ -142,13 +144,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/Players/01. The Basics.md",
+                "file": "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/Scenes/D3 Enters.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01. The Basics"
+              "title": "Outline of D3 Enters"
             }
           }
         ]
@@ -297,12 +299,25 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "f0e9f4603f0b8ceb",
+  "active": "0dfe9162217b2cf6",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/01. Prologue - S4 - TBD.md",
+    "Systems/Players/06. Downtime.md",
     "Systems/SUMMARY.md",
+    "Assets/Gameplay Loop v0.1.1.png",
     "Excalidraw/Gameplay Loop.md",
+    "book/html/Players/08. Condition Die.html",
+    "book/html/Players/07. Raids.html",
+    "book/html/Players/06. Downtime.html",
+    "book/html/Players/05. Travel.html",
+    "book/html/Players/04. Loot.html",
+    "book/html/Players/03. Character Generation.html",
+    "book/html/Players/02. Orders.html",
+    "book/html/Players/01. The Basics.html",
+    "book/html/index.html",
+    "book/html/Players/00. The Loop.html",
+    "Systems/Players/01. The Basics.md",
     "Systems/GM/00. The Big Idea.md",
-    "book/html/GM/00. The Big Idea.html",
     "Systems/Players/00. The Loop.md",
     "Systems/Players/05. Travel.md",
     "Systems/Players/08. Condition Die.md",
@@ -311,30 +326,18 @@
     "Campaigns/Infinite Dungeon/03. Non Player Characters/The Traveling Seamstress.md",
     "Systems/Players/04. Loot.md",
     "Systems/Players/02. Orders.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/01. Prologue - S4 - TBD.md",
     "Systems/Players/07. Raids.md",
-    "Systems/Players/06. Downtime.md",
-    "Systems/Players/01. The Basics.md",
     "Systems/Players/03. Character Generation.md",
     "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - I'm just a businessman, eh?/01. Prologue - S3 - I'm just a business man, eh?.md",
     "Plans/Infrastructure.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom by way of Ynn.md",
     "Campaigns/Infinite Dungeon/09. Subplots/Private Language of the Mad Wizard Dracul Dracthulu Dracthir.md",
-    "book/katex",
-    "book/latex",
-    "Excalidraw",
     "REFERENCES.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Matilda the Hedge-Witch.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Prologue/Chapters/The Demon Queen Awakens.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Prologue/Prologue.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md",
-    "book/pdf/output.pdf",
-    "book/html/FontAwesome/fonts/fontawesome-webfont.woff",
-    "book/html/FontAwesome/css/font-awesome.css",
-    "book/html/FontAwesome/fonts/fontawesome-webfont.woff2",
-    "book/html/FontAwesome/fonts/fontawesome-webfont.ttf",
     "book/html/FontAwesome/fonts/fontawesome-webfont.svg",
-    "book/html/FontAwesome/fonts/fontawesome-webfont.eot",
     "book/html/favicon.svg",
     "book/html/favicon.png",
     "book/FontAwesome/fonts/fontawesome-webfont.svg",
@@ -342,7 +345,6 @@
     "book/favicon.png",
     "Assets/infernal-machine-lair.jpg",
     "Assets/infernal-machine-lair.jpg",
-    "Assets/boss monster.jpg",
-    "Assets/iskavi.jpg"
+    "Assets/boss monster.jpg"
   ]
 }

@@ -4,7 +4,7 @@
 
 ## GM's Manual
 
-- [The Big Idea](GM/00.%20The%20Big%20Idea.md)
+<!-- The Big Idea (GM/00.%20The%20Big%20Idea.md) -->
 ## Player's Manual
 
 - [Player's Manual](Players/00.%20The%20Loop.md)
