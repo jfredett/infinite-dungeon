@@ -51,6 +51,4 @@ tasks:
 ```
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Infinite Dungeon (System).md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/System/Ducats.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/System/Fame.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/The Mad Wizard Dracul Drathulu Drathir.md|]]

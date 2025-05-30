@@ -4,7 +4,7 @@ A `Trait` is a specific modification to the chargen process for a specific playe
 A `Trait` has the following parts:
 
 - Name, e.g., "Veteran"
-- Description/"Rule-text":  "New Characters improve their hit die 1 step"
+- Description/"Rule-text":  "New Characters improve their hit die 1 step (e.g., d4 -> d6 -> d8, ...)"
 - Cost: 1m
 - Activation: 1m, compounding.
 - Restrictions:
@@ -64,8 +64,6 @@ tasks:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/System/Orders.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Infinite Dungeon (System).md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Guilds.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Fame.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Introduction.md|]]

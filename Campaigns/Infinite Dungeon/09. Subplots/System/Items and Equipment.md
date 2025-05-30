@@ -45,7 +45,7 @@ money. You might also find some NPCs who will trade for other items, really up t
 A standard backpack is a 6x9 grid of 'slots'. Almost every item is a 1x1 or 2x1 (rotatable) 'block'. Items may be of
 other sizes at the GM's discretion.
 
-The purpose here is to manage encumberance via the slots.
+The purpose here is to manage encumbrance via the slots.
 
 Players in _Infinite Dungeon_ should also track weight of equipment using the system-local definitions. GMs should
 adjust these weights if players have a hard time filling their pack, just add a blanket weight reduction spell on the

@@ -1,3 +1,29 @@
+- [ ] RAID
+	- [ ] Maps
+		- [ ] Loading Docs map
+			- [ ] 5' Drawn
+			- [ ] 5' Imported
+			- [ ] 5' Rigged
+	- [ ] Encounter Design
+		- [ ] IM
+			- [ ] Finish at least N mode, ideas in place, but nothing doing
+		- [ ] Loading Docks
+			- [ ] Finish at least N mode, ideas in place, but nothing doing
+	- [ ] Statblocks
+		- [ ] IM
+			- [ ] N
+				- [ ] Designed
+				- [ ] Imported
+	- [ ] Loot Tables
+		- [ ] Magic Items
+			- [ ] Table with some stuff from one of the splatbooks, and some +1 items
+		- [ ] Calculate total reward / do some simulated loot pools / maybe make a macro
+- [ ] Non-Raid stuff
+	- [ ] PF Map
+	- [ ] Matilda Map
+	- [ ] Isk Village Map
+	- [ ] Nik and Matilda Portraits
+	- [ ] Build and load scripts from this repo
 
 
 - [ ] RAID
