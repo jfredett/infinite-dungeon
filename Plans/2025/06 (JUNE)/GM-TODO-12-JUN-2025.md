@@ -22,8 +22,7 @@
 	- [ ] PF Map
 	- [ ] Matilda Map
 	- [ ] Isk Village Map
-	- [ ] Nik and Matilda Portraits
-	- [ ] Build and load scripts from this repo
+	- [x] Nik and Matilda Portraits
 
 
 - [ ] RAID

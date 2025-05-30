@@ -14,8 +14,12 @@ tasks:
 
 An Edomite Scholar and Physician, living c1700 BCE, responsible for work translating some older Edomic texts about [[The Idea of Thorns]]. He was also responsible for the treatment of an anonymous patient who had contracted the Idea. He took notes about his progression.
 
-He may appear as an NPC in [[Edom by way of Ynn]]
+He may appear as an NPC in [[Edom, by way of Ynn]]
 
 This is a Psuedonym he adopted while studying an ancient text his house keeps as an ancient and secret relic. His real name is as yet undecided
 
 - Dr. Robby from The Pitt
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom, by way of Ynn.md|]]
+[[Campaigns/Infinite Dungeon/10. Objects/Books and Papers/"On the Viral Idea".md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/The Mad Wizard Dracul Drathulu Drathir.md|]]

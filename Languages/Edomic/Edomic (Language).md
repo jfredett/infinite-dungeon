@@ -18,3 +18,8 @@ service particles:
 | ar       | child        | Member of the Family, Full Time Employee                                                                                                                                                                         |
 | zem      | parent       | The Leader of Family, the Boss                                                                                                                                                                                   |
 | al-zem   | enemy        | Used to declare a sort of 'Social Vendetta', usually provided in addition to another rank, so 'Athul al-zem'Zanzir re'Athir' would indicate that Athul has beef with the Zanzir family, and works for the Athir. |
+
+
+# Orthography
+
+Old Aramaic/Syriac script, but modified to be cursive. Often embellished as with Illuminations in old manuscripts.

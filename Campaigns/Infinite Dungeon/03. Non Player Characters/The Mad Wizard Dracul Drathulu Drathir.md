@@ -26,7 +26,7 @@ tasks:
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/The Big Idea.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Eret.md|]]
-[[Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom by way of Ynn.md|]]
+[[Edom, by way of Ynn]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Nikolai Ivanovich Lobachevsky.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Parmadil.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Edom.md|]]

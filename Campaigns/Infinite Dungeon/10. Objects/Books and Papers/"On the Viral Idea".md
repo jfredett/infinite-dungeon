@@ -79,11 +79,11 @@ all who observe it.
 
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom by way of Ynn.md|]]
-[[Campaigns/Infinite Dungeon/10. Objects/Books and Papers/"Intruding Thought Magic".md|]]
-[[Campaigns/Infinite Dungeon/03. Non Player Characters/Parmadil.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Southron University of the Arcane Arts.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/The Garden of Ynn.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Parmadil.md|]]
+[[Campaigns/Infinite Dungeon/10. Objects/Books and Papers/"Intruding Thought Magic".md|]]
+[[Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom, by way of Ynn.md|]]
 [[The Garden of Ynn]]
 [[The Garden of Ynn]]
 ```RpgManager4

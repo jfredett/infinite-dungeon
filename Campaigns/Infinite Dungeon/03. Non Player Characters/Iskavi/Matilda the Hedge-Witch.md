@@ -3,6 +3,10 @@
 	- Worth some Coin or Vesper
 - Insists she is studying something she calls  'Psy Ents', it has to do with the trees and things she is growing, and is thus very particular about her garden, her work studying the local Inland Freshwater Marsh and it's various flora and fauna. Curiously, she does not seem to do much _"actual"_ magic.
 - Extremely knowledgable about Alchemy, Local flora and fauna, local folk tales and folk medicine, etc. Velma coded.
+	- She doesn't do any actual magic, she mimics it using something she discovered she calls "Artificial Vesper", which uses mundane materials to animate careful collections rocks and metals to accomplish different tasks. She calls this Artificial Vesper "Electrum", and it's created through a combination an acidic compound, specific metals, magnets, and other strange things.
+
+![[Matilda.webp]]
+from [here](https://www.reddit.com/r/ImaginaryWitches/comments/wsg6ho/hedge_witch_portrait_by_elena_barbieri/)
 
 
 ```RpgManager4
