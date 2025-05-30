@@ -190,4 +190,3 @@ tasks:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/System/Character Generation.md|]]
