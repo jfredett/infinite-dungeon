@@ -1,4 +1,4 @@
-# Infinite Dungeon
+# Infinite Dungeon - v0.2.0
 
 <!-- toc -->
 
@@ -28,6 +28,5 @@
 	- [G - Glossary](03.%20Appendices/G%20-%20Glossary.md)
 	- [N - References](03.%20Appendices/N%20-%20REFERENCES.md)
 	- [T - Tables](03.%20Appendices/T%20-%20Tables.md)
-# Change Log
 
 - [CHANGELOG](CHANGELOG.md)
