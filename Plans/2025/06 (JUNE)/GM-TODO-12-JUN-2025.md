@@ -15,15 +15,17 @@
 				- [ ] Designed
 				- [ ] Imported
 	- [ ] Loot Tables
-		- [ ] Magic Items
-			- [ ] Table with some stuff from one of the splatbooks, and some +1 items
-		- [ ] Calculate total reward / do some simulated loot pools / maybe make a macro
+		- [ ] Defer - These can wait, no loot from the intro mode will make it back to the PF, just fame
+			- [ ] Magic Items
+				- [ ] Table with some stuff from one of the splatbooks, and some +1 items
+			- [ ] Calculate total reward / do some simulated loot pools / maybe make a macro
 - [ ] Non-Raid stuff
 	- [x] Initial [[00. The Time Matrix|timeline(s)]]
-	- [ ] PF Map
-	- [ ] Matilda Map
-	- [ ] Isk Village Map
 	- [x] Nik and Matilda Portraits
+	- Defer
+		- [ ] PF Map
+		- [ ] Matilda Map
+		- [ ] Isk Village Map
 
 
 - [ ] RAID

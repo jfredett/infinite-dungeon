@@ -12,3 +12,5 @@ tasks:
     status: "proposed"
 ```
 See [[REFERENCES|REFERENCES - The Garden of Ynn]]
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/10. Objects/Books and Papers/"On the Viral Idea".md|]]
