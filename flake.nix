@@ -19,6 +19,7 @@
         deps = with pkgs; rec {
           dev = [
             cloc
+            cargo
             clang
             timg
             just

@@ -41,6 +41,7 @@ jobs:
           cargo install mdbook-pdf
           cargo install mdbook-admonish
           cargo install mdbook-toc
+          cargo install mdbook-kroki-preprocessor
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

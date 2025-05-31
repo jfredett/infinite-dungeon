@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/SUMMARY.md",
+                "file": "Systems/00. GM/02. Character Generation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SUMMARY"
+              "title": "02. Character Generation"
             }
           }
         ]
@@ -108,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/SUMMARY.md",
+                "file": "Systems/00. GM/02. Character Generation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of SUMMARY"
+              "title": "Outline of 02. Character Generation"
             }
           }
         ]
@@ -242,7 +242,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 571.5
+    "width": 428.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -264,8 +264,15 @@
   },
   "active": "f0e9f4603f0b8ceb",
   "lastOpenFiles": [
-    "Systems/CHANGELOG.md",
+    "Systems/00. GM/01. Guiding Principles.md",
+    "Systems/00. GM/02. Character Generation.md",
+    "Systems/00. GM/00. The Big Idea.md",
+    "Systems/01. Players/01. The Basics.md",
+    "Systems/01. Players/04. Loot.md",
+    "Systems/01. Players/03. Character Generation.md",
+    "Systems/01. Players/02. Orders.md",
     "Systems/SUMMARY.md",
+    "Systems/CHANGELOG.md",
     "book/html/00. GM/02. Character Generation.html",
     "book/html/00. GM/02. CharacterGeneration",
     "Systems/00. GM/02. CharacterGeneration",
@@ -275,8 +282,6 @@
     "book/html/GM",
     "book/html/GM.html",
     "Systems/GM",
-    "Systems/00. GM/01. Guiding Principles.md",
-    "Systems/00. GM/02. Character Generation.md",
     "Systems/00. GM/XX. Notes.md",
     "book/html/03. Appendices/T - Tables.html",
     "Systems/REFERENCES.md",
@@ -288,7 +293,6 @@
     "Systems/03. Appendices/T - Tables.md",
     "Systems/03. Appendices/A - Tables.md",
     "Systems/00.%GM/00. The Big Idea.md",
-    "Systems/01. Players/04. Loot.md",
     "Systems/Players/00. The Loop.md",
     "Systems/Appendices/A - Tables.md",
     "Systems/00. The Loop.md",
@@ -296,9 +300,6 @@
     "Systems/03. Character Generation.md",
     "Systems/Players/05. Travel.md",
     "Systems/Players/06. Downtime.md",
-    "Systems/Players/07. Raids.md",
-    "Systems/Players/08. Condition Die.md",
-    "Systems/Players/03. Character Generation.md",
     "Assets/iskavi-old.jpg",
     "Assets/Eret - Upper Carpathia - Iskavi.webp",
     "Assets/Eret - Greater Arcadia.webp",
