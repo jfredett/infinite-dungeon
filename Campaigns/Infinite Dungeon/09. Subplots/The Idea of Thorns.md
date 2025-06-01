@@ -1,10 +1,10 @@
 See [[REFERENCES|REFERENCES - The Garden of Ynn]].
 
 Below are notes on my specific interpretation of how the idea presents both narratively and mechanically.
-# Variant - Tenecel Emmyallensis
+# Variant - Tenecel Emmyalleneus
 
 This is the book-standard version of The Idea of Thorns
-# Variant - Tenecel Parmadilensis
+# Variant - Tenecel Parmadileus
 
 A variant affects [[Edom]] c995CE. This variant is less aggressive, but still extremely deadly and much harder to remove. It manifests physically as a wasting disease that manifests as strange markings on the skin, leading to difficulty breathing and a hacking cough, followed by coma and then death. After death, rose-like blooming vines emerge from the body and spread to fill the area around where the erstwhile sufferer now lies. The fragrance of the blood-red blooms has a chance to infect, increasing in probability with time of and closeness-to exposure.
 
@@ -23,4 +23,4 @@ The vines of this variant are extremely durable, and frequently grow into [[lana
 
 The vines also display that image as a sort of natural tattoo appearing all over the skin of the individual.
 
-The leaves of this variant are blood red, always dripping with an ichor that, if touched, is a moderate exposure to _T. Parmadilensis_. The ichor itself is clear, sweet smelling, and exudes _old_ magic. Much older than any PC will have any sense for. It may be older than Eret itself. Deep, dark magic.
+The leaves of this variant are blood red, always dripping with an ichor that, if touched, is a moderate exposure to _T. Parmadileus. The ichor itself is clear, sweet smelling, and exudes _old_ magic. Much older than any PC will have any sense for. It may be older than Eret itself. Deep, dark magic.
