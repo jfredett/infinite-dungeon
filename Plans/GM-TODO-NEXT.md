@@ -3,3 +3,43 @@
 	- [ ] Rename towns/cities away from real names
 	- [ ] Improve Macro/move to script the Iron Roller, add some trait support?
 	- [ ] Build and load scripts from this repo
+	- [ ] PF Map
+	- [ ] Matilda Map
+	- [ ] Isk Village Map
+- [ ] RAID
+	- [ ] Loot Tables
+		- [ ] Magic Items
+			- [ ] Table with some stuff from one of the splatbooks, and some +1 items
+		- [ ] Calculate total reward / do some simulated loot pools / maybe make a macro
+	- [ ] Statblocks
+		- [ ] Flamespew
+			- [ ] H
+				- [ ] Imported
+			- [ ] M
+				- [ ] Imported
+		- [ ] IM
+			- [ ] H
+				- [ ] Designed
+				- [ ] Imported
+			- [ ] M
+				- [ ] Designed
+				- [ ] Imported
+		- [ ] Loader
+			- [ ] H
+				- [ ] Designed
+				- [ ] Imported
+			- [ ] M
+				- [ ] Designed
+				- [ ] Imported
+		- [ ] Defender
+			- [ ] H
+				- [ ] Designed
+				- [ ] Imported
+			- [ ] M
+				- [ ] Designed
+				- [ ] Imported
+	- [ ] Skybridge Depth
+		- [ ] Improve Macros to roll on the depth chart
+			- [ ] Maybe make these create journal entries?
+				- just update a journal entry automatically with a log of the die roll + result, chapter per roll or whatever. I can add notes there and figure out how to export it back out.
+				- It'd be cool if it tracked it more nonlinearly, maybe creating items that reference each other dynamically? Items that can be found in the dungeon later?
