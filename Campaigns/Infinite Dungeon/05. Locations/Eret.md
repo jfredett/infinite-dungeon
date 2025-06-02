@@ -10,6 +10,22 @@ Magic-users will always, therefore, be of concern to lay-people, though many les
 
 Most folks that adventurers interact with, however, are self-selected individuals who do not mind the inherent danger of interacting with those of the adventuring class, especially at low levels of Fame. Famous adventurers, and especially famous magic users, will inspire quite a bit more fear and obeisance from the lay public, even those typically more resilient to their presence.
 
+----
+
+Eret, at time of play, has not yet discovered the equivalent landmasses to the Americas. They refer to the discovered masses by the following names:
+
+1. Elysia - Western Europe, Morrocco, Mauritania.
+2. Arcadia - Eastern Europe, The Balkans, Greece, Anatolia, Germany, Egypt, the Levant, Ethiopia and parts of Saudi Arabia
+3. ??? - Scandinavia
+4. ??? - Southern
+5. Moab - Asia broadly by those of Arcadia and Elysia, but specifically India and Southeast Asia, Malaysia and Indonesia.
+6. ??? - Australia (discovered by uncolonized)
+7. Eastwood - Northeast America and Canada
+8. ??? - the rest of the americas
+
+The names listed here come from the [[Catholic Pantheon]]
+
+"Old Eret" (just 'Eret' prior to the discovery of Eastwood and the rest of the Americas) is almost entirely populated by humans, with demihumans and nonhumans being extremely rare creatures. Strange species of animal exist (owlbears, etc), but elves/dwarves/etc are all confined to the other continent for the most part.
 
 ```RpgManager4
 id: 
@@ -21,3 +37,4 @@ tasks: []
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/The Mad Wizard Dracul Drathulu Drathir.md|]]
 [[Campaigns/Infinite Dungeon/10. Objects/Books and Papers/"On Rotated Realities".md|]]
+[[Campaigns/Infinite Dungeon/06. Factions/Catholic Pantheon.md|]]
