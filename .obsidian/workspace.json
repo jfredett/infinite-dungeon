@@ -271,7 +271,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 637.5
+    "width": 858.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,13 +291,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "656b24001ab8e4f3",
+  "active": "9b205d3a5b3ab092",
   "lastOpenFiles": [
+    "Burned.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md",
     "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Loading Docks.md",
     "Systems/CHANGELOG.md",
     "Systems/01. Players/04. Loot.md",
     "Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/Loot Table.md",
-    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md",
     "Systems/01. Players/06. Downtime.md",
     "Campaigns/Infinite Dungeon/11. Monsters/Flamespew/Flamespew.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md",
@@ -324,7 +325,6 @@
     "Campaigns/Infinite Dungeon/09. Subplots/The Garden of Ynn.md",
     "Assets/mithrandir's warrant.png",
     "Assets/matilda's hut.png",
-    "Campaigns/Infinite Dungeon/03. Non Player Characters/Mithrandir.md",
     "Assets/Map of Oracles in Ancient Mediterrainian.png",
     "book/html/00. GM/02. Character Generation.html",
     "book/html/00. GM/02. CharacterGeneration",

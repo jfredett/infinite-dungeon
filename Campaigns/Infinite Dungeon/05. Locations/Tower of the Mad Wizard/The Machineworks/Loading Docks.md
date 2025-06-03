@@ -1,4 +1,4 @@
-
+## Summary 
 The purpose of this area is to load Vesper that is delivered at the bottom of the map up to the top. The players enter from the midpoint. Ornithopters haul in large tanks to giant receptacles, smaller, six-legged robot-like creatures manage and connect these tanks, other similar creatures load smaller vessels and transport it to one of several ports where the tanks disappear into some assembly line.
 
 Around these workers, larger versions with mandible-like protrusions coming from what you assume is their head pace and peer toward the players, observing intently, but not making any particular move or action towards them.
@@ -16,6 +16,8 @@ This can be bypassed if the players first went to the [[Skybridge]] and found [[
 For every liter of vesper delivered, the IM will have additional fuel to spend in the fight later on.
 
 The encounter itself is designed based on the following block (values in `{}` represent the value used in `{Intro, Normal, Heroic, Mythic}`, respectively):
+
+
 
 
 ```statblock
@@ -52,11 +54,12 @@ legendary_actions:
 ```
 
 
-One this 'encounter' monster 'dies' (runs out of HP), the deliveries stop, any remaining undelivered Vesper can attempt to be delivered by the remaining loaders, and once all remaining monsters are defeated the players are free to explore the aftermath. They find fame items and plenty of vesper to loot, but not a lot of money or magic items.
+One this 'encounter' monster 'dies' (runs out of HP), the deliveries stop, any remaining undelivered Vesper can attempt to be delivered by the remaining loaders, and once all remaining monsters are defeated the players are free to explore the aftermath. They find fame items and plenty of vesper to loot, but not a lot of money or magic items. The Ornithopters stop delivering as well, but whatever remains may be transferred to the other side. Record the total quantity of Vesper transported.
 
+The goal of the encounter is to overwhelm the players with very weak enemies that are more or less uninterested in them. The Loaders attempt to load, and only defend themselves if explicitly attacked. They will otherwise aim to scuttle away and leave the work to the defenders. If there is no more work to do, they retreat.
 
-```statblock
-```
+## Statblocks
+
 
 ```statblock
 name: Loader (I, N)
@@ -84,9 +87,64 @@ cr: 1
 actions:
   - name: Slam
     desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: {10,14} (2d{4,8} + 5) bludgeoning damage."
-    attack_bonus: 7
-    damage_dice: "{2d4, 2d8}"
-    damage_bonus: 5
+  - name: Haste
+    desc: "Until the end of its next turn, the loader magically gains a +2 to it's AC, has advantage on Dex throws, can use it's Slam attack as a Bonus Action, and increases it's movement by 10ft (3m)"
+```
+```statblock
+name: Defender (I)
+source: 5e SRD Hack
+size: Large
+type: construct
+subtype: ""
+alignment: unaligned
+ac: 17
+hp: 27
+hit_dice: 3d10 + 15
+speed: 30 ft.
+stats:
+  - 20
+  - 9
+  - 18
+  - 3
+  - 8
+  - 1
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine
+condition_immunities: charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+cr: 2
+actions:
+  - name: Slam
+    desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 10 (1d8 + 5) bludgeoning damage."
+  - name: Haste
+    desc: "Until the end of its next turn, the loader magically gains a +2 to it's AC, has advantage on Dex throws, can use it's Slam attack as a Bonus Action, and increases it's movement by 10ft (3m)"
+```
+```statblock
+name: Defender (N)
+source: 5e SRD Hack
+size: Large
+type: construct
+subtype: ""
+alignment: unaligned
+ac: 17
+hp: 27
+hit_dice: 4d10 + 20
+speed: 30 ft.
+stats:
+  - 20
+  - 9
+  - 18
+  - 3
+  - 8
+  - 1
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine
+condition_immunities: charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+cr: 2
+actions:
+  - name: Slam
+    desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 5) bludgeoning damage."
   - name: Haste
     desc: "Until the end of its next turn, the loader magically gains a +2 to it's AC, has advantage on Dex throws, can use it's Slam attack as a Bonus Action, and increases it's movement by 10ft (3m)"
 ```

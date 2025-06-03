@@ -4,16 +4,36 @@ The Infernal Machine encounter is a multi-phase, multi-mode fight. It uses the V
 2. Mobile / "Melee" mode, where the IM runs around the room and slashes at players
 3. Recovery / "Refuel" mode, where the IM runs to it's docking station and recharges at the cost of Vesper.
 
-
 IM does not have an Intro mode, it is inert during this mode, and you skip right to Phase 2: Rapid Unplanned Disassembly. **ALL CHARACTERS WILL BE KILLED BY THIS PHASE IN INTRO MODE**
 
 # Phase 1: The Fight
 
+Before the fight starts, make note of the total amount of Vesper transported in liters during the [[Loading Docks]] encounter. If this encounter was skipped, you have 100-bottles worth, depending on the current difficulty level, this is true in Intro mode as well, because we use the remainder during the second phase.
 ## Mode 1: Turret
+
+- Sits in current location
+- Fires a firebolt at each player at the end of their turn, spend 250mL of vesper from the pool for each.
+- On it's turn
+	- Breath Weapon, Dex Save or Prone
+	- Scorching Ray, Con Save or gain [[Burned]]
+	- Transition to Melee mode; can only make 3 attacks this turn instead of 5.
+	- Transition to Refuel mode if it's on it's original location.
 
 ## Mode 2: Melee
 
+- Sprouts centipede legs
+- Runs at 60ft
+- makes 5 attacks, four melee with equivalent of long sword; one fire weapon attack that's stronger
+- Legendary action to either:
+	- Whirlwind (if more than 3 people in melee), doing a weapon attack, disengaging, and moving 20', 500mL Vesper
+	- Rush (if no one nearby, rush towards the person who just moved)
+	- Retreat (if hurt, run to original location to transition to Refuel)
+
 ## Mode 3: Refuel
+
+Must be standing on it's original spot
+Does not attack
+Spends 1L of Vesper to gain `{1,1,2}HD + {1,2,4}*Con` HP back, can spend up to `{5,10,20}L/round`
 
 # Phase 2: Rapid Unplanned Disassembly
 
