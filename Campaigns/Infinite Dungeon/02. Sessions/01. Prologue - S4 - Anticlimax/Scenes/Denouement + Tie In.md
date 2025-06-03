@@ -51,7 +51,7 @@ These don't tie back to the broader order's goals, and thus make for poor goals.
 id: 
   type: "scene"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/01. Prologue - S4 - TBD.md"
+  parent: "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - Anticlimax/01. Prologue - S4 - Anticlimax.md"
   positionInParent: 5
 tasks: 
   - id: "6c5adf9a-ff20-4c2d-bc09-2bcbc94d8d88"
@@ -65,5 +65,5 @@ data:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/01. Prologue - S4 - TBD.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - Anticlimax/01. Prologue - S4 - Anticlimax.md|]]

@@ -6,7 +6,7 @@ The way to DQ is open, the encounter is ready, hopefully this is the majority of
 id: 
   type: "scene"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/01. Prologue - S4 - TBD.md"
+  parent: "Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - Anticlimax/01. Prologue - S4 - Anticlimax.md"
   positionInParent: 3
 tasks: 
   - id: "a2178aa3-ac9b-42c7-ba16-1c46b5b2f2ba"
@@ -20,4 +20,4 @@ data:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
-[[Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - TBD/01. Prologue - S4 - TBD.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S4 - Anticlimax/01. Prologue - S4 - Anticlimax.md|]]

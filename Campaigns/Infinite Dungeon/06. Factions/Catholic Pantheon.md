@@ -25,3 +25,7 @@ The pantheon is organized around the worship of 'Saints' -- mundane individuals 
 | Name           | Deed                                                           | Date |
 | -------------- | -------------------------------------------------------------- | ---- |
 | Clint the Good | One of the Seven Saints who stood up to the Dark Magus Rahaban |      |
+| Lemmy the Loud | One of the Seven                                               |      |
+| Sasha the Grey | One of the Seven                                               |      |
+| Charn the Sad  |                                                                |      |
+|                |                                                                |      |
