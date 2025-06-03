@@ -5,6 +5,86 @@ The Infernal Machine encounter is a multi-phase, multi-mode fight. It uses the V
 3. Recovery / "Refuel" mode, where the IM runs to it's docking station and recharges at the cost of Vesper.
 
 
+IM does not have an Intro mode, it is inert during this mode, and you skip right to Phase 2: Rapid Unplanned Disassembly. **ALL CHARACTERS WILL BE KILLED BY THIS PHASE IN INTRO MODE**
+
+# Phase 1: The Fight
+
+## Mode 1: Turret
+
+## Mode 2: Melee
+
+## Mode 3: Refuel
+
+# Phase 2: Rapid Unplanned Disassembly
+
+```ad-warning
+
+This phase doesn't occur in intro mode, the ceiling just collapses and kills the players.
+
+```
+
+```ad-danger
+
+I haven't reviewed this from the old iteration, just imported.
+
+```
+
+The defeat of the machine has destabilized the structure, there is a door to the north you did not previously notice, it
+is opening.
+
+But wait -- the loot! What do you do?
+
+1. Grab Something!
+2. Run away
+
+Every time you choose to grab something, roll against a progressing DC check, starting at 5, and adding 1 each time you
+choose to grab something. If you fail, roll on the failure consequence table, if you succeed, roll and the GM will tell
+you what you grabbed.
+
+Players are encouraged to bullshit the GM, but the GM decides what is an appropriate skill check. If no skill is
+appropriate but the GM likes the idea, the player can roll a luck check. If no skill is appropriate and the GM does not
+like the idea, they may instruct the player to make a bad luck check.
+
+A bad luck check comes in three flavors.
+
+1. Bad day - Roll with disadvantage.
+2. Bad week - Roll with a +5 to the DC and disadvantage
+3. Bad time - Roll a size smaller die with disadvantage on the failure consequence table, immediately.
+
+So don't overdo it.
+
+When you Run Away, make a Dex save against a DC of 10 + the number of things you're still carrying, if you fail, roll on
+the failure consequence table, then save Dex again. Do this until you save.
+
+Failure Consequence
+
+1. You can't take it with you, you die.
+2. A piece of the Infernal Machine severs 1d4 limbs.
+3. A falling shard of glass slices your {left,right} {arm, leg}, you take 4d10 damage and are bleeding. Drop 1d2 held
+   items. Coins are kept in purses of at most 40 coins. Denominations cannot be changed until you are in town and there
+   is a bank to do it at.
+4. You drop some of what you were carrying, lose 1d3 + 1 items
+5. Something you picked up you assumed was dull, but was actually sharp, it poked you and you think it broke skin, take
+   1d4 damage. Roll a Con save, on failure, you are bleeding.
+6. You lucky duck, nothing bad happens.
+7. A burst of unexpected steam burns you, take 2d6 damage; roll a Dex save, if you fail, drop 1d4 held items.
+8. Roll twice on this table again, ignore this option.
+
+Loot Table:
+
+Each successive item of loot should be some bauble worth progressively more money. At DC5, it should be worth about 5%
+of a level, then 6%, etc. This encourages players to keep digging, play with the progression till the players walk away
+with XP sufficient for a level or so for a character at least. Ideally not all the players stay behind, maybe some
+eventually cast shields or other spells to maximize loot withdrawl. At DC10, start making the consequences more frequent
+by rolling twice on the consequence table. Then at DC15 roll four times, at DC20 the building collapses and all inside
+perish.
+
+For the actual items, describe bits and bobs of the machine itself, it's internals contain gold, rubies, and other
+clockwork items that are probably worth a small fortune. There is also some obviously magical components to the
+magically inclined that have significant value.
+
+---
+
 
 ![[infernal-machine-lair.jpg]]
 
@@ -88,69 +168,6 @@ the IM Overheals, it gains half as much temporary HP.
 
 If the players manage to destroy all the cables, all the healing is lost and the IM is stunned for a round, and all
 attacks on it automatically hit and are natural crits.
-
-### Phase 2: Rapid Unplanned Disassembly
-
-```ad-warning
-
-This phase doesn't occur in intro mode, the ceiling just collapses and kills the players.
-
-```
-
-The defeat of the machine has destablized the structure, there is a door to the north you did not previously notice, it
-is opening.
-
-But wait -- the loot! What do you do?
-
-1. Grab Something!
-2. Run away
-
-Every time you choose to grab something, roll against a progressing DC check, starting at 5, and adding 1 each time you
-choose to grab something. If you fail, roll on the failure consequence table, if you succeed, roll and the GM will tell
-you what you grabbed.
-
-Players are encouraged to bullshit the GM, but the GM decides what is an appropriate skill check. If no skill is
-appropriate but the GM likes the idea, the player can roll a luck check. If no skill is appropriate and the GM does not
-like the idea, they may instruct the player to make a bad luck check.
-
-A bad luck check comes in three flavors.
-
-1. Bad day - Roll with disadvantage.
-2. Bad week - Roll with a +5 to the DC and disadvantage
-3. Bad time - Roll a size smaller die with disadvantage on the failure consequence table, immediately.
-
-So don't overdo it.
-
-When you Run Away, make a Dex save against a DC of 10 + the number of things you're still carrying, if you fail, roll on
-the failure consequence table, then save Dex again. Do this until you save.
-
-
-Failure Consequence
-
-1. You can't take it with you, you die.
-2. A piece of the Infernal Machine severs 1d4 limbs.
-3. A falling shard of glass slices your {left,right} {arm, leg}, you take 4d10 damage and are bleeding. Drop 1d2 held
-   items. Coins are kept in purses of at most 40 coins. Denominations cannot be changed until you are in town and there
-   is a bank to do it at.
-4. You drop some of what you were carrying, lose 1d3 + 1 items
-5. Something you picked up you assumed was dull, but was actually sharp, it poked you and you think it broke skin, take
-   1d4 damage. Roll a Con save, on failure, you are bleeding.
-6. You lucky duck, nothing bad happens.
-7. A burst of unexpected steam burns you, take 2d6 damage; roll a Dex save, if you fail, drop 1d4 held items.
-8. Roll twice on this table again, ignore this option.
-
-Loot Table:
-
-Each successive item of loot should be some bauble worth progressively more money. At DC5, it should be worth about 5%
-of a level, then 6%, etc. This encourages players to keep digging, play with the progression till the players walk away
-with XP sufficient for a level or so for a character at least. Ideally not all the players stay behind, maybe some
-eventually cast shields or other spells to maximize loot withdrawl. At DC10, start making the consequences more frequent
-by rolling twice on the consequence table. Then at DC15 roll four times, at DC20 the building collapses and all inside
-perish.
-
-For the actual items, describe bits and bobs of the machine itself, it's internals contain gold, rubies, and other
-clockwork items that are probably worth a small fortune. There is also some obviously magical components to the
-magically inclined that have significant value.
 
 
 ```RpgManager4

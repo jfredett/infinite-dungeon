@@ -30,6 +30,7 @@
           {
             "id": "22aedf66f48dcce2",
             "type": "tabs",
+            "dimension": 66.06741573033707,
             "children": [
               {
                 "id": "656b24001ab8e4f3",
@@ -50,6 +51,7 @@
           {
             "id": "948b69fdd3a3e035",
             "type": "tabs",
+            "dimension": 33.93258426966292,
             "children": [
               {
                 "id": "53d4dae5ca44c4ef",
@@ -135,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/CHANGELOG.md",
+                "file": "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CHANGELOG"
+              "title": "Outline of The Infernal Machine"
             }
           }
         ]
@@ -289,14 +291,14 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "53d4dae5ca44c4ef",
+  "active": "656b24001ab8e4f3",
   "lastOpenFiles": [
-    "Systems/01. Players/04. Loot.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Loading Docks.md",
     "Systems/CHANGELOG.md",
+    "Systems/01. Players/04. Loot.md",
     "Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/Loot Table.md",
     "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md",
     "Systems/01. Players/06. Downtime.md",
-    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Loading Docks.md",
     "Campaigns/Infinite Dungeon/11. Monsters/Flamespew/Flamespew.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md",
