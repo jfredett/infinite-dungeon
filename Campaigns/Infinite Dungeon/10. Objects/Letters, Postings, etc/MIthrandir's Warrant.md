@@ -1,3 +1,5 @@
+# Text
+
 > To all intrepid adventurers:
 > 
 > The Tower Mystery intrigues us all, and no more than I.
@@ -6,6 +8,10 @@
 >
 >
 > -G
+
+# Handout
+
+![[mithrandir's warrant.png]]
 
 ```RpgManager4
 id: 

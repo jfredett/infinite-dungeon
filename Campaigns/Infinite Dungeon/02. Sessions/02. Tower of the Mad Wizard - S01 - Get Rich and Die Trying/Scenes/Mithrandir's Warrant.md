@@ -1,7 +1,26 @@
 
 Players find [[Campaigns/Infinite Dungeon/10. Objects/Letters, Postings, etc/Mithrandir's Warrant|Mithrandir's Warrant]]
 
-Nik interrupts the party as they read, "You, you, you want drink or just read? Notice is old -- come inside and spend money." He ushers them inside, the tavern smells like fresh timber and beer. A local band is playing in the corner, there is some bustle, mostly adventurers. It is a little too warm, but the room is lively and there is a breeze coming through. You can smell the spring of trees and flowers outside.
+Read Aloud:
+
+>  Strange things have been happening around [[Odesa]].
+>
+> A massive tower sprung out of the ground, overnight almost.
+> 
+> [[Mithrandir|A strange, old man]] has left a warrant rewarding the first party to be able to find a way to enter the mysterious [[Campaigns/Infinite Dungeon/05. Locations/The Tower of the Mad Wizard|Tower]] that sprung up in [[Upper Carpathia]], a number of strange buildings and structures have been appearing, but this tower was the first and largest.
+>
+> You come from all over the region, maybe as far as [[Elysia]], to the West, or [[Moab]] to the Southeast. You might come from [[Gog]] to the North East,  but most likely you are from somewhere in this geographic slice called [[Arcadia]], which contains everything from [[Neheb]] and [[Old Edom]] to the south, [[Anatolia]], [[Corinthia]], [[Scythia]], or anywhere in [[Upper Carpathia|Upper]] or [[Lower Carpathia]]. Our story is currently centered around the small town of [[Iskavi]] in [[Upper Carpathia]], where we find our unlikely band coming together at a bulletin board in front of a large, boxy building set into the top of a hill. Ringed by stands of Black Cherry, Ash, and Aspen, with Witchhazel and Goldenrod and Lilacs against the building and a small apple orchard and garden out in the field. The building sits in the middle of a small field, two stories and a basement that walks out into a recess of the hill. A large barn door opens to a patio, inside the sounds of clinking glasses and plucked strings. You stand before this board and see a sign that reads:
+> ![[Campaigns/Infinite Dungeon/10. Objects/Letters, Postings, etc/Mithrandir's Warrant#Text|Mithrandir's Warrant]]
+
+Provide the handout to the players.
+
+> As you read, a large, hairy, lumbering man comes up to you and interrupts the party as they read, 
+>
+> "You, you, you want drink or just read? Notice is old -- come inside and spend money." 
+>
+> He ushers you all inside, the tavern smells like fresh timber and beer. A local band is playing in the corner, there is some bustle, mostly adventurers. It is a little too warm, but the room is lively and there is a breeze coming through. You can smell the spring of trees and flowers outside. As you walk in, you see the upper floors, each window flickering with activity as their residents prepare to turn in. Above the barn door is a clearly-made-by-the-guy-ushering-you sign that reads "The Pleasantly Finite Tavern and Inn." with smaller text reading "est. 112CC, N.I.L."
+
+----
 
 Nik is there to answer questions, he mentions at least:
 
@@ -44,3 +63,7 @@ data:
 [[Campaigns/Infinite Dungeon/05. Locations/The Secret Garden of Ynn.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Deliver Items to Matilda.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Threeflower.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Odesa.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Mithrandir.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Upper Carpathia.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Iskavi.md|]]

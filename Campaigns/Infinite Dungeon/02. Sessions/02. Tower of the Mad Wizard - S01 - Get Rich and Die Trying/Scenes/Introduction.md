@@ -40,13 +40,7 @@ id:
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
   parent: "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying.md"
   positionInParent: 1
-tasks: 
-  - id: "6a50c034-199e-495c-80bd-e38788792f5c"
-    priority: 1
-    name: "Complete Scene"
-    description: "Complete Scene Test"
-    type: "creation"
-    status: "proposed"
+tasks: []
 data: 
   scenetype: "preparation"
   description: ""
