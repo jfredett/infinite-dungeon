@@ -1,6 +1,107 @@
+
+The purpose of this area is to load Vesper that is delivered at the bottom of the map up to the top. The players enter from the midpoint. Ornithopters haul in large tanks to giant receptacles, smaller, six-legged robot-like creatures manage and connect these tanks, other similar creatures load smaller vessels and transport it to one of several ports where the tanks disappear into some assembly line.
+
+Around these workers, larger versions with mandible-like protrusions coming from what you assume is their head pace and peer toward the players, observing intently, but not making any particular move or action towards them.
+
+Each barrel contains {500mL, 1L, 2L, 5L} of Vesper (depending on difficulty). Which doesn't sound like a lot, but will do {4,8,16,40}d6 damage if breached.
+
+All bots become hostile if:
+
+1. The players attempt to steal any vesper
+2. The players attempt to interfere with their work in any way
+3. The players attempt to interact with the control panels
+
+This can be bypassed if the players first went to the [[Skybridge]] and found [[Proper Identification]] and a [[Infernal Machine Uniform]] from the depth crawl. These will cause the various bots to assume the player is a member of the staff. They will prompt to scan the identification with a graphic on their CRT-tv-looking faces and upon successful scanning they will present a menu that can be interacted with to give them instructions. They will happily deliver as much Vesper as the players like to the front entrance, but if the players try to abscond with it, they will become immediately hostile and start to recklessly attack them and prevent them from the theft.
+
+For every liter of vesper delivered, the IM will have additional fuel to spend in the fight later on.
+
+The encounter itself is designed based on the following block (values in `{}` represent the value used in `{Intro, Normal, Heroic, Mythic}`, respectively):
+
+
+```statblock
+# config
+layout: Basic 5e Layout
+dice: false
+
+# stats
+name: Loading Docks (Area)
+size: Room
+ac: N/A
+cr: 10
+stats: [ 50, 1, 50, 1, 1, 2 ]
+speed: "stationary"
+damage_resistances: "All"
+damage_immunities: "Immune to direct damage except where narratively appropriate"
+condition_immunities: "All"
+Weaknesses: "None"
+saves:
+  - dexterity: 0
+  - strength: 15
+  - constitution: 15
+  - intelligence: 0
+  - wisdom: 0
+  - charisma: 1
+hit_dice: "{50,75,100,150}d10"
+hp: "{275,413,550,825}"
+type: Architecture
+legendary_actions:
+  - name: Spawn Loaders
+    desc: Spawn \{1,2,3,4\}d6 Loaders, rolling their hitpoints, subtract the total from this monster's hitpoints.
+  - name: Spawn Defenders
+    desc: Spawn \{1,2,3,4\}d3 Defenders, rolling their hitpoints, subtract the total from this monster's hitpoints.
+```
+
+
+One this 'encounter' monster 'dies' (runs out of HP), the deliveries stop, any remaining undelivered Vesper can attempt to be delivered by the remaining loaders, and once all remaining monsters are defeated the players are free to explore the aftermath. They find fame items and plenty of vesper to loot, but not a lot of money or magic items.
+
+
+```statblock
+```
+
+```statblock
+name: Loader (I, N)
+source: 5e SRD Hack
+size: Large
+type: construct
+subtype: ""
+alignment: unaligned
+ac: 14
+hp: 27
+hit_dice: 3d10 + 4
+speed: 30 ft.
+stats:
+  - 20
+  - 9
+  - 18
+  - 3
+  - 8
+  - 1
+damage_vulnerabilities: ""
+damage_resistances: ""
+damage_immunities: acid, poison, psychic; bludgeoning, piercing, and slashing from nonmagical weapons that aren't adamantine
+condition_immunities: charmed, exhaustion, frightened, paralyzed, petrified, poisoned
+cr: 1
+actions:
+  - name: Slam
+    desc: "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: {10,14} (2d{4,8} + 5) bludgeoning damage."
+    attack_bonus: 7
+    damage_dice: "{2d4, 2d8}"
+    damage_bonus: 5
+  - name: Haste
+    desc: "Until the end of its next turn, the loader magically gains a +2 to it's AC, has advantage on Dex throws, can use it's Slam attack as a Bonus Action, and increases it's movement by 10ft (3m)"
+```
+
+----
+
+```ad-warning
+
+Old notes
+
+```
+
 # Loading Docks
 
-An open air section overlooks a massive sprawling network of pipes and widgets. These all coallesce to feed their
+An open air section overlooks a massive sprawling network of pipes and widgets. These all coalesce to feed their
 contents to great machines in the middle distance. tanks to the engine in the center of the facility. Buzzing, pilotless
 ornithopters haul man-sized barrels to and fro, setting them down only to pick them up again. There are various pipes and
 connection points here, all helpfully labelled, none of them in a language you know. With some effort, it can be worked
@@ -105,4 +206,5 @@ tasks:
 [[Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Raid the Tower.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - I'm just a businessman, eh?/01. Prologue - S3 - I'm just a business man, eh?.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Skybridge.md|]]
 [[The Infernal Machine]]

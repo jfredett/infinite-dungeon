@@ -164,9 +164,13 @@ tasks:
 
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Loading Docks.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md|]]
+[[Campaigns/Infinite Dungeon/11. Monsters/Flamespew/Flamespew.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md|]]
+[[Campaigns/Infinite Dungeon/11. Monsters/Infernal Machine/Infernal Machine.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks]]
-[[Campaigns/Infinite Dungeon/11. Monsters/Flamespew.md|]]
+[[Flamespew]]
 [[Loading Docks]]
-[[Campaigns/Infinite Dungeon/11. Monsters/Infernal Machine.md|]]
+[[Infernal Machine]]

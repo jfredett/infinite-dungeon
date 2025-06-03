@@ -1,3 +1,4 @@
+- [[The Idea of Thorns]]
 
 ```RpgManager4
 id: 
@@ -14,3 +15,4 @@ tasks:
 See [[REFERENCES|REFERENCES - The Garden of Ynn]]
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/10. Objects/Books and Papers/"On the Viral Idea".md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/The Secret Garden of Ynn.md|]]

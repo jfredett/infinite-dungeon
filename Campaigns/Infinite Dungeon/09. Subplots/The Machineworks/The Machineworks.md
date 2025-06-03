@@ -9,6 +9,16 @@ A raid consisting of:
 
 It has a [[Loot Table]]
 
+The structure of the dungeon is roughly:
+
+1. Loading Docks are a buff-prevention encounter. Players have an opportunity to weaken the final fight by preventing Vesper transfer. They can also potentially steal some Vesper from this encounter.
+2. Flamespew is a DPS check that gates access to the Skybridge mini-depth crawl
+3. Trash encounters on the Skybridge are where most of the 'simple' loot will come from.
+4. The Eye provides some lore dumps, hooks towards other encounters, and also allows another debuff to IM.
+5. The IM fight is a multiphase final boss fight.
+
+
+
 
 ```RpgManager4
 id: 

@@ -1,10 +1,12 @@
+
+
 ```statblock
 # config
 layout: Basic 5e Layout
 dice: false
 
 # stats
-name: Fuel Barrel
+name: Vesper Barrel
 size: Medium
 ac: 16
 cr: 0

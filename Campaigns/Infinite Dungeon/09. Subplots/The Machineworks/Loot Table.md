@@ -22,17 +22,21 @@ that character, if it's less than 4, generate a 'Basic' item, if it's greater ta
 12, generate a 'Legendary' item.
 
 
-| Name                   | Qty | Restriction   | Rarity |
-| ---------------------- | --- | ------------- | ------ |
-| Brace of Spewing Flame | 1   | Flamespew     | Legend |
-| Precision Optics       | 2   | IM            | Mid    |
-| Laparoscope            | 1   | IM, Flamespew | Rare   |
-| Third Eye Monocle      | 1   | *             | Rare   |
-| Scholar’s Monocle      | 1   | *             | Basic  |
-| Dr'ard Hive            | 1   | *             | Mid    |
-| Fame Item              | inf | *             | Basic  |
-| XP Item                | inf | *             | Basic  |
-| Coin Item              | inf | *             | Basic  |
+| Name                   | Qty | Restriction   | Rarity | Source                                                  |
+| ---------------------- | --- | ------------- | ------ | ------------------------------------------------------- |
+| Brace of Spewing Flame | 1   | Flamespew     | Legend | That one magic item book I have.                        |
+| Precision Optics       | 2   | IM            | Mid    | ibid                                                    |
+| Laparoscope            | 1   | IM, Flamespew | Rare   | ibid                                                    |
+| Third Eye Monocle      | 1   | *             | Rare   | ibid                                                    |
+| Scholar’s Monocle      | 1   | *             | Basic  | ibid                                                    |
+| Dr'ard Hive            | 1   | *             | Mid    | ibid                                                    |
+|                        |     |               |        |                                                         |
+| Proper Identification  | 3   | Skybridge     | Basic  | Worth 1m fame, also used in [[Loading Docks]] encounter |
+| IM Uniform             | 3   | Skybridge     | Basic  | Worth 2m fame or 10d, also used in [[Loading Docks]]    |
+|                        |     |               |        |                                                         |
+| Fame Item              | inf | *             | Basic  |                                                         |
+| XP Item                | inf | *             | Basic  |                                                         |
+| Coin Item              | inf | *             | Basic  |                                                         |
 
 
 Total Fame Budget is hard to determine right now, but the players should definitely level up after the Intro, which is

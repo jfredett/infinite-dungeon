@@ -27,7 +27,7 @@ data:
 ```
 
 [[Camp[[02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying]]Hack]]e Mad Wizard - S01]]d Wizard - S01.md|]]
-[[Campaigns/Infinite Dungeon/11. Monsters/Infernal Machine.md|]]
+[[Infernal Machine]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Nikolai Ivanovich Lobachevsky.md|]]
 [[Loading Docks]]
 [[Fuel Manifold Room]]

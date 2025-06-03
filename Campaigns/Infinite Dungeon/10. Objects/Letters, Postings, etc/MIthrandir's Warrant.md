@@ -10,8 +10,7 @@
 > -G
 
 # Handout
-
-![[mithrandir's warrant.png]]
+![[Mithrandir's Warrant.webp]]
 
 ```RpgManager4
 id: 

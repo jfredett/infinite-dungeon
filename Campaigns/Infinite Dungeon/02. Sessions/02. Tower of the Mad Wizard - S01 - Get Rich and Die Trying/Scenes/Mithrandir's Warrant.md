@@ -9,24 +9,32 @@ Read Aloud:
 > 
 > [[Mithrandir|A strange, old man]] has left a warrant rewarding the first party to be able to find a way to enter the mysterious [[Campaigns/Infinite Dungeon/05. Locations/The Tower of the Mad Wizard|Tower]] that sprung up in [[Upper Carpathia]], a number of strange buildings and structures have been appearing, but this tower was the first and largest.
 >
-> You come from all over the region, maybe as far as [[Elysia]], to the West, or [[Moab]] to the Southeast. You might come from [[Gog]] to the North East,  but most likely you are from somewhere in this geographic slice called [[Arcadia]], which contains everything from [[Neheb]] and [[Old Edom]] to the south, [[Anatolia]], [[Corinthia]], [[Scythia]], or anywhere in [[Upper Carpathia|Upper]] or [[Lower Carpathia]]. Our story is currently centered around the small town of [[Iskavi]] in [[Upper Carpathia]], where we find our unlikely band coming together at a bulletin board in front of a large, boxy building set into the top of a hill. Ringed by stands of Black Cherry, Ash, and Aspen, with Witchhazel and Goldenrod and Lilacs against the building and a small apple orchard and garden out in the field. The building sits in the middle of a small field, two stories and a basement that walks out into a recess of the hill. A large barn door opens to a patio, inside the sounds of clinking glasses and plucked strings. You stand before this board and see a sign that reads:
+> You come from all over the region, maybe as far as [[Elysia]], to the West, or [[Moab]] to the Southeast. You might come from [[Gog]] to the North East,  but most likely you are from somewhere in this geographic slice called [[Arcadia]], which contains everything from [[Neheb]] and [[Old Edom]] to the south, [[Anatolia]], [[Corinthia]], [[Scythia]], or anywhere in [[Upper Carpathia|Upper]] or [[Lower Carpathia]]. Our story is currently centered around the small town of [[Iskavi]] in [[Upper Carpathia]], where we find our unlikely band coming together at a bulletin board in front of a large, boxy building set into the top of a hill. Ringed by stands of Black Cherry, Ash, and Aspen, with Witchhazel and Goldenrod and Lilacs against the building and a small apple orchard and garden out in the field. The building sits in the middle of a small field, two stories and a basement that walks out into a recess of the hill. A large barn door opens to a patio, inside the sounds of clinking glasses and plucked strings. You stand before this board, facing south as dusk sets in, and see a tattered parchment that reads:
 > ![[Campaigns/Infinite Dungeon/10. Objects/Letters, Postings, etc/Mithrandir's Warrant#Text|Mithrandir's Warrant]]
 
 Provide the handout to the players.
 
-> As you read, a large, hairy, lumbering man comes up to you and interrupts the party as they read, 
+> As you read, a large, hairy, lumbering man comes up to you and interrupts the party as they read: 
 >
-> "You, you, you want drink or just read? Notice is old -- come inside and spend money." 
+>> "You, you, you want drink or just read? Notice is old -- come inside and spend money." 
 >
 > He ushers you all inside, the tavern smells like fresh timber and beer. A local band is playing in the corner, there is some bustle, mostly adventurers. It is a little too warm, but the room is lively and there is a breeze coming through. You can smell the spring of trees and flowers outside. As you walk in, you see the upper floors, each window flickering with activity as their residents prepare to turn in. Above the barn door is a clearly-made-by-the-guy-ushering-you sign that reads "The Pleasantly Finite Tavern and Inn." with smaller text reading "est. 112CC, N.I.L."
+> 
+> Once inside, the man steps behind the bar in the back of the main dining area. The warmth of the hearth-fire stings the chill off your face as he introduces himself.
+> 
+> > "Nikolai Ivanovich Lobachevsky, welcome to the Pleasantly Finite, the finest establishment for the adventuring inclined this side of [[Odesa]], what can I get you?"
 
 ----
 
 Nik is there to answer questions, he mentions at least:
 
 1. That the notice is old, a way to enter the Tower is just up the road, Nik really lucked out on the placement. The PF was struggling before. The Counterparty found it and are a little bit lauded, but Nik lucked out because he happened to be one of the closest entrepreneurial innkeeps that has set up shop here recently.
+	1. "No no, there was other party; look like you a bit actually -- they found the way in a few weeks ago."
 2. Mention [[Matilda the Hedge-Witch]], who knows more about how the tower entrance works. Nik just knows how to get there, but doesn't have any intention of going himself.
+	1. "Well, I have this" {a gesture to a set of boxes and bags of common supplies} "arrived for the Witch across the lake, she is strange, I do not like her."
 3. Nik offers free room and board to the players, on the condition that he gets to keep their stuff if they don't come back. He shows a contract that allows for a next of kin to claim half of the value in gold and vesper so long as they show up within 30 calendar days. Nik complains that the damn government made him add that clause, Nik does not like the government.
+	1. "Is simple, you stay here free, you go adventure, you die, I get your stuff."
+	2. Passive Perception of 19 or an active, successful DC12 Insight check reveals he's lying, and that next-of-kin is entitled to 50%.
 
 Players can generally:
 
