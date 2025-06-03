@@ -1,4 +1,21 @@
+The Infernal Machine encounter is a multi-phase, multi-mode fight. It uses the Vesper gathered during the [[Loading Docks]] encounter to power extra abilities, spending that resource as it goes. At the end of each of it's turns, it will choose which mode to transition too over the remaining turn, performing a series of legendary actions to accomplish the mode change. There are three modes:
+
+1. Stationary / "Turret" mode, where the IM sits still and shoots firebolts at the players
+2. Mobile / "Melee" mode, where the IM runs around the room and slashes at players
+3. Recovery / "Refuel" mode, where the IM runs to it's docking station and recharges at the cost of Vesper.
+
+
+
 ![[infernal-machine-lair.jpg]]
+
+
+
+
+
+----
+
+
+
 
 ### Phase 1: The Infernal Machine
 
