@@ -2,24 +2,19 @@
 	- [x] Initial [[00. The Time Matrix|timeline(s)]]
 	- [x] Nik and Matilda Portraits
 - [ ] RAID
-	- [ ] Encounter Design
+	- [x] Encounter Design
+		- [x] IM
+			- [x] Finish at least N mode, ideas in place, but nothing doing
+		- [x] Loading Docks
+			- [x] Finish at least N mode, ideas in place, but nothing doing
+	- [ ] IM Raid
 		- [ ] IM
-			- [ ] Finish at least N mode, ideas in place, but nothing doing
-		- [ ] Loading Docks
-			- [ ] Finish at least N mode, ideas in place, but nothing doing
-	- [ ] Statblocks
-		- [ ] IM
-			- [ ] N
-				- [ ] Designed
-				- [ ] Imported
-	- [ ] Maps
-		- [ ] Loading Docs map
-			- [ ] 5' Drawn
-			- [ ] 5' Imported
-			- [ ] 5' Rigged
-		- [ ] Flamespew
-			- [ ] 5' Macroed -- something to manage the lights
-		- [ ] IM
+			- [ ] Statblocks
+				- [ ] IM
+					- [ ] N
+						- [ ] Designed
+						- [ ] Imported
+			- [ ] Finish Encounter Design in [[Infernal Machine]]
 			- [ ] 5' Adjusted and resquared in Krita
 			- [ ] 5' Macroed
 				- [ ] Barrel Distribution
@@ -27,12 +22,15 @@
 				- [ ] Light management
 		- [ ] Docks
 			- [ ] 5' Macroed
-	- [ ] Statblocks
+			- [ ] 5' Drawn
+			- [ ] 5' Imported
+			- [ ] 5' Rigged
 		- [ ] Flamespew
 			- [ ] Flame Scythe Graphic
 				- jb2a.breath_weapons02.burst <-- this can be the flame scythe for now, need to create a macro or two to telegraph then play the animation
 				- Just need to figure out how to automate all that. >.<
-		- [ ] Loader
-			- [ ] All Statblocks imported to this notebook from foundry
-		- [ ] Defender
-			- [ ] All Statblocks imported to this notebook from foundry
+			- [ ] 5' Macroed -- something to manage the lights
+			- [x] Loader
+				- [x] All Statblocks imported to this notebook from foundry
+			- [x] Defender
+				- [x] All Statblocks imported to this notebook from foundry

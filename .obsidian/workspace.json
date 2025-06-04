@@ -38,12 +38,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md",
+                    "file": "Plans/GM-TODO-NEXT.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "The Infernal Machine"
+                  "title": "GM-TODO-NEXT"
                 }
               }
             ]
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md",
+                "file": "Plans/GM-TODO-NEXT.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of The Infernal Machine"
+              "title": "Outline of GM-TODO-NEXT"
             }
           }
         ]
@@ -271,7 +271,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 858.5
+    "width": 405.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -291,10 +291,11 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "9b205d3a5b3ab092",
+  "active": "656b24001ab8e4f3",
   "lastOpenFiles": [
-    "Burned.md",
+    "Plans/2025/06 (JUNE)/GM-TODO-12-JUN-2025.md",
     "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md",
+    "Burned.md",
     "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Loading Docks.md",
     "Systems/CHANGELOG.md",
     "Systems/01. Players/04. Loot.md",
@@ -322,7 +323,6 @@
     "Systems/01. Players/05. Travel.md",
     "Systems/02. Setting/00. The Time Matrix.md",
     "Campaigns/Infinite Dungeon/05. Locations/The Secret Garden of Ynn.md",
-    "Campaigns/Infinite Dungeon/09. Subplots/The Garden of Ynn.md",
     "Assets/mithrandir's warrant.png",
     "Assets/matilda's hut.png",
     "Assets/Map of Oracles in Ancient Mediterrainian.png",

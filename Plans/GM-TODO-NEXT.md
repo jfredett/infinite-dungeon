@@ -1,6 +1,12 @@
 - [ ] Title Screen (import from old world)
 - [ ] Non-Raid stuff
 	- [ ] Rename towns/cities away from real names
+		- As yet unrenamed
+			- [ ] Odesa
+			- [ ] Kyiv
+			- [ ] Dnipro
+			- [ ] Bukarest
+			- [ ] Wien
 	- [ ] Improve Macro/move to script the Iron Roller, add some trait support?
 	- [ ] Build and load scripts from this repo
 		- [ ] Ideally move to Typescript. Probably comes after the move to k3s.
@@ -44,3 +50,4 @@
 			- [ ] Maybe make these create journal entries?
 				- just update a journal entry automatically with a log of the die roll + result, chapter per roll or whatever. I can add notes there and figure out how to export it back out.
 				- It'd be cool if it tracked it more nonlinearly, maybe creating items that reference each other dynamically? Items that can be found in the dungeon later?
+- [ ] Better Task Management
