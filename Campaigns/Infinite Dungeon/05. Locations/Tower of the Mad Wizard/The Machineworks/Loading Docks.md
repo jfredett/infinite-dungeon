@@ -1,5 +1,7 @@
+![[loading-docks-proto_46x41.png]]
+
 ## Summary 
-The purpose of this area is to load Vesper that is delivered at the bottom of the map up to the top. The players enter from the midpoint. Ornithopters haul in large tanks to giant receptacles, smaller, six-legged robot-like creatures manage and connect these tanks, other similar creatures load smaller vessels and transport it to one of several ports where the tanks disappear into some assembly line.
+The purpose of this area is to load Vesper that is delivered at the left of the map up to the right. The players enter from the lower third. Ornithopters haul in large tanks to giant receptacles, smaller, six-legged robot-like creatures manage and connect these tanks, other similar creatures load smaller vessels and transport it to one of several ports where the tanks disappear into some assembly line. The loader/defender creatures crawl up along the docks to the left, coming out of the walls below this area. The ornithopters land, dropping massive tanks, the loaders show up with smaller tanks that they move dutifully from the filling receptacles back and forth.
 
 Around these workers, larger versions with mandible-like protrusions coming from what you assume is their head pace and peer toward the players, observing intently, but not making any particular move or action towards them.
 
@@ -16,8 +18,6 @@ This can be bypassed if the players first went to the [[Skybridge]] and found [[
 For every liter of vesper delivered, the IM will have additional fuel to spend in the fight later on.
 
 The encounter itself is designed based on the following block (values in `{}` represent the value used in `{Intro, Normal, Heroic, Mythic}`, respectively):
-
-
 
 
 ```statblock
@@ -48,9 +48,9 @@ hp: "{275,413,550,825}"
 type: Architecture
 legendary_actions:
   - name: Spawn Loaders
-    desc: Spawn \{1,2,3,4\}d6 Loaders, rolling their hitpoints, subtract the total from this monster's hitpoints.
+    desc: Spawn \{1,2,3,4\}d6 Loaders, rolling their hitpoints, subtract the total from this monster's hitpoints. They start at the leftmost side of any of the three 'docks'
   - name: Spawn Defenders
-    desc: Spawn \{1,2,3,4\}d3 Defenders, rolling their hitpoints, subtract the total from this monster's hitpoints.
+    desc: Spawn \{1,2,3,4\}d3 Defenders, rolling their hitpoints, subtract the total from this monster's hitpoints. They start anywhere along the top or bottom part of any of the three docks.
 ```
 
 
@@ -58,15 +58,20 @@ One this 'encounter' monster 'dies' (runs out of HP), the deliveries stop, any r
 
 The goal of the encounter is to overwhelm the players with very weak enemies that are more or less uninterested in them. The Loaders attempt to load, and only defend themselves if explicitly attacked. They will otherwise aim to scuttle away and leave the work to the defenders. If there is no more work to do, they retreat.
 
+All monsters move in one of three initiatives, according to whichever 'dock' they are closest to -- if that means they move twice due to movement, so be it. The ground should light up on intro mode according to which set of bots will act next. Maybe electric arcs on higher modes?
+
 ## Statblocks
 
 
+ > "A small, metallic creature with six legs and a prehensile neck ending in a box with a curved glass bowl that conceals a grayish black interior. It occasionally lights up with an eery green pattern. About the size of a medium sized dog."
+ 
 ```statblock
 name: Loader (I, N)
 source: 5e SRD Hack
 size: Large
 type: construct
 subtype: ""
+
 alignment: unaligned
 ac: 14
 hp: 27
@@ -90,6 +95,10 @@ actions:
   - name: Haste
     desc: "Until the end of its next turn, the loader magically gains a +2 to it's AC, has advantage on Dex throws, can use it's Slam attack as a Bonus Action, and increases it's movement by 10ft (3m)"
 ```
+
+
+> "A larger metallic creature like the other, it's neck is fixed but pivots, it's bulkier, bigger, and has two large pincers coming out of it's boxy head. As large as a big dog. Mean looking"
+
 ```statblock
 name: Defender (I)
 source: 5e SRD Hack

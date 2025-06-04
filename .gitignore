@@ -1,6 +1,6 @@
 assets/
 *.flac
 book/
-.obsidian/plugins/novel-word-count
+.obsidian/plugins/novel-word-count/*
 
 /.md.md

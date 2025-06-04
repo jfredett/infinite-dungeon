@@ -1,6 +1,20 @@
-- [x] Non-Raid stuff
+- [ ] Non-Raid stuff
 	- [x] Initial [[00. The Time Matrix|timeline(s)]]
 	- [x] Nik and Matilda Portraits
+	- [ ] More read-aloud stuff
+		- [ ] Matilda meeting readalouds
+		- [ ] Isk Village meeting readalouds
+		- [ ] Tower readalouds
+		- [ ] Room Readalouds
+			- [ ] Docks
+			- [ ] Fuel room
+			- [ ] IM arena
+			- [ ] Skybridge stuff
+		- [ ] Monster Readalouds
+			- [ ] Loader
+			- [ ] Defender
+			- [ ] Flamespew
+			- [ ] IM
 - [ ] RAID
 	- [x] Encounter Design
 		- [x] IM
@@ -21,10 +35,13 @@
 				- [ ] Floor Explosion Automation
 				- [ ] Light management
 		- [ ] Docks
-			- [ ] 5' Macroed
-			- [ ] 5' Drawn
-			- [ ] 5' Imported
-			- [ ] 5' Rigged
+			- [ ] Ornithopter Statblock
+			- [x] 5' Macroed
+			- [x] 5' Drawn
+				- used dungeonscrawl for this one.
+			- [x] 5' Imported
+			- [x] 5' Rigged
+			- No macros for this one, no lighting either.
 		- [ ] Flamespew
 			- [ ] Flame Scythe Graphic
 				- jb2a.breath_weapons02.burst <-- this can be the flame scythe for now, need to create a macro or two to telegraph then play the animation
