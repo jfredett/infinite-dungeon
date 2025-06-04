@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/01. Players/07. Raids.md",
+                "file": "Systems/CHANGELOG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 07. Raids"
+              "title": "Outline of CHANGELOG"
             }
           }
         ]
@@ -291,8 +291,9 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d1b2384e353ced7d",
+  "active": "53d4dae5ca44c4ef",
   "lastOpenFiles": [
+    "Systems/01. Players/07. Raids.md",
     "Systems/03. Appendices/C - Conditions.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Raid the Tower.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Deliver Items to Matilda.md",
@@ -328,7 +329,6 @@
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md",
     "Campaigns/Infinite Dungeon/11. Monsters/Infernal Machine/Infernal Machine.md",
-    "Campaigns/Infinite Dungeon/10. Objects/Letters, Postings, etc/Mithrandir's Warrant.md",
     "Campaigns/Infinite Dungeon/11. Monsters/Loading Docks",
     "Campaigns/Infinite Dungeon/11. Monsters/Infernal Machine",
     "Campaigns/Infinite Dungeon/11. Monsters/Flamespew",
