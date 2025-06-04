@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/Foreword.md",
+                "file": "Systems/03. Appendices/C - Conditions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foreword"
+              "title": "C - Conditions"
             }
           }
         ]
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/Foreword.md",
+                "file": "Systems/CHANGELOG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Foreword"
+              "title": "Outline of CHANGELOG"
             }
           }
         ]
@@ -291,12 +291,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d1b2384e353ced7d",
+  "active": "53d4dae5ca44c4ef",
   "lastOpenFiles": [
-    "Systems/00. GM/00. The Big Idea.md",
-    "Systems/Foreword.md",
-    "Systems/SUMMARY.md",
     "Systems/03. Appendices/C - Conditions.md",
+    "Systems/Foreword.md",
+    "Systems/00. GM/00. The Big Idea.md",
+    "Systems/SUMMARY.md",
     "Systems/03. Appendices/N - REFERENCES.md",
     "Burned.md",
     "Systems/00. GM/03. The Economy.md",

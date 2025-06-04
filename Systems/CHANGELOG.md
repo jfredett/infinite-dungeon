@@ -2,6 +2,7 @@
 
 Not all the sections mentioned here are published yet, because there's an ongoing campaign and I don't want to spoil too much.
 
+- Add a [[Foreword]], mostly a placeholder
 - GM Section
 	- [[00. The Big Idea]], [[01. Guiding Principles]], [[02. Character Generation]] roughed in
 	- [[03. The Economy]] roughed in
@@ -11,6 +12,7 @@ Not all the sections mentioned here are published yet, because there's an ongoin
 	- [[00. The Time Matrix]] started.
 - Appendices
 	- Include [[T - Tables]], which has some standardized (but as yet unbalanced) trait ideas.
+	- Include [[C - Conditions]], with some imports from dandwiki for now.
 # v0.2.0
 
 - Updated Hexcrawl rules to account for larger Region hex-size, removed specific size details
