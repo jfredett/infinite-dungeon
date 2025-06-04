@@ -2,6 +2,9 @@
 
 <!-- toc -->
 
+# Infinite Dungeon
+
+- [Foreword](Foreword)
 ## GM's Manual
 
 - [GM's Manual](00.%20GM/00.%20The%20Big%20Idea.md)
@@ -26,6 +29,7 @@
 # Appendices
 
 - [Appendices](03.%20Appendices/Index.md)
+	- [C - Conditions](03.%20Appendices/C%20-%20Conditions.md)
 	- [G - Glossary](03.%20Appendices/G%20-%20Glossary.md)
 	- [N - References](03.%20Appendices/N%20-%20REFERENCES.md)
 	- [T - Tables](03.%20Appendices/T%20-%20Tables.md)
