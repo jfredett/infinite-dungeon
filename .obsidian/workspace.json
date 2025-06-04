@@ -30,7 +30,7 @@
           {
             "id": "22aedf66f48dcce2",
             "type": "tabs",
-            "dimension": 66.06741573033707,
+            "dimension": 30.522765598650924,
             "children": [
               {
                 "id": "656b24001ab8e4f3",
@@ -51,7 +51,7 @@
           {
             "id": "948b69fdd3a3e035",
             "type": "tabs",
-            "dimension": 33.93258426966292,
+            "dimension": 69.47723440134908,
             "children": [
               {
                 "id": "53d4dae5ca44c4ef",
@@ -59,12 +59,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Systems/CHANGELOG.md",
+                    "file": "Systems/SUMMARY.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "CHANGELOG"
+                  "title": "SUMMARY"
                 }
               }
             ]
@@ -137,13 +137,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/CHANGELOG.md",
+                "file": "Systems/SUMMARY.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CHANGELOG"
+              "title": "Outline of SUMMARY"
             }
           }
         ]
@@ -293,12 +293,12 @@
   },
   "active": "53d4dae5ca44c4ef",
   "lastOpenFiles": [
+    "Systems/CHANGELOG.md",
     "Systems/01. Players/07. Raids.md",
     "Systems/03. Appendices/C - Conditions.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Raid the Tower.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Deliver Items to Matilda.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Discover the Counterparty.md",
-    "Systems/CHANGELOG.md",
     "Systems/Foreword.md",
     "Systems/00. GM/00. The Big Idea.md",
     "Systems/SUMMARY.md",

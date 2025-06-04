@@ -4,13 +4,13 @@
 
 # Infinite Dungeon
 
-- [Foreword](Foreword)
+- [Foreword](Foreword.md)
 ## GM's Manual
 
 - [GM's Manual](00.%20GM/00.%20The%20Big%20Idea.md)
 	- [Guiding Principles](00.%20GM/01.%20Guiding%20Principles.md)
 	- [Character Generation](00.%20GM/02.%20Character%20Generation.md)
-	- [[03. The Economy|The Economy]]
+	- [The Economy](00.%20GM/02.%20The%20Economy.md)
 ## Player's Manual
 
 - [Player's Manual](01.%20Players/00.%20The%20Loop.md)
