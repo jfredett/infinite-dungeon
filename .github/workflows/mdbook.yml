@@ -63,3 +63,12 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
+
+  notify:
+    name: "Notify in Discord"
+    runs-on: "ubuntu-latest"
+    steps:
+      - uses: "hugoalh/send-discord-webhook-ghaction@v7.0.0"
+        with:
+          key: "${{secrets.DISCORD_WEBHOOK_KEY}}"
+          content: "New Release of Infinite Dungeon Manual, available at `infinite-dungeon-manual.goml.games`"
