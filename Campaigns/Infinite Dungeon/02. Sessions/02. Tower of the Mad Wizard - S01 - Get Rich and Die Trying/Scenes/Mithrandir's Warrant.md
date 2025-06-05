@@ -3,11 +3,11 @@ Players find [[Campaigns/Infinite Dungeon/10. Objects/Letters, Postings, etc/Mit
 
 Read Aloud:
 
->  Strange things have been happening around [[Odesa]].
+> Strange things have been happening around [[Odesa]].
 >
-> A massive tower sprung out of the ground, overnight almost.
+> A massive tower sprung out of the ground, overnight almost. It has no entrance -- or so say the few maddened adventurers who managed to get near it and return have said, usually before dying. Other strange buildings have appeared around the area as well, entrances that lead to places far outside the understanding of the mundane men and women who used to live here. Strange creatures now inhabit the lush woods and hills of this part of [[Upper Carpathia]].
 > 
-> [[Mithrandir|A strange, old man]] has left a warrant rewarding the first party to be able to find a way to enter the mysterious [[Campaigns/Infinite Dungeon/05. Locations/The Tower of the Mad Wizard|Tower]] that sprung up in [[Upper Carpathia]], a number of strange buildings and structures have been appearing, but this tower was the first and largest.
+> [[Mithrandir|A strange, old man]] has left a warrant rewarding the first party to be able to find a way to enter the mysterious [[Campaigns/Infinite Dungeon/05. Locations/The Tower of the Mad Wizard|Tower]].
 >
 > You come from all over the region, maybe as far as [[Elysia]], to the West, or [[Moab]] to the Southeast. You might come from [[Gog]] to the North East,  but most likely you are from somewhere in this geographic slice called [[Arcadia]], which contains everything from [[Neheb]] and [[Old Edom]] to the south, [[Anatolia]], [[Corinthia]], [[Scythia]], or anywhere in [[Upper Carpathia|Upper]] or [[Lower Carpathia]]. Our story is currently centered around the small town of [[Iskavi]] in [[Upper Carpathia]], where we find our unlikely band coming together at a bulletin board in front of a large, boxy building set into the top of a hill. Ringed by stands of Black Cherry, Ash, and Aspen, with Witchhazel and Goldenrod and Lilacs against the building and a small apple orchard and garden out in the field. The building sits in the middle of a small field, two stories and a basement that walks out into a recess of the hill. A large barn door opens to a patio, inside the sounds of clinking glasses and plucked strings. You stand before this board, facing south as dusk sets in, and see a tattered parchment that reads:
 > ![[Campaigns/Infinite Dungeon/10. Objects/Letters, Postings, etc/Mithrandir's Warrant#Text|Mithrandir's Warrant]]
@@ -22,7 +22,7 @@ Provide the handout to the players.
 > 
 > Once inside, the man steps behind the bar in the back of the main dining area. The warmth of the hearth-fire stings the chill off your face as he introduces himself.
 > 
-> > "Nikolai Ivanovich Lobachevsky, welcome to the Pleasantly Finite, the finest establishment for the adventuring inclined this side of [[Odesa]], what can I get you?"
+> > "Nikolai Ivanovich Lobachevsky, welcome to the Pleasantly Finite, the finest establishment for the adventuring inclined this side of [[Odesa]], what do you want?"
 
 ----
 
@@ -38,7 +38,7 @@ Nik is there to answer questions, he mentions at least:
 
 Players can generally:
 
-1. Go to a Raid in the Tower
+1. Go to [[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks|The Machineworks]]
     - First session is the Infernal Machine raid, in intro mode, maybe even in Black Knight mode (major permanent injury replacing death on failed death save)
 2. Seek out more information from Matilda about the tower.
     - Tips the players to the [[The Secret Garden of Ynn]]

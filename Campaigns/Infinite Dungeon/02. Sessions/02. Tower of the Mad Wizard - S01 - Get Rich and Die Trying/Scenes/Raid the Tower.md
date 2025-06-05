@@ -10,7 +10,7 @@ Hard cut to a scene with [[Nikolai Ivanovich Lobachevsky|Nik]] collecting the pl
 >  
 > The screen fades back in on an establishing shot of the PF, the lights flicker, another group of adventurers stand in front of the bulletin board. The camera follows Nik as he harangues them much the same way as he harangued you earlier. We see Nik head to the rooms he rented you after serving these other patrons, he gathers your things in a large basket and carries them up to the second floor, then into a hidden room at the top of the stairs. There is no door there, then there is; inside, stairs lead up to an attic space, Nik waves a hand and light appears, revealing a room, 40' by 25', with tall slanted ceilings, filled to the brim with shelves and shelves of adventuring gear.
 > 
-> Nik mumbles something unintelligible, sets down the basket, turns to leave with a smirk. The lights go, and more laughing is heard, you can't be sure who's it is.
+> Nik mumbles something unintelligible, sets down the basket, and writes in a strange script in a logbook. He turns to leave with a smirk, the lights turn off, it's dark, more laughing is heard, you can't be sure who's it is.
 
 ```RpgManager4
 id: 

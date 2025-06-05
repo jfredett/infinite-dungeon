@@ -38,8 +38,9 @@ tasks:
     priority: 1
     name: "Arena design (5')"
     description: 
-    status: "incomplete"
+    status: "complete"
     type: "custom"
+    completionDate: "2025-06-05T14:56:58.017Z"
   - id: "93f3be53-b3f2-4220-a82f-17ce726102c1"
     priority: 1
     name: "Arena design (10')"

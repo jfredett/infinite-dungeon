@@ -10,7 +10,8 @@
 - [GM's Manual](00.%20GM/00.%20The%20Big%20Idea.md)
 	- [Guiding Principles](00.%20GM/01.%20Guiding%20Principles.md)
 	- [Character Generation](00.%20GM/02.%20Character%20Generation.md)
-	- [The Economy](00.%20GM/02.%20The%20Economy.md)
+	- [The Economy](00.%20GM/03.%20The%20Economy.md)
+    - [RAIDs](04.%20Raids.md)
 ## Player's Manual
 
 - [Player's Manual](01.%20Players/00.%20The%20Loop.md)
@@ -20,7 +21,6 @@
     - [Loot](01.%20Players/04.%20Loot.md)
     - [Travel](01.%20Players/05.%20Travel.md)
     - [Downtime](01.%20Players/06.%20Downtime.md)
-    - [RAIDs](01.%20Players/07.%20Raids.md)
     - [Condition Die](01.%20Players/08.%20Condition%20Die.md)
 
 # Setting

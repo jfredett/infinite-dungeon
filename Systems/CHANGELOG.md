@@ -1,3 +1,11 @@
+# v0.4.0
+
+- Moved [[04. Raids]] to the GM section
+	- Rough draft and case study of the IM raid.
+
+# v0.3.1
+
+Fixed a couple workflow issues, and some broken links.
 # v0.3.0
 
 Not all the sections mentioned here are published yet, because there's an ongoing campaign and I don't want to spoil too much.
