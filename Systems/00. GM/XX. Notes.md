@@ -20,3 +20,29 @@ There are three ways to manage this, you should switch between them periodically
 1. Choose a random adjacent hex it would make sense for the party to end up in, describe it as if nothing happened.
 2. GM Rolls a d6 with every navigation check in secret, number adjacent hexes as you prefer, travel in rolled direction.
 3. If it's a d20 check, take the value of the d20. If the value was <18, then take the value mod 6, if its 18+, they accidentally go the right way. This gives a slightly more forgiving chance to generally head in the right direction anyway, since their intended direction is represented by 5 possible values, and all unintended directions are represented by 3. It's handy if you forgot to roll the d6 and you don't want to choose by hand/all surrounding hexes are unexplored.
+
+
+# Notes on encounter design.
+
+Every system with at least damage/hp and some kind of action economy boils down to the following calculus:
+
+- Ratio(s) of Expected Damage per Round per group of combatants
+- Ratio(s) of Actions per Round per group
+- Ratio(s) of HP to Expected Damage per round for each enemy.
+- Derivatives of these functions
+
+The first can be generally thought of as a 'DPS balance', values close to 1 mean that the overall damage output at the current stage is equally matched. Values larger than 1 indicate an advantage to the 'left' group and smaller to the 'right', this can be passed through some adjusting function and used to populate a graph of all combatant groups.
+
+We can also consider this values "derivative" per combatant, per attack, etc. Selectively removing/abstracting the effect of the action in terms of damage, we can consider the effect of changing.
+
+Action Ratio indicates a higher probability to turn the advantage. We can see this in the prior ratio 
+
+HP to Expected Damage tells you roughly the number of rounds a combatant is likely to remain in the fight.
+
+These could also be done per action (averaging across all possible actions)
+
+I think a little monte carlo simulation might be interesting here as well
+
+The gradient of whatever model is built is probably a pretty interesting thing to do dimension reduction to.
+
+I suppose it might be possible to build this model in, e.g., SAGE, or even tensorflow, then do DR to it. It would be a presence vector (0/1) * a model of a specific class/gear loadout doing a specific action. Then you simulate across some subset of those presence vectors, but you can DR across all of them. 

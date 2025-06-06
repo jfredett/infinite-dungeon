@@ -1,3 +1,5 @@
+Aka "Ghashguul", or "Flame-wraith" in black speech/[[Private Language of the Mad Wizard Dracul Dracthulu Dracthir]]
+
 
 # Introduction
 
@@ -237,3 +239,6 @@ data:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Fuel Manifold Room.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/Private Language of the Mad Wizard Dracul Dracthulu Dracthir.md|]]

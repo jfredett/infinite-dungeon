@@ -30,6 +30,10 @@ Nik is there to answer questions, he mentions at least:
 
 1. That the notice is old, a way to enter the Tower is just up the road, Nik really lucked out on the placement. The PF was struggling before. The Counterparty found it and are a little bit lauded, but Nik lucked out because he happened to be one of the closest entrepreneurial innkeeps that has set up shop here recently.
 	1. "No no, there was other party; look like you a bit actually -- they found the way in a few weeks ago."
+	2. Nik can mark the place that the other party ([[The Counterparty]]) entered on the map, it is in the dead forest near the entrance.
+		1. The entrance is a single doorway standing in the middle of a large stone circle in a clearing in the dead woods; the door appears to have nothing behind it, but is inscribed with strange runes that look like the _INFINITE_DUNGEON_ logo thing. Or maybe it's an aramaic->elvish thing again, not sure.
+	3. {Insight DC15} Nik makes it sound like there is more than one entrance.
+	4. {Insight DC15} Nik isn't being honest about how much he knows about the fate of the other party.
 2. Mention [[Matilda the Hedge-Witch]], who knows more about how the tower entrance works. Nik just knows how to get there, but doesn't have any intention of going himself.
 	1. "Well, I have this" {a gesture to a set of boxes and bags of common supplies} "arrived for the Witch across the lake, she is strange, I do not like her."
 3. Nik offers free room and board to the players, on the condition that he gets to keep their stuff if they don't come back. He shows a contract that allows for a next of kin to claim half of the value in gold and vesper so long as they show up within 30 calendar days. Nik complains that the damn government made him add that clause, Nik does not like the government.
@@ -75,3 +79,4 @@ data:
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Mithrandir.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Upper Carpathia.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Iskavi.md|]]
+[[Campaigns/Infinite Dungeon/06. Factions/The Counterparty.md|]]

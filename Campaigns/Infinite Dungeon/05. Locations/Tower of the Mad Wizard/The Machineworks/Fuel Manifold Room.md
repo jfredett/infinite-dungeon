@@ -1,4 +1,10 @@
 A boss encounter featuring [[Flamespew|Flamespew]] 
+
+> Emblazoned on the doorway to this place is a strange series of symbols
+
+> In Old Aramaic script, the word "Ghashguul" is written, DC50 to translate (as with the door at the entrance), but DC20 passive perception to recognize it as something that was on the door. DC15 insight check for the same.
+
+> Inside the room, you see a network of pipes in an otherwise empty room. Cables, tubing, pipework, and other tools hang on the walls. In the center of the room, a mess of broken and twisted pipework lay. You can feel heat coming off of it, and see it twisting and warping your vision as you look through. You cannot see any flame. As you enter, the stench of fuel and oil and burnt rubber fills your lungs and you {Con save}{Fail: Cough a hacking cough, disadvantage on initiative}{Success: Suppress the urge to retch, no effect}. As the last of you enters the room, a blast door slams shut behind you, and in the center of the room a massive flaming figure springs to life, glowing white-hot and swooshing around the room before centering again and taunting you all. Roll Initiative
 # Requirements
 
 ```ad-warning

@@ -4,6 +4,8 @@ As they are dying running toward the doorway, the camera flies through and emerg
 
 Hard cut to a scene with [[Nikolai Ivanovich Lobachevsky|Nik]] collecting the players' things and setting them aside in a room _filled_ with similar stuff. He smirks and goes to greet some incoming customers (the players, again) giving the same spiel as started the thing, "You you... are you going to drink or just read?" Future encounters at the Machineworks will be in 'normal' mode, and include the final fight and full sequence.
 
+# End Scene
+
 > As you run through the door leading away from the crumbling infrastructure behind you; you see each of your companions fall. First a pipe takes out one, then a flying shard of glass slashes another. You persevere, you run, then crawl, then drag yourself through the portal that opened. You feel the sting of cold lash of wind whipping past your face, you struggle to look up. Looming above you, robes flapping in the gale, a dark cowl with bright blue-purple eyes and lightning-crooked staff looks down at you. The curl of a bearded lip shows through the shadows covering his face as he raises the staff and --
 >
 > The screen goes black, and a dark cackle is heard.
