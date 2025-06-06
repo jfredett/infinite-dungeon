@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/CHANGELOG.md",
+                "file": "Systems/02. Setting/00. The Time Matrix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHANGELOG"
+              "title": "00. The Time Matrix"
             }
           },
           {
@@ -102,13 +102,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Systems/CHANGELOG.md",
+                "file": "Systems/02. Setting/00. The Time Matrix.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CHANGELOG"
+              "title": "Outline of 00. The Time Matrix"
             }
           }
         ]
@@ -258,13 +258,13 @@
   },
   "active": "d1b2384e353ced7d",
   "lastOpenFiles": [
+    "Systems/CHANGELOG.md",
     "Systems/02. Setting/00. The Time Matrix.md",
     "Campaigns/Infinite Dungeon/03. Non Player Characters/Marcus Aurelius.md",
     "Campaigns/Infinite Dungeon/06. Factions/Catholic Pantheon.md",
     "Campaigns/Infinite Dungeon/05. Locations/Disorganized Rooms/we-can't-expect-the-gods-to-do-all-the-work.md",
     "Systems/00. GM/04. Raids.md",
     "Systems/SUMMARY.md",
-    "Systems/CHANGELOG.md",
     "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Fuel Manifold Room.md",
     "Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md",
     "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks.md",
