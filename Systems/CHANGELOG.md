@@ -3,6 +3,8 @@
 - Moved [[04. Raids]] to the GM section
 	- Rough draft and case study of the IM raid.
 - More [[00. The Time Matrix]] work
+- Add some details about setting [[Inns]] and some more details in the [[G - Glossary]]. 
+- Rough in [[09. Holdings]]
 
 # v0.3.1
 

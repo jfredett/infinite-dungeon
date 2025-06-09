@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/10. Objects/Potions/Dent and Ding Potions.md",
+                "file": "Systems/CHANGELOG.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dent and Ding Potions"
+              "title": "CHANGELOG"
             }
           },
           {
@@ -102,13 +102,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/10. Objects/Potions/Dent and Ding Potions.md",
+                "file": "Systems/CHANGELOG.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dent and Ding Potions"
+              "title": "Outline of CHANGELOG"
             }
           }
         ]
@@ -256,10 +256,10 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "9b205d3a5b3ab092",
+  "active": "d1b2384e353ced7d",
   "lastOpenFiles": [
-    "Systems/01. Players/09. Holdings.md",
     "Campaigns/Infinite Dungeon/10. Objects/Potions/Dent and Ding Potions.md",
+    "Systems/01. Players/09. Holdings.md",
     "Campaigns/Infinite Dungeon/10. Objects/Potions",
     "Systems/01. Players/05. Travel.md",
     "Systems/01. Players/04. Loot.md",
