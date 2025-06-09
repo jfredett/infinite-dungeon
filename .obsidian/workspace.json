@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom, by way of Ynn.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Edom, by way of Ynn"
+              "title": "README"
             }
           },
           {
@@ -250,6 +250,7 @@
   },
   "active": "d1b2384e353ced7d",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom, by way of Ynn.md",
     "Campaigns/Infinite Dungeon/01. Adventures/The Weather Machine/The Weather Machine.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md",
     "The Shining Shrine.md",
@@ -276,7 +277,6 @@
     "Systems/02. Setting/Inns.md",
     "Systems/03. Appendices/Index.md",
     "Systems/03. Appendices/G - Glossary.md",
-    "Systems/02. Setting/Mundane.md",
     "Assets/Gameplay Loop v0.1.1.png",
     "book/html/03. Appendices/C - Conditions.html",
     "book/html/00. GM/02. The Economy.html",

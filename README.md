@@ -25,11 +25,3 @@ If you are an author of the source books I incorporate into whatever the hell
 this all is, and you see something you'd prefer I not reference, use, or
 otherwise share in this repo, please create an issue so that I can address your
 concern efficiently.
-
-## Repo Rules
-
-1. Names of files should be all lower-case with hyphens instead of spaces.
-    - Some exception may be made as in the case of `gelatinous-cUber` to help avoid mispronunciation at a glance.
-2. Markdown ends in `.md`, not `.mkd`
-3. Cited, included, or referenced works should be added to REFERENCES, ideally with backlinking but this is not a
-   requirement.
