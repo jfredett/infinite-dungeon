@@ -92,43 +92,6 @@ tasks:
     status: "proposed"
 ```
 
-| d30 | Detail                                           |
-| --- | ------------------------------------------------ |
-| 1   | from the outer hull of the Infernal Machine      |
-| 2   | marked with an inspection date from 30 years ago |
-| 3   | engraved with warning runes                      |
-| 4   | torn loose in the final explosion                |
-| 5   | still reeking of burnt fuel                      |
-| 6   | jammed between two pressure valves               |
-| 7   | recovered from the remains of a fuelbot          |
-| 8   | pried from a control console                     |
-| 9   | tagged with a serial number in machine-code      |
-| 10  | dented by a critical hit during battle           |
-| 11  | cut free from a spinning assembly                |
-| 12  | found embedded in the wall after the fight       |
-| 13  | covered in ancient maintenance graffiti          |
-| 14  | pulled from the wreckage of an ornithopter       |
-| 15  | used to seal a steam leak in combat              |
-| 16  | salvaged from the heart of the engine core       |
-| 17  | burnt in the shape of a gear                     |
-| 18  | adorned with the emblem of the Machine Cult      |
-| 19  | plucked from a heap of melting slag              |
-| 20  | bolted into a nest of fuel lines                 |
-| 21  | scorched with fingerprints                       |
-| 22  | rattles ominously when shaken                    |
-| 23  | stuck to a burst pressure tank                   |
-| 24  | pulled from the jaw of Flamespew                 |
-| 25  | etched with tally marks                          |
-| 26  | still vibrating slightly                         |
-| 27  | pulled free with a terrible screech              |
-| 28  | lined with tiny, melted ball bearings            |
-| 29  | surprisingly intact                              |
-| 30  | scorched into a near-artistic pattern            |
-
-
-
-
-
 | d30 | **Descriptor**       | **Form**         | **Detail**                                       |
 | --- | -------------------- | ---------------- | ------------------------------------------------ |
 | 1   | Scorched             | Gear             | from the outer hull of the Infernal Machine      |
@@ -163,3 +126,5 @@ tasks:
 | 30  | Unnaturally clean    | Mounting bolt    | scorched into a near-artistic pattern            |
 
 
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]

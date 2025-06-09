@@ -29,14 +29,14 @@ Seven seals of seven layers each sounding seven trumpets are needed, not SIX!
 
 > Here a diagram depicting some sort of door is shown.
 
-The Sidhe could do it, why can't I! Cave Magic, it must be Cave Magic.
+The Sidhe could do it, why can't I! Cave Magic, it must be Cave Magic!
 
 > "The Mad Wizard here seems to imply that the legend among the Elves about their own ancient forebears may be true,
 > such a thing was once considered madness, but if he records it in his own journal, how could he be lying?" - gtg [ED:
 > gtg is the present copyists representation of the mark associated with [[Mithrandir]] the Wise of the Far Lands, Grey
 > Wizard of the Esteemed Council]
 > "Sidhe are a myth, the way of the universe is _known_, madness often lies to itself, such is it's essence." - ail [ED:
-> refers to "A" of the [[Ithryn Luin]], the so-called "Blue Wizards", a psuedonym for a group of researchers from the
+> refers to "A" of the [[Ithryn Luin]], the so-called "Blue Wizards", a pseudonym for a group of researchers from the
 > Renowned Southron University of the Arcane Arts. Authors from this group would individuate with a letter, it is not
 > known if the lettering was consistent between reference by design of the group.]
 
@@ -49,7 +49,7 @@ done to study and understand it. A note follows]
 > He asserts that an ancient tome he found, _The Garden of Ynn_, details a new kind of magical reality. It has been long
 > understood that our reality is only one of many. Though attempts have been made to interact with these realities, no
 > magical method has been discovered to pierce this veil. In _Garden_, the author excavates a sort of partial
-> subreality, entirely contained within the primary reality. The Wizard proposes the following variation on _Garden's_
+> sub-reality, entirely contained within the primary reality. The Wizard proposes the following variation on _Garden's_
 > terminology.
 
 [ED: Scribbled, in another hand, are some diagrams with large labels showing "Parallel" realities, "Perpendicular"
@@ -81,7 +81,7 @@ Induce via eddy currents at the leylines, like spinning a top...
 
 [ED: An interrupted note returns from above]
 
-> "Pardon prior henscratch, it seems that in this model one can explain the phenomena in _Garden_ as a coincidental
+> "Pardon prior hen-scratch, it seems that in this model one can explain the phenomena in _Garden_ as a coincidental
 > corotation of our respective realities. I believe the underlying arcana must be somewhat more complicated, but one can
 > imaging our reality as a sort of ring, spinning through the air, an infinity of other rings spin with it, and before
 > it, and behind it. The entire path, and every single path that the ring _could_ take is traversed, simultaneously
@@ -97,7 +97,7 @@ Induce via eddy currents at the leylines, like spinning a top...
 >
 > Magicks contain all rules for all things, it is the most fundamental description of a reality; as such, it contains
 > certain rules that -- for life to exist as we know it, must be adhered to. This, in simple terms, is physics,
-> fundamental logic, mathematics, and the core arcana. Of interest, one might concieve of a world without arcana -- or
+> fundamental logic, mathematics, and the core arcana. Of interest, one might conceive of a world without arcana -- or
 > with minimal arcana, already I see the magic of my own world receding after the passing of the Elves, so perhaps this
 > relates to a 'slowing' or precessing 'rotation' of our reality?
 >
@@ -112,3 +112,4 @@ of this are untranslated and, for the copyist, untranslatable at time of copy.]
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Mithrandir.md|]]
 [[Campaigns/Infinite Dungeon/06. Factions/Ithryn Luin.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Eret.md|]]
