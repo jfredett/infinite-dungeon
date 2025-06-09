@@ -1,4 +1,4 @@
-An Inn run by the proprietor, [[Nikolai Ivanovich Lobachevsky|Nik]], the main place where the characters return after adventuring.
+An [[Inns|Inn]] run by the proprietor, [[Nikolai Ivanovich Lobachevsky|Nik]], the main place where the characters return after adventuring.
 
 ```RpgManager4
 id: 
