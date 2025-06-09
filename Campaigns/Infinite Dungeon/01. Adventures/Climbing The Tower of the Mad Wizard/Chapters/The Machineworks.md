@@ -11,7 +11,7 @@ The aim in this chapter is to fully introduce [[Ynn]], do some hexcrawling aroun
 
 Maybe introduce some building mechanics at this stage.
 
-This ends with [[Mithrandir]] sending the party a missive via `Sending` or whatever, and asking them to head to Odessa and retrieve a book for him, "[[Comments on Cauchy's Rotated Reals and Applications to Algebraic Arcana]]"
+This ends with [[Mithrandir]] sending the party a missive via `Sending` or whatever, and asking them to head to [[Odesa]] and retrieve a book for him from the [[Odesa Public Library]], "[[Comments on Cauchy's Rotated Reals and Applications to Algebraic Arcana]]"
 
 # Restrictions
 

@@ -11,15 +11,24 @@ tasks:
     type: "creation"
     status: "proposed"
 ```
+For Players:
+
+> In the corner, you see a shelf filled with vials, flasks, flagons, baubles, and other containers with a variety of potions, tinctures, powders, pills, and other "medicinal" supplements. Above this shelf is a logo of a snake forming an ampersand, connecting the words "Dents" and "Dings". The prices seem quite reasonable, but a warning sits below the logo:
+> 
+> "Potions of unknown provenance, effect, and safety below, now on offer for the low price of {2d6}d each!"
+
+Brave adventurers roll a d20 and 3d100 when purchasing a potion, the DM will describe it's appearance including information about the maker's mark and the potion's appearance itself. All potions are stored in transparent bottles and have arbitrary shelf-life while sealed, but will only last for `24d60 - 23` minutes after opening. Expired potions have no effects.
 
 
-Use the following table to determine an effect of a dent-and-ding potion. D&D potions cost `2d6 - CHA` ducats each. When a player buys it, roll on the `Maker` table below to determine the brand and general appearance. It will instruct you on how to roll on the d100 table(s). Each roll follows a general pattern:
+----
+
+Use the following table to determine an effect of a dent-and-ding potion. D&D potions cost `2d6`, half on a CHA save, ducats each. When a player buys it, roll on the `Maker` table below to determine the brand and general appearance. It will instruct you on how to roll on the d100 table(s). Each roll follows a general pattern:
 
 1. Determine the total number of effects (based on maker)
 2. Determine what kinds of effects they have
 3. Determine how each effect styles the potion.
 
-For instance, for `Baba Zmeya` below, the process is:
+For instance, the process might be like:
 
 ```
 Roll d6, if the result is 4+, the potion has two positive effects and a negative effect, the lower number positive effect determines the appearance, the higher the taste, and the negative effect the smell.
