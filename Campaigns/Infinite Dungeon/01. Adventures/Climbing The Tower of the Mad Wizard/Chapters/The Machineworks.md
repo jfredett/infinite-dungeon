@@ -56,4 +56,4 @@ data:
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 
 [[Campaigns/Infinite Dungeon/01. Adventures/Prologue/Prologue.md|]]
-[[Ca[[Prologue]]
+[[Prologue]]

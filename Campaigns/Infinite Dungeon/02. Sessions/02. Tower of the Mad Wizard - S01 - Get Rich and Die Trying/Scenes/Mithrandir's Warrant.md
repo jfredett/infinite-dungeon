@@ -39,6 +39,7 @@ Nik is there to answer questions, he mentions at least:
 3. Nik offers free room and board to the players, on the condition that he gets to keep their stuff if they don't come back. He shows a contract that allows for a next of kin to claim half of the value in gold and vesper so long as they show up within 30 calendar days. Nik complains that the damn government made him add that clause, Nik does not like the government.
 	1. "Is simple, you stay here free, you go adventure, you die, I get your stuff."
 	2. Passive Perception of 19 or an active, successful DC12 Insight check reveals he's lying, and that next-of-kin is entitled to 50%.
+4. Nik points to the [[Dent and Ding Potions]] rack, he's thinking of just getting rid of it, so he's offering them free (for the first one) to everyone coming by.
 
 Players can generally:
 
@@ -71,12 +72,13 @@ data:
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Odesa.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Upper Carpathia.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Mithrandir.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Iskavi.md|]]
+[[Campaigns/Infinite Dungeon/06. Factions/The Counterparty.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Matilda the Hedge-Witch.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/The Secret Garden of Ynn.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Deliver Items to Matilda.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Threeflower.md|]]
-[[Campaigns/Infinite Dungeon/05. Locations/Odesa.md|]]
-[[Campaigns/Infinite Dungeon/03. Non Player Characters/Mithrandir.md|]]
-[[Campaigns/Infinite Dungeon/05. Locations/Upper Carpathia.md|]]
-[[Campaigns/Infinite Dungeon/05. Locations/Iskavi.md|]]
-[[Campaigns/Infinite Dungeon/06. Factions/The Counterparty.md|]]
+[[Campaigns/Infinite Dungeon/10. Objects/Potions/Dent and Ding Potions.md|]]

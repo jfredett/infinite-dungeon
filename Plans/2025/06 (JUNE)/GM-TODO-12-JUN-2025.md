@@ -7,13 +7,13 @@
 		- [ ] Tower readalouds
 		- [ ] Room Readalouds
 			- [ ] Docks
-			- [ ] Fuel room
+			- [x] Fuel room
 			- [ ] IM arena
 			- [ ] Skybridge stuff
 		- [ ] Monster Readalouds
 			- [ ] Loader
 			- [ ] Defender
-			- [ ] Flamespew
+			- [x] Flamespew
 			- [ ] IM
 - [ ] RAID
 	- [x] Encounter Design

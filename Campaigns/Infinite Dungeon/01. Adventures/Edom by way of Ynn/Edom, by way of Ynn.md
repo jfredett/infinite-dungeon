@@ -12,20 +12,8 @@ I think it's structured like a couple 5-room dungeons as a pointcrawl. Something
 
 Players attempting to use magic to translate anything by MWDDD find that it does not work and in fact violently resists, inflicting 1, then 1d4, then 1d6, etc for each repeated attempt. MWDDD has his own [[Private Language of the Mad Wizard Dracul Dracthulu Dracthir|Private Language]] which is magically resilient.
 
-```RpgManager4
-id: 
-  type: "adventure"
-  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  parent: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-  positionInParent: 4
-tasks: 
-  - id: "a45c78d2-2bbc-4a24-a953-92b956788921"
-    priority: 1
-    name: "Complete Adventure"
-    description: "Complete Adventure Edom by way of Ynn"
-    type: "creation"
-    status: "proposed"
-```
+---
+
 I think this would be a lower lethality section, more story driven, so probably not too many big fights. If the players do manage to TPK, I think this just resets due to 'time bullshit' and maybe we skip over some of the introductory stuff, players can do the Groundhog Day thing.
 
 
@@ -79,3 +67,29 @@ on like, a sketch of a rose or something. I've written the phrase in Old Syriac 
 
 I also want to have a proper 'thorn-idea' set of art where the line is just "_lana tenecel ynnir_" (lit: "is (present) thorn-idea ynn-bane", tr: "This _is_ The Idea of Thorns.")
 
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Edom.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Mithrandir.md|]]
+[[Campaigns/Infinite Dungeon/10. Objects/Books and Papers/"On the Viral Idea".md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Parmadil.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/The Mad Wizard Dracul Drathulu Drathir.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/Private Language of the Mad Wizard Dracul Dracthulu Dracthir.md|]]
+
+
+```RpgManager4
+id: 
+  type: "adventure"
+  campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+  parent: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
+  positionInParent: 4
+tasks: []
+```
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Edom.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Mithrandir.md|]]
+[[Campaigns/Infinite Dungeon/10. Objects/Books and Papers/"On the Viral Idea".md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Parmadil.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/The Mad Wizard Dracul Drathulu Drathir.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/Private Language of the Mad Wizard Dracul Dracthulu Dracthir.md|]]
