@@ -12,6 +12,7 @@
 	- [Character Generation](00.%20GM/02.%20Character%20Generation.md)
 	- [The Economy](00.%20GM/03.%20The%20Economy.md)
     - [RAIDs](04.%20Raids.md)
+
 ## Player's Manual
 
 - [Player's Manual](01.%20Players/00.%20The%20Loop.md)
@@ -26,6 +27,9 @@
 # Setting
 
 <!-- - [The Time Matrix](Setting/The%20Time%20Matrix.md) -->
+- [Inns](Setting/Inns.md)
+- [The Sort](Setting/The%20Sort.md)
+
 # Appendices
 
 - [Appendices](03.%20Appendices/Index.md)
