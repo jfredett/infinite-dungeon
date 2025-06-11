@@ -1,20 +1,33 @@
 - [ ] Non-Raid stuff
 	- [x] Initial [[00. The Time Matrix|timeline(s)]]
 	- [x] Nik and Matilda Portraits
+	- [x] Bulletin Board Scene
+		- [x] A scene with a big bulletin board/corkboard and the various handouts 'pinned' to it.
+	- [ ] Hexcrawl
+		- [ ] Encounter Generation Table
+		- [ ] Weather Generation Table
 	- [ ] More read-aloud stuff
-		- [ ] Matilda meeting readalouds
-		- [ ] Isk Village meeting readalouds
+		- [ ] Upper Carpathia
+			- [ ] And more broadly readalouds for the world map as a whole
+		- [x] Matilda meeting readalouds
+			- [x] Character
+			- [x] Hut
+			- [x] Other
+		- [x] Nik Readalouds
+			- [x] Character
+			- [x] PF
+		- [x] Isk Village meeting readalouds
 		- [ ] Tower readalouds
-		- [ ] Room Readalouds
-			- [ ] Docks
-			- [x] Fuel room
-			- [ ] IM arena
-			- [ ] Skybridge stuff
-		- [ ] Monster Readalouds
-			- [ ] Loader
-			- [ ] Defender
-			- [x] Flamespew
-			- [ ] IM
+			- [ ] Room Readalouds
+				- [ ] Docks
+				- [x] Fuel room
+				- [ ] IM arena
+				- [ ] Skybridge stuff
+			- [ ] Monster Readalouds
+				- [ ] Loader
+				- [ ] Defender
+				- [x] Flamespew
+				- [ ] IM
 - [ ] RAID
 	- [x] Encounter Design
 		- [x] IM

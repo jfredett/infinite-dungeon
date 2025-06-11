@@ -13,18 +13,45 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Systems/02. Setting/The Sort.md",
+                "file": "Systems/00. GM/05. Hexcrawling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The Sort"
+              "title": "05. Hexcrawling"
+            }
+          },
+          {
+            "id": "1943d18895091014",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Assets/Mithrandir's Warrant.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Mithrandir's Warrant"
+            }
+          },
+          {
+            "id": "f810675c0c790dfb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systems/CHANGELOG.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CHANGELOG"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "fb3216d0865dc617",
+        "id": "bc0a0224766e0e14",
         "type": "tabs",
         "children": [
           {
@@ -33,15 +60,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Wrap-Up 12-JUN.md",
+                "file": "Systems/00. GM/05. Hexcrawling.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wrap-Up 12-JUN"
+              "title": "05. Hexcrawling"
+            }
+          },
+          {
+            "id": "e55226e7036dafdc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Campaigns/Infinite Dungeon/05. Locations/Iskavi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Iskavi"
+            }
+          },
+          {
+            "id": "f95973ad7c8b1159",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systems/03. Appendices/T - Tables.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "T - Tables"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,8 +310,32 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "9b205d3a5b3ab092",
+  "active": "f810675c0c790dfb",
   "lastOpenFiles": [
+    "Plans/2025/06 (JUNE)/GM-TODO-12-JUN-2025.md",
+    "Assets/PF-Notice-Board-12-JUN-2025.jpg",
+    "Assets/PF-Notice-Board.kra",
+    "Excalidraw/Drawing 2025-06-11 09.51.20.excalidraw.md",
+    "Systems/03. Appendices/T - Tables.md",
+    "Systems/00. GM/05. Hexcrawling.md",
+    "Systems/01. Players/05. Travel.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Iskavi.md",
+    "Assets/Mithrandir's Warrant 1.webp",
+    "Assets/Mithrandir's Warrant.webp~",
+    "Assets/Mithrandir's Warrant.webp",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Deliver Items to Matilda.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Matilda's Hut.md",
+    "Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Matilda the Hedge-Witch.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Mithrandir's Warrant.md",
+    "Campaigns/Infinite Dungeon/05. Locations/Pleasantly Finite.md",
+    "Campaigns/Infinite Dungeon/05. Locations/The Pleasantly Finite.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Introduction.md",
+    "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md",
+    "Campaigns/Infinite Dungeon/03. Non Player Characters/Iskavi/Nikolai Ivanovich Lobachevsky.md",
+    "Systems/03. Appendices/Index.md",
+    "Systems/CHANGELOG.md",
+    "Systems/02. Setting/The Sort.md",
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Wrap-Up 12-JUN.md",
     "book/html/02. Setting/The Sort.html",
     "book/html/02. Setting/Inns.html",
     "book/html/00. GM/04. Raids.html",
@@ -268,39 +348,14 @@
     "Systems/04. Raids.md",
     "Systems/Setting/The Sort.md",
     "Systems/Setting/Inns.md",
-    "Systems/Setting",
-    "scripts/create-fame-item.js",
-    "scripts/iron-roll.js",
-    "Systems/02. Setting/The Sort.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Wrap-Up 12-JUN.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Mithrandir's Warrant.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Introduction.md",
-    "Systems/00. GM/05. Hexcrawling.md",
     "Systems/02. Setting/Inns.md",
-    "Systems/CHANGELOG.md",
-    "Systems/03. Appendices/C - Conditions.md",
-    "Plans/2025/06 (JUNE)/GM-TODO-12-JUN-2025.md",
-    "Systems/01. Players/05. Travel.md",
-    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/Burning Questions.md",
-    "Campaigns/Infinite Dungeon/05. Locations/Iskavi.md",
-    "Campaigns/Infinite Dungeon/11. Monsters/Loading Docks/Encounter.md",
-    "Campaigns/Infinite Dungeon/11. Monsters/Loading Docks/Loader.md",
-    "Campaigns/Infinite Dungeon/11. Monsters/Loading Docks/Defender.md",
-    "Campaigns/Infinite Dungeon/11. Monsters/Flamespew/Flamespew.md",
-    "Campaigns/Infinite Dungeon/11. Monsters/Infernal Machine/Infernal Machine.md",
-    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Skybridge.md",
-    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md",
-    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md",
     "Assets/Gameplay Loop v0.1.1.png",
     "Assets/Eret - Greater Arcadia.webp",
     "Assets/Eret - Upper Carpathia - Iskavi.webp",
     "Assets/Matilda.webp",
     "Assets/Nikolai Ivanovich Lobachevsky.jpg",
     "Assets/NIL Current.jpg",
-    "Assets/upper-carpathia.jpg",
-    "Assets/Map of Oracles in Ancient Mediterrainian.png",
-    "Assets/loading-docks-proto_46x41.png",
-    "Assets/lanatar-tenecel-ynnir.jpeg"
+    "Assets/upper-carpathia.jpg"
   ]
 }

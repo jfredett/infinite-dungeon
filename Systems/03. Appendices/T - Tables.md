@@ -10,3 +10,15 @@ These are traits with standardized effects and costs.
 | Make Choice         | Varies depending on the choice                                                | 1-5m   | Where you presently roll, you may instead choose. Name a part of character creation where the instructions dictate you must role, instead, you now choose a value you could have otherwise rolled. The choice is fixed at _trait selection time_. So if you're choosing a class, activating this trait is _equivalent to choosing that class_, etc. |
 | Standard Issue Gear | 1m for common equipment, 5m for special equipment, 10+m for magical equipment | Varies | Start with the specified equipment, for free.                                                                                                                                                                                                                                                                                                       |
 |                     |                                                                               |        |                                                                                                                                                                                                                                                                                                                                                     |
+## Travel
+
+| Terrain Type          | Travel time (Region) | Travel Time (Area) | Exploration (Area) | Exploration (Region) |
+| --------------------- | -------------------- | ------------------ | ------------------ | -------------------- |
+| Flat, open terrain    | 10h                  | 1h                 | 1h                 | Only                 |
+| Flat, hostile terrain | 20h                  | 2h                 | 2h                 | when                 |
+| Lightly Forested      | 20h                  | 2h                 | 4h                 | all                  |
+| Dense Forest/Jungle   | 40h                  | 4h                 | 8h                 | area                 |
+| Swamp/Bog             | 40h                  | 4h                 | 16h                | hexes                |
+| Hills                 | 40h                  | 4h                 | 16h                | are                  |
+| Mountains             | 80h                  | 8h                 | 48h                | totally              |
+| has Road?             | /2 time, minimum 1h  | ibid               | no effect          | explored             |
