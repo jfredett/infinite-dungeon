@@ -11,7 +11,7 @@
 	- [Guiding Principles](00.%20GM/01.%20Guiding%20Principles.md)
 	- [Character Generation](00.%20GM/02.%20Character%20Generation.md)
 	- [The Economy](00.%20GM/03.%20The%20Economy.md)
-    - [RAIDs](04.%20Raids.md)
+    - [RAIDs](00.%20GM/04.%20Raids.md)
 
 ## Player's Manual
 
@@ -27,8 +27,8 @@
 # Setting
 
 <!-- - [The Time Matrix](Setting/The%20Time%20Matrix.md) -->
-- [Inns](Setting/Inns.md)
-- [The Sort](Setting/The%20Sort.md)
+- [Inns](02.%20Setting/Inns.md)
+- [The Sort](02.%20Setting/The%20Sort.md)
 
 # Appendices
 

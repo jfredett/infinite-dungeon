@@ -254,8 +254,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "d1b2384e353ced7d",
+  "active": "9b205d3a5b3ab092",
   "lastOpenFiles": [
+    "book/html/02. Setting/The Sort.html",
+    "book/html/02. Setting/Inns.html",
+    "book/html/00. GM/04. Raids.html",
+    "Systems/SUMMARY.md",
     "book/html/Setting/The Sort.html",
     "book/html/Setting/Inns.html",
     "book/html/Setting",
@@ -267,9 +271,6 @@
     "Systems/Setting",
     "scripts/create-fame-item.js",
     "scripts/iron-roll.js",
-    "scripts/depth-roll.js",
-    "scripts/condition-die.js",
-    "scripts",
     "Systems/02. Setting/The Sort.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Wrap-Up 12-JUN.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying.md",
@@ -291,7 +292,6 @@
     "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Skybridge.md",
     "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md",
     "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md",
-    "Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Fuel Manifold Room.md",
     "Assets/Gameplay Loop v0.1.1.png",
     "Assets/Eret - Greater Arcadia.webp",
     "Assets/Eret - Upper Carpathia - Iskavi.webp",
