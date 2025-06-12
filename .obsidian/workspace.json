@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plans/2025/06 (JUNE)/GM-TODO-12-JUN-2025.md",
+                "file": "Systems/01. Players/02. Orders.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GM-TODO-12-JUN-2025"
+              "title": "02. Orders"
             }
           }
         ],
@@ -141,6 +141,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "9d3a778b43f96f8d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4967d6923221cc9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Systems/01. Players/02. Orders.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 02. Orders"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
@@ -222,21 +243,6 @@
               "icon": "spreadsheet",
               "title": "Advanced Tables"
             }
-          },
-          {
-            "id": "c4967d6923221cc9",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom, by way of Ynn.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Edom, by way of Ynn"
-            }
           }
         ],
         "currentTab": 4
@@ -300,7 +306,7 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e55226e7036dafdc",
+  "active": "5b992fd847a60ec4",
   "lastOpenFiles": [
     "Plans/2025/06 (JUNE)/GM-TODO-12-JUN-2025.md",
     "Plans/2025/06 (JUNE)/GM-TODO-26-JUN-2025.md",
