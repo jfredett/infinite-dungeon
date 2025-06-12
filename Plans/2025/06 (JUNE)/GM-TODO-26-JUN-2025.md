@@ -1,4 +1,7 @@
-
+- [ ] Nonraid
+	- [ ] Get import/export compendium working
+		- [ ] Ideally get the IM stuff such that I can update it per release.
+		- [ ] Extract stuff to a library (token finding, explosion stuff, etc)
 - [ ] RAID
 	- [ ] IM Raid
 		- [ ] IM
@@ -6,13 +9,18 @@
 				- [ ] IM
 					- [ ] N
 						- [ ] Exported to this library
-			- [ ] 5' Adjusted and resquared in Krita
+			- [x] 5' Adjusted and resquared in Krita
 			- [ ] 5' Macroed
-				- [ ] Barrel Distribution
+				- [x] Barrel Distribution
 				- [ ] Floor Explosion Automation
-				- [ ] Light management
-		- [ ] Flamespew
-			- [ ] Flame Scythe Graphic
+				- [x] Light management
+				- [ ] Current status:
+					- [ ] Need to export back here
+					- [ ] Clean up outputs
+					- [ ] Clean up barrel placement to make sure it's in the polygon
+					- [ ] Hide the saves for fuel barrels (or obviate them?)
+		- [x] Flamespew
+			- [x] Flame Scythe Graphic
 				- jb2a.breath_weapons02.burst <-- this can be the flame scythe for now, need to create a macro or two to telegraph then play the animation
 				- Just need to figure out how to automate all that. >.<
-			- [ ] 5' Macroed -- something to manage the lights
+			- [x] 5' Macroed -- something to manage the lights

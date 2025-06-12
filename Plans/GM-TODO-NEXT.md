@@ -9,6 +9,8 @@
 			- [ ] Wien
 	- [ ] Improve Macro/move to script the Iron Roller, add some trait support?
 	- [ ] Build and load scripts from this repo
+		- [x] module.json set up
+		- [ ] packs created (automatically) on release
 		- [ ] Ideally move to Typescript. Probably comes after the move to k3s.
 	- [ ] PF Map
 	- [ ] Matilda Map

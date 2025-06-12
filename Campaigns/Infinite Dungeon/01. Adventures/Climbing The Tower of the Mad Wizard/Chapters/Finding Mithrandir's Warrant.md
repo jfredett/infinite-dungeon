@@ -51,8 +51,8 @@ data:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Odesa.md|]]
-[[Mithrandir]]
-[[Upper Carpathia]]
-[[Nikolai Ivanovich Lobachevsky]]
-[[Campaigns/Infinite Dungeon/05. Locations/The Pleasantly Finit[[Climbing The Tower of the Mad Wizard]]ard.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Mithrandir.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Upper Carpathia.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/The Pleasantly Finite.md|]]
