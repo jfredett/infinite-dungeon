@@ -1,0 +1,18 @@
+
+- [ ] RAID
+	- [ ] IM Raid
+		- [ ] IM
+			- [ ] Statblocks
+				- [ ] IM
+					- [ ] N
+						- [ ] Exported to this library
+			- [ ] 5' Adjusted and resquared in Krita
+			- [ ] 5' Macroed
+				- [ ] Barrel Distribution
+				- [ ] Floor Explosion Automation
+				- [ ] Light management
+		- [ ] Flamespew
+			- [ ] Flame Scythe Graphic
+				- jb2a.breath_weapons02.burst <-- this can be the flame scythe for now, need to create a macro or two to telegraph then play the animation
+				- Just need to figure out how to automate all that. >.<
+			- [ ] 5' Macroed -- something to manage the lights

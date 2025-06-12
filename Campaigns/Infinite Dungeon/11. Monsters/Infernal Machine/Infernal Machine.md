@@ -1,9 +1,8 @@
+# Description
 
+> A bound mass of wires, pipes, metal and gears. It is easily 10 meters tall and perhaps 7 or 8 wide. Broadly circular at the base, but boxy as it rises from it's position in the center of the arena, this machine appears to have almost no life in it. As the last of you enter into this large, open, trapezoidal space, you hear the rush of liquid and a familiar cobalt blue color runs through and into a viewing valve before rushing into the machine. The doorways out slam shut, and the machine roars to life having been fed pure, refined vesper directly into it's engine. Roll Initiative.
 
-
-----
-
-## Mechanics
+# Mechanics
 
 ### Vents
 
@@ -143,3 +142,7 @@ tasks:
     type: "creation"
     status: "proposed"
 ```
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md|]]
+[[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Raid the Tower.md|]]

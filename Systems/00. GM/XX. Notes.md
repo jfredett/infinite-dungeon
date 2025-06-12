@@ -46,3 +46,14 @@ I think a little monte carlo simulation might be interesting here as well
 The gradient of whatever model is built is probably a pretty interesting thing to do dimension reduction to.
 
 I suppose it might be possible to build this model in, e.g., SAGE, or even tensorflow, then do DR to it. It would be a presence vector (0/1) * a model of a specific class/gear loadout doing a specific action. Then you simulate across some subset of those presence vectors, but you can DR across all of them. 
+
+## More notes on encounter design
+
+An interesting question is essentially "Per round, what is the relative balance of 1 monster with DPA of $\mu_{m}$ and $A_{m}$ actions versus 1 character of a specific level with DPA of $\mu_{p}$  and $A_p$ actions, given $p_m$ is the probability that the PC hits the monster, and $p_p$ the probability that the monster hits the player?"
+
+At first, this seems to be roughly:
+
+$$ \frac{A_m \mu_m p_p}{A_p \mu_p p_m} $$
+Following from the more fundamental DPR formula of $\frac{M_m p_p}{M_p p_m}$ where $M_x$ is the sum of average damages across all actions.
+
+The $p$ term in particular is important, because it has to account for the probability that a monster is restrained from acting (thus reducing it's $M_m$ significantly), but allows some comparison. We can estimate a $\mu_x$ for any given attack pretty easily, and we can treat it as a maximization problem as well, replacing $\mu$ with a theoretical max damage or whatever.

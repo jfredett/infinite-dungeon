@@ -1,14 +1,15 @@
+
 - [ ] Non-Raid stuff
 	- [x] Initial [[00. The Time Matrix|timeline(s)]]
 	- [x] Nik and Matilda Portraits
 	- [x] Bulletin Board Scene
 		- [x] A scene with a big bulletin board/corkboard and the various handouts 'pinned' to it.
 	- [ ] Hexcrawl
-		- [ ] Encounter Generation Table
+		- [x] Encounter Generation Table
 		- [ ] Weather Generation Table
-	- [ ] More read-aloud stuff
-		- [ ] Upper Carpathia
-			- [ ] And more broadly readalouds for the world map as a whole
+	- [x] More read-aloud stuff
+		- [x] Upper Carpathia
+			- [x] And more broadly readalouds for the world map as a whole
 		- [x] Matilda meeting readalouds
 			- [x] Character
 			- [x] Hut
@@ -17,49 +18,39 @@
 			- [x] Character
 			- [x] PF
 		- [x] Isk Village meeting readalouds
-		- [ ] Tower readalouds
-			- [ ] Room Readalouds
-				- [ ] Docks
+		- [x] Tower readalouds
+			- [x] Room Readalouds
+				- [x] Docks
 				- [x] Fuel room
-				- [ ] IM arena
-				- [ ] Skybridge stuff
-			- [ ] Monster Readalouds
-				- [ ] Loader
-				- [ ] Defender
+				- [x] IM arena
+				- [x] Skybridge stuff
+			- [x] Monster Readalouds
+				- [x] Loader
+				- [x] Defender
 				- [x] Flamespew
-				- [ ] IM
-- [ ] RAID
+				- [x] IM
+- [x] RAID
 	- [x] Encounter Design
 		- [x] IM
 			- [x] Finish at least N mode, ideas in place, but nothing doing
 		- [x] Loading Docks
 			- [x] Finish at least N mode, ideas in place, but nothing doing
-	- [ ] IM Raid
-		- [ ] IM
-			- [ ] Statblocks
-				- [ ] IM
-					- [ ] N
-						- [ ] Designed
-						- [ ] Imported
-			- [ ] Finish Encounter Design in [[Infernal Machine]]
-			- [ ] 5' Adjusted and resquared in Krita
-			- [ ] 5' Macroed
-				- [ ] Barrel Distribution
-				- [ ] Floor Explosion Automation
-				- [ ] Light management
-		- [ ] Docks
-			- [ ] Ornithopter Statblock
+	- [x] IM Raid
+		- [x] IM
+			- [x] Statblocks
+				- [x] IM
+					- [x] N
+						- [x] Designed
+			- [x] Finish Encounter Design in [[Infernal Machine]]
+		- [x] Docks
+			- [x] Ornithopter Statblock
 			- [x] 5' Macroed
 			- [x] 5' Drawn
 				- used dungeonscrawl for this one.
 			- [x] 5' Imported
 			- [x] 5' Rigged
 			- No macros for this one, no lighting either.
-		- [ ] Flamespew
-			- [ ] Flame Scythe Graphic
-				- jb2a.breath_weapons02.burst <-- this can be the flame scythe for now, need to create a macro or two to telegraph then play the animation
-				- Just need to figure out how to automate all that. >.<
-			- [ ] 5' Macroed -- something to manage the lights
+		- [x] Flamespew
 			- [x] Loader
 				- [x] All Statblocks imported to this notebook from foundry
 			- [x] Defender

@@ -1,6 +1,6 @@
 Aka "Ghashguul", or "Flame-wraith" in black speech/[[Private Language of the Mad Wizard Dracul Dracthulu Dracthir]]
 
-
+> A fury of flaming form leaps from the leaking gaspipes. Pure, burning Vesper coalesces into the shape of a humanoid figure in the resulting flame. It wheels around the room, the heat of it singes your faces. It retreats to the center and prepares a mighty breath, roll initiative!
 # Introduction
 
 ```statblock
@@ -239,6 +239,6 @@ data:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/Private Language of the Mad Wizard Dracul Dracthulu Dracthir.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Fuel Manifold Room.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/Private Language of the Mad Wizard Dracul Dracthulu Dracthir.md|]]

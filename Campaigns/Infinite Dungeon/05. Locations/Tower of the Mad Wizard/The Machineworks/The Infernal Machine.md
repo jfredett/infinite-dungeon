@@ -1,3 +1,12 @@
+
+# Description
+
+> A room, some 60m wide, with walls that slant inwards towards a massive metal doorway at the back of the arena. Through it you see a vision from the top of what must be a massive tower. At the center of the floor of diamond-plate steel that is pocked with drainage grates and dotted with massive steel columns holding the structure above off the ground, you see:
+
+![[Infernal Machine#Description]]
+
+# Summary
+
 The Infernal Machine encounter is a multi-phase, multi-mode fight. It uses the Vesper gathered during the [[Loading Docks]] encounter to power extra abilities, spending that resource as it goes. At the end of each of it's turns, it will choose which mode to transition too over the remaining turn, performing a series of legendary actions to accomplish the mode change. There are three modes:
 
 1. Stationary / "Turret" mode, where the IM sits still and shoots firebolts at the players
@@ -221,9 +230,8 @@ tasks:
 [[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Loading Docks.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md|]]
 [[Campaigns/Infinite Dungeon/11. Monsters/Flamespew/Flamespew.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/System/Raid.md|]]
 [[Campaigns/Infinite Dungeon/11. Monsters/Infernal Machine/Infernal Machine.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks]]
 [[Flamespew]]
 [[Loading Docks]]

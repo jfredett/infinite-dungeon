@@ -1,3 +1,5 @@
+> A dog-sized creature on six legs, it's head is a glassy, bulbous screen; strange green light glows from its... face? It has large mandibles protruding from this 'face' and scans the room back and forth, keeping an eye on the other creatures and anything else it deems worth monitoring.
+
 
 ```RpgManager4
 id: 
@@ -11,3 +13,5 @@ tasks:
     type: "creation"
     status: "proposed"
 ```
+
+[[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]

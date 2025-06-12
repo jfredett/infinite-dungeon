@@ -1,3 +1,11 @@
+> A room that opens to a vista showing a world of massive factories, pipework, and strange metallic buzzing things, the size of elephants, carrying massive tanks of unknown content. They buzz like bees back and forth, leaving their deliveries on the docks that reach out into this world. On each dock, a steady line of smaller, dog-sized creatures on six legs scuttle back and forth draining the contents of the tanks and, when empty, unceremoniously pushing them off the side of the dock with a clang and clamor. They don't seem to notice you, they just go about their work porting the contents of the big tanks into smaller tanks that get delivered and then shot away on some sort of pneumatic system. Empty canisters arrive back, each canister easily carrying much more than any one person could carry.
+
+> {DC20 Perception, DC30 Passive Perception}{The contents being ported are obviously Vesper, you can tell by the... {insert player choice}}{You have no idea what's in the tanks, but it's probably useful for something, or else why would they be working so hard with it?}
+
+> {DC10 Perception, DC15 Passive, same roll as above}{There are another sort of creature, similar to the others but standing still at various points, observing the passing individuals and paying quite a lot of attention to you, they don't _do_ anything, but they definitely know you're here.}{N/A}
+
+
+
 ![[loading-docks-proto_46x41.png]]
 
 ## Summary 
@@ -269,9 +277,9 @@ tasks:
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Skybridge.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Infernal Machine.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Raid the Tower.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/01. Prologue - S3 - I'm just a businessman, eh?/01. Prologue - S3 - I'm just a business man, eh?.md|]]
-[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Skybridge.md|]]
 [[The Infernal Machine]]

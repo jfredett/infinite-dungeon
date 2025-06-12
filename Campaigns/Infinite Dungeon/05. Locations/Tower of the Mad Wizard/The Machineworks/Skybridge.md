@@ -116,29 +116,12 @@ Locations generated gain tags, tags have the following meaning
 id: 
   type: "location"
   campaign: "Campaigns/Infinite Dungeon/Infinite Dungeon.md"
-tasks: 
-  - id: "3376dfc6-0512-4c00-a75c-11768d5a65f8"
-    priority: 1
-    name: "Finish Encounter Table"
-    description: 
-    status: "incomplete"
-    type: "custom"
-  - id: "c697f08d-45c9-4c3e-857c-2a8d2ee92b7b"
-    priority: 1
-    name: "Solo Test Runs"
-    description: 
-    status: "incomplete"
-    type: "custom"
-  - id: "451feb03-3108-4e91-96cc-4e68f5e416df"
-    priority: 1
-    name: "Maps?"
-    description: 
-    status: "incomplete"
-    type: "custom"
+tasks: []
 ```
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/The Eye.md|]]
-[[Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md|]]
 [[Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S01 - Get Rich and Die Trying/Scenes/Raid the Tower.md|]]
+[[Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md|]]
+[[Campaigns/Infinite Dungeon/05. Locations/Tower of the Mad Wizard/The Machineworks/Loading Docks.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/The Machineworks/The Machineworks.md|]][[Raid the Tower]]
