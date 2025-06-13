@@ -2,6 +2,9 @@
 	- [ ] Get import/export compendium working
 		- [ ] Ideally get the IM stuff such that I can update it per release.
 		- [ ] Extract stuff to a library (token finding, explosion stuff, etc)
+	- [ ] Infrastructure
+		- [ ] VM with Foundry, Affine -- maybe just barge?
+		- [ ] Selfhost 5e.tools?
 - [ ] RAID
 	- [ ] IM Raid
 		- [ ] IM
