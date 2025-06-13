@@ -24,7 +24,11 @@ When you make a character, it can use any official WOTC published material. If y
 
 "Upon Honorable Death" means "When you die in a way that isn't GM or player bullshit." GM bullshit is when I say, "Your Iron roll character has 1hp, you are stung by a bee, you die." and you get to reroll with no penalty, but also no reward. Player bullshit is where you roll a character and behave in _boring_ and reckless ways to get yourself killed. It is never bullshit if it's very funny.
 
+---
 
+Otherwise, the session went well, in particular the skybridge depth crawl worked great. The fights are way overtuned, as expected, but the macros worked well. The Flame arena is a little too big, I think I might scale it so it's effectively half as big. I should probably do the same w/ the IM arena, which should also improve the explosion radius situation. The macro still needs some work there, but I think it's good enough for now and they are a ways away from it anyway. I think Loading docks is a more likely near term.
+
+I think the next place to focus is actually infrastructure, I want to get a wiki set up for them, and get foundry moved over. I might just huck a VM at it.
 
 ```RpgManager4
 id: 
