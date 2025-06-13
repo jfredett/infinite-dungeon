@@ -1,3 +1,6 @@
+Read aloud:
+
+> In the bottom corner of the screen is a macro named 'Iron Roll', should be number 1, go ahead and click that to generate a character, this will have all the stats rolled, and a class rolled. You are all human. You may, if you like, choose a first name.
 
 Players find [[Campaigns/Infinite Dungeon/10. Objects/Letters, Postings, etc/Mithrandir's Warrant|Mithrandir's Warrant]]
 
@@ -58,6 +61,10 @@ Players can generally:
 There are scenes in this session for those, but they may not get into all of them.
 
 If the players don't attempt the tower in a session, roll d20 + number of missed attempts. DC30, no natural 20s. If at any point you pass, the reward from the raid is halved, the count reset, and the clock restarted. The first time this happens, the party is informed that the so-called 'Counterparty' claims to have defeated the encounter and brought back some various machinery and such from the tower as 'proof'. The machinery is genuine, but the claims are not, they stole this from the entry area, and this is obvious when the players actually go to the Raid; as the pipes are made of iron, and not copper as they are further in.
+
+----
+
+5e characters are hard to iron roll
 
 ```RpgManager4
 id: 
