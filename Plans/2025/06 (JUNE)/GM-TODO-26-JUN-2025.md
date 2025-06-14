@@ -7,6 +7,10 @@
 		- [ ] Selfhost 5e.tools?
 - [ ] RAID
 	- [ ] IM Raid
+		- [ ] Half scale
+			- [ ] Flamespew for sure
+			- [ ] IM probably
+			- [ ] LD should be fine.
 		- [ ] IM
 			- [ ] Statblocks
 				- [ ] IM
