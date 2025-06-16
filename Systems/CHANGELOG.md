@@ -3,6 +3,7 @@
 
 - Square -> Hex in [[05. Travel#Trailblazing]]
 - More details about traveling in general, moved travel table to table appendix
+- Fix a typo under [[08. Condition Die]]
 # v0.4.0
 
 - Moved [[04. Raids]] to the GM section

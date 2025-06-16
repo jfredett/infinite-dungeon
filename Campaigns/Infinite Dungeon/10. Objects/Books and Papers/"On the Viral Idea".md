@@ -1,7 +1,6 @@
 > [[Mithrandir]], expounding on prior work, prepared a dedicated treatise on the Mad Wizard's "Rotated Reality" concept.
 
-> The copyist notes that a significant portion of the document is, in fact, defense of his use of the original author's
-> work as seriously as he does, preempting, perhaps, an argument going on at the time.
+> The copyist notes that a significant portion of the document is, in fact, defense of his use of the original author's work as seriously as he does, preempting, perhaps, an argument going on at the time.
 
 I refer to prior writing toward the basic design and definition of a _Magick_, it is difficult to ensorcel an entire _Magick_ within any language or device contained _within_ said Magick, cf. _Goedel's_ fine work on the sub-system common, necessarily, to all _Magicks_, that of Mathematics. I shan't delve into these details here, but suffice that his result naturally generalizes to any sufficiently arcane Magick will itself be necessarily _Mysterious_ in the sense that were will always be phenomena for which we need to develop new methods of perception in order to understand. We see this frequently throughout the many ages; the development of Empathy, primarily, seems to be an inflection point in the Magick of this reality. At some point individuals within the Magick found ways to simulate and understand the emotional reality of others. Imperfectly, sure, and skill-dependent; as we rapidly discovered, but this _lesser magic_ -- this component that was found in the _greater Magick_ of this reality -- was able to begin to connect individual actors into communities and insodoing allowed for deeper and more fundamental understanding of the nature of our reality -- our understanding of _its Magick_, to be formed.
 
@@ -39,12 +38,12 @@ Here `TA` may be said to be speaking in metaphor, but I think his Idea-of-Emptin
 Which, if we are generous with our interpretation, may be an attempt to convey the idea of a kind of magic that exists only as a mental trap or idea that, once conceived, poisons the mind in a way that destroys it. If such a thing were then given form and function to self-reproduce, such a thing would act like a disease, spreading through the minds of all who observe it.
 
 [[Campaigns/Infinite Dungeon/Infinite Dungeon.md|]]
+[[Campaigns/Infinite Dungeon/03. Non Player Characters/Mithrandir.md|]]
 [[Campaigns/Infinite Dungeon/05. Locations/Southron University of the Arcane Arts.md|]]
 [[Campaigns/Infinite Dungeon/09. Subplots/The Garden of Ynn.md|]]
 [[Campaigns/Infinite Dungeon/03. Non Player Characters/Parmadil.md|]]
 [[Campaigns/Infinite Dungeon/10. Objects/Books and Papers/"Intruding Thought Magic".md|]]
 [[Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom, by way of Ynn.md|]]
-[[Campaigns/Infinite Dungeon/03. Non Player Characters/Mithrandir.md|]]
 ```RpgManager4
 id: 
   type: "object"
