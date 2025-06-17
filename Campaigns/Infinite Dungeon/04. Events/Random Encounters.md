@@ -25,6 +25,7 @@ Balanced means "An encounter which matches the target XP in the 2024 edition of 
 Encounters should be run such that there are usually only a few more monsters than PCs, so if an encounter calls for a total of 20 monsters, and you have 5 PCs, you probably want that to be 3-4 waves of enemies.
 
 The "Run?" column answers if I have run the encounter (as a collection of statblocks, at least) and how many times I've run it.
+
 ## Levels 1, 3, 5
 
 ### Upper Carpathia

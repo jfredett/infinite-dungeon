@@ -15,7 +15,7 @@
        tab.draw({roll: roll, rollMode: CONST.DICE_ROLL_MODES.BLIND})
     };
 
-    
+
 
     console.log(chart_roll(depth, '1d20', 'Location'));
     console.log(chart_roll(depth, '1d20', 'Event'));
