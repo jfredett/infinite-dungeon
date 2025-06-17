@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/10. Objects/Potions/Dent and Ding Potions.md",
+                "file": "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S02 - TBD/02. Tower of the Mad Wizard - S02 - TBD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Dent and Ding Potions"
+              "title": "Outline of 02. Tower of the Mad Wizard - S02 - TBD"
             }
           }
         ]
@@ -318,11 +318,12 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "f95973ad7c8b1159",
+  "active": "1943d18895091014",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/10. Objects/Potions/Dent and Ding Potions.md",
+    "scripts/usage-die.js",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S02 - TBD/02. Tower of the Mad Wizard - S02 - TBD.md",
     "scripts/loader.js",
-    "Campaigns/Infinite Dungeon/10. Objects/Potions/Dent and Ding Potions.md",
     "Systems/CHANGELOG.md",
     "Systems/01. Players/08. Condition Die.md",
     "Systems/00. GM/05. Hexcrawling.md",
@@ -359,7 +360,6 @@
     "Assets/Mithrandir's Warrant.webp~",
     "book/html/02. Setting/The Sort.html",
     "book/html/02. Setting/Inns.html",
-    "book/html/00. GM/04. Raids.html",
     "Assets/Gameplay Loop v0.1.1.png",
     "Assets/Eret - Greater Arcadia.webp",
     "Assets/Eret - Upper Carpathia - Iskavi.webp",

@@ -33,7 +33,7 @@ actor.update({
 actor.updateSource();
 
 ChatMessage.create({
-    content: "Welcome to the...<br/><br/> I N F I N I T E D U N G E O N<br/><br/> " + name 
+    content: "Welcome to the...<br/><br/> I N F I N I T E D U N G E O N<br/><br/> " + name
 });
 
 ChatMessage.create({

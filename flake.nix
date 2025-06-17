@@ -18,24 +18,25 @@
       perSystem = { pkgs, system, ... }: let
         deps = with pkgs; rec {
           dev = [
-            cloc
+            bc
             cargo
             clang
-            timg
-            just
-            bc
+            cloc
             eplot
             gnuplot
-            openai-whisper
+            just
             mdbook
-            mdbook-pdf
-            mdbook-toc
+            mdbook-admonish
             mdbook-cmdrun
             mdbook-d2
-            mdbook-pagetoc
             mdbook-footnote
-            mdbook-admonish
+            mdbook-pagetoc
+            mdbook-pdf
+            mdbook-toc
+            npm
+            openai-whisper
             pandoc
+            timg
           ] ++ ci;
           ci = [
           ];
