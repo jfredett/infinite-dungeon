@@ -28,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S02 - TBD/02. Tower of the Mad Wizard - S02 - TBD.md",
+                "file": "Plans/2025/06 (JUNE)/GM-TODO-26-JUN-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Tower of the Mad Wizard - S02 - TBD"
+              "title": "GM-TODO-26-JUN-2025"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S02 - TBD/02. Tower of the Mad Wizard - S02 - TBD.md",
+                "file": "Plans/2025/06 (JUNE)/GM-TODO-26-JUN-2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 02. Tower of the Mad Wizard - S02 - TBD"
+              "title": "Outline of GM-TODO-26-JUN-2025"
             }
           }
         ]
@@ -320,9 +320,9 @@
   },
   "active": "1943d18895091014",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S02 - TBD/02. Tower of the Mad Wizard - S02 - TBD.md",
     "Campaigns/Infinite Dungeon/10. Objects/Potions/Dent and Ding Potions.md",
     "scripts/usage-die.js",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S02 - TBD/02. Tower of the Mad Wizard - S02 - TBD.md",
     "scripts/loader.js",
     "Systems/CHANGELOG.md",
     "Systems/01. Players/08. Condition Die.md",

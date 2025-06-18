@@ -22,11 +22,12 @@
     }
   ],
     "scripts": [
-        "scripts/loader.js",
-        "scripts/condition-die.js",
+        "scripts/usage-die.js",
         "scripts/create-fame-item.js",
         "scripts/depth-roll.js",
-        "scripts/iron-roll.js"
+        "scripts/iron-roll.js",
+
+        "scripts/loader.js"
     ],
     "url": "https://github.com/jfredett/infinite-dungeon",
     "manifest": "https://raw.githubusercontent.com/jfredett/infinite-dungeon/main/module.json",
