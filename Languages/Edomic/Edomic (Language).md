@@ -6,7 +6,7 @@
 	- Athul in this case is a personal name or maybe a title of this house, I don't have a clear idea yet.
 - Retha re'Zanzir
 	- formal (short) court name of [[Parmadil]] in Edomic
-- Retha - "Healer"/"Medic" - in the sense of someone who gets their hands dirty, not an administrator, someone who works. Used by a particular school of medicine within Edom.
+- Retha/Rethri - "Healer"/"Medic" - in the sense of someone who gets their hands dirty, not an administrator, someone who works. Used by a particular school of medicine within Edom.
 - Athul - "Sunhawk" - a type of preening bird of prey/carrion bird that lived on the coasts near Edom. Used for a person who is self-absorbed
 
 
@@ -19,7 +19,9 @@ service particles:
 | zem      | parent       | The Leader of Family, the Boss                                                                                                                                                                                   |
 | al-zem   | enemy        | Used to declare a sort of 'Social Vendetta', usually provided in addition to another rank, so 'Athul al-zem'Zanzir re'Athir' would indicate that Athul has beef with the Zanzir family, and works for the Athir. |
 
+# Formal Names
 
+People who work for the great houses of Edom are considered as people only in the context of their service of the job they do for the house. So "Parmadil" (also a psuedonym) is "Retha re'Zanzir", and his colleague is "Rethri re'Arulen". 
 # Orthography
 
 Old Aramaic/Syriac script, but modified to be cursive. Often embellished as with Illuminations in old manuscripts.

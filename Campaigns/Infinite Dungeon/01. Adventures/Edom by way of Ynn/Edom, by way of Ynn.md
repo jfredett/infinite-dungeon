@@ -1,7 +1,40 @@
 Target level range 4-6, 5 PCs.
 
+This is some time travel bullshit, so if the players fail at various points, they can observe the consequences and potentially _try again_ if they can find a way to go back in time and send new adventurers. If this happens, Matilda tells them they need to talk to the big G himself, [[Mithrandir]] about it. He will facilitate the process of going back, but warns that the goal must be to rescue all the people who are out of place. Later, when the players discover a method to fight the IoT, they can come back again and cure the IoT in Rasha instead of Parmadil (his treatment idea doesn't work, the notes he found aren't sufficient)
 
+Matilda should send them after her friend, who is Parmadil's patient. If they manage to save them, then Matilda's friend is a new NPC for the Iskavi Hex, maybe a Druid or something -- or the Traveling Seamstress?
 
+Matilda is worried about her friend, who went to explore somewhere called "Ynn", she will be cagey about this with the PCs until they have a level or two amongst them.
+
+Once they get into Ynn, they don't find her friend, they find Parmadil. Parmadil found Matilda's friend, brought them back to his home, and then came back into Ynn at their instruction to look for information on how to cure her. Parmadil found some information, but was ambushed by an unknown force (in fact, it was Athul, who followed Parmadil into the Garden). Athul is a Magus for the house of Athir, and Parmadil is a Magus for the Zanzir. There are seven total houses in Edom, 6 and the house of the grand duke. Parmadil, upon return, discovers that Athul has the various journals and documents he found in Ynn. He needs those in order to attempt to cure Matilda's friend. He also needs the aid of another magus of another house to assist him, he only trusts his colleague from the house Arulen, Rethri 'al-Ruhs' re'Arulen. Rethri is reluctant because her house is in the midst of a public spat with the house of Arulen with that of Zanzir, and her assisting would result in a public capitulation which her house can't afford. She doesn't have an issue helping personally, but politics are in the way.
+
+Athir has private quarters in the relevant district of Edom, a little fenced house in a posh district of the city on the waterfront. He is the only resident of the house, but he has enchanted it heavily and has summoned guards and guardians. There are lots of traps. Additionally, there is a chance he is stalking the halls.
+
+At this stage of his career, Athir is roughly a 8th level Abjuration Wizard. He appears to be in his early to mid forties. The notes and books he stole from Parmadil are located in his inner chamber, along with some writings in a mix of Edomic and another language that (on a failed intelligence save) harms the reader with psychic damage. He has legendary actions and lair actions, and can't be killed, but might be driven to retreat by a sufficiently well coordinated or overpowered party.
+
+- Entry: Guarded by two massive stone statues which have ~4 actions per combat. Bypass or Fight. Deadly fight for 5L5s.
+- If Fight
+	- Athul is alerted to the presence of intruders, and begins to marshall his forces for a fight.
+	- If Athul assesses the threat to be significant, he will call for the _authorities_ as well.
+	- If players beat Athul, he will retreat and start a 1 hour clock, after which the authorities arrive. This is a real-time/game-time clock. If a significant event occurs that will take real time to resolve, reduce the clock, also reduce it in real time. When it hits zero, a force of city magi and guard arrive to arrest the players.
+- If Bypass
+	- The guards can be bypassed by creating a distraction, sneaking, and so on. They are there to prevent riff-raff, like a deadbolt on a door, it's not undefeatable, but it keeps most people out.
+- Either way, PCs gain access to the next area, the entry courtyard.
+	- At it's center, a pool with a large Wisteria tree dripping pink flowers into the water below, there are small red and yellow fish swimming in the pond. You hear a gentle singing coming from beneath the wisteria branches.
+	- If the party lags, the true guardian, a Wisteria Siren, will capture the players with her song, compelling them to walk into the water where they drown or she eats them.
+	- If the party fights here, no one notices; Athul doesn't like watching her, she doesn't like being watched.
+	- If the party moves on, they must pass charisma checks or be compelled, the Siren will give some chase through the next area
+- The Maze
+	- Athul's chambers have an internal depth crawl maze that has lots of small encounters and frequent party separations. The Siren, if undefeated, also chases them through the Maze.
+	- Also an opportunity to pick up other adventurers if they died.
+	- Also a place to hide from the fuzz if the fight option was taken.
+	- After getting to the top level depth, the players escape, potentially one by one, to the final place.
+- Athul's chambers
+	- Start a clock, players have 10 rolls amongst them, there are some lore items for Athul here, in particular, there are untranslated journals, and also the notes that Parmadil needs. They can also find implicating evidence that will resolve the issue with Rethri, though this can be found through other means. There are valuables here, including magically crystallized vesper that can be reconstituted into pure vesper. This shouldn't be possible, no one else has ever done this as far as you or any wizard you know knows.
+	- After the rolls are expended, Athul shows up with support. Players can try to run back through the maze, or they can continue forward out the balcony where they can either fight Athul, or jump off into the water below and try to swim away with their loot. The jump is about 100', survivable, but definitely dangerous. There is also another way to scramble down, but Athul could give chase in that situation.
+- Once away, players may be able to resolve the whole thing, or they need to proceed to Rethri's quest.
+
+![[Drawing 2025-06-19 00.36.25.excalidraw]]
 
 ----
 
@@ -22,26 +55,6 @@ I think it's structured like a couple 5-room dungeons as a pointcrawl. Something
 Players attempting to use magic to translate anything by MWDDD find that it does not work and in fact violently resists, inflicting 1, then 1d4, then 1d6, etc for each repeated attempt. MWDDD has his own [[Private Language of the Mad Wizard Dracul Dracthulu Dracthir|Private Language]] which is magically resilient.
 
 ---
-
-I think this would be a lower lethality section, more story driven, so probably not too many big fights. If the players do manage to TPK, I think this just resets due to 'time bullshit' and maybe we skip over some of the introductory stuff, players can do the Groundhog Day thing.
-
-
-I think the pointcrawl would be something like:
-
-There are seven houses in edom, Parmadil (of house P) needs House A and B to come to an agreement about X, He needs C and D to deal with Y, and he needs something else only house R, his house's rival house and current employer of an earlier incarnation of the BBEG. The remaining house is the current Grand Duke (G), who is basically ceremonially removed from power by election, a way of checking houses that gain too much prestige -- make them grand duke and their role is so swept with ceremonial duties that they essentially get locked out of politics for the duration of the term, systematically culling the strongest member's influence (in theory)
-
-A and B have MacGuffins M1, M2, M3
-C and D have MacGuffins M2, M3, M4
-R and P have MacGuffins M1, M4
-G has all of them, in a room, begging to be stolen. G is virtually impossible to get an audience with, but intrepid and insistent players might try to weasel/social engineer something. If they come up with a clever way then reward them greatly. The MacGuffins themselves are Fame items worth 15m of fame each, or 120m for an intact set of 4. Nik knows a guy.
-
-Each pair starts with a random one from it's pool, then when the players meet the first one, roll to see if they already have the other in their possession. If they do, they'll generally not be willing to part with it and the opposing house will approach them suggesting they work together to steal both, and split them 50/50. If they don't, they'll suggest that if you steal the other, they'll give you one, they just need the other's.
-
-For C and D, the players enter the situation above but in media res, when going to meet whichever, they find it on fire, and the other house has a crew on site looting the macguffins. Now they are placed in the position of either helping whichever side, or just stealing it before the other side can.
-
-R will know that _a_ party is working with P, because of spies in P, but won't know who they are necessarily. So theft/social engineering is the only real option there. Athul is still a very powerful enemy and will happily TPK some parties. However he is not omnipresent, nor omniscient, and so sneaky or clever players may be able to get to get at the ones they have.
-
-P needs any three, and only to borrow. He assumes the party will return them, but no one knows that he's using them and he is too busy with patients to care what happens after he uses them to help his patient.
 
 
 
