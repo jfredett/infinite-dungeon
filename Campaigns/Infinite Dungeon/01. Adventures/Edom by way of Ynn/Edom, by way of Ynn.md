@@ -36,6 +36,28 @@ At this stage of his career, Athir is roughly a 8th level Abjuration Wizard. He 
 
 ![[Drawing 2025-06-19 00.36.25.excalidraw]]
 
+House Arulen and House Zanzir are in a petty squabble over a recent change in city government. In an unusual move, the Grand Duke, traditionally a purely ceremonial role, exercised one of her Ancient and Unquestionable Authories to alter the lines of the Duchy, forcing Arulen to cede the valuable Harborside district, to Zanzir, for the considerably less valuable economically, but extremely valuable to the Zanzir in a cultural sense, Sanctuary district. No one likes this plan. It is insane that this would happen, no one has used this power in years because it's a surefire way to start a war between houses that will inevitably result in the murder of the Grand Duke, which is traditionally the first thing that happens in a war between houses, as the succession of a Grand Duke requires an immediate cessation of all hostilities. Any time a War breaks out in Edom, someone just kills the Grand Duke, and there is no longer a war in Edom.
+
+It's not a good system, but it's not the worst system either.
+
+The reason for this insanity is that Athul has been experimenting on the grand duke with mind control magic (more stuff in his chambers about this). No one wants to kill the Duke, because it would mean the re-entry of the House Turin into the political landscape, and likely mean the ascension of either Zanzir or Arulen, effectively ending a century-old alliance between the two houses that has kept politics stable for everyone, and greatly enriched the Grand Duke and, consequently, his house Turin.
+
+There are at least the following ways of ending the spat:
+
+1. Find incriminating evidence of Athul's manipulation
+2. Frame another house for manipulation with manufactured evidence
+3. Break the spell on the Grand Duke
+
+#1 involves retrieving the info from Athul's inner study, #2 involves fabricating, planting, then causing to be discovered evidence that some other house is acting to cause this/influence the GD. #3 involves infiltrating the capitol district, breaking into/gaining entry to the GD's apartments, and then discovering and destroying the totems that Athul has placed.
+
+Upon #1's completion, Athul is driven from the city, exiled never to return. Parmadil gives the players access to the books for copying, and teaches them a magical copying spell, but has worked out they're from another timeline, and so disallows them from bringing that actual materials back with them, so as not to upset his friend, who he calls [[The Swiss|'re'Suis']]. The treatment still fails as in #2.
+
+Upon #2's completion, a war breaks out amongst the houses, and so someone kills the GD. al-Ruhs and Parmadil work together to attempt the cure, but fail, the disease progresses rapidly, and Parmadil sends the players off with all the notes and books and stuff they've found. Upon return, Matilda tells them to contact Mithrandir, and Mithrandir freaks out at the books being pulled 'out of time', and that [[The Swiss]] will be greatly upset by this, so they'll need to travel to the [[Odesa Public Library]] to return the books; they should ask the librarian there for access to the section on "Oceanids", where they will find access to [[Stygian Library]], where they can return the books. He sends them simply to retrieve another book from the library to help him translate the language in the books that they have come back with; whether copies or otherwise, he suggests storing all the books in the library so that they will be accessible in the future.
+
+Upon #3's completion, the GD implicates Athul, and the plot progresses as in #1.
+
+Later, the players can return to this timeline with the _actual_ cure for this variant of the [[The Idea of Thorns#Variant - Tenecel Parmadileus|idea of thorns]], and cure Rasha for real. This obviates the need for any of the other questing, and 'cures' Edom in both the current timeline _and the current timeline_, unlocking the 'modern' (c. 112CE) version of 'Old Edom', which is now a modern, Duskvol-esque city in Syria/Palestine.
+
 ----
 
 
