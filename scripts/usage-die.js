@@ -17,9 +17,7 @@ function rollUsageDie(input, upgrading) {
   const upgradeThreshold = match[3] ? parseInt(match[3]) : null;
 
   const dieSize = parseInt(die.slice(1));
-  const roll = new Roll(`1${die}`);
-  roll.roll({ async: false });
-
+  const roll = await new Roll(`1d${die}`).roll;
   const rollResult = roll.total;
 
   let outcome = `<strong>${die}</strong> rolled: <strong>${rollResult}</strong>`;
