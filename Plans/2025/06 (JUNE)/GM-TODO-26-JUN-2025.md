@@ -5,6 +5,15 @@
 	- [ ] Infrastructure
 		- [ ] VM with Foundry, Affine -- maybe just barge?
 		- [ ] Selfhost 5e.tools?
+	- [ ] Modules
+		- [ ] Usage Die Module
+		- [ ] Hexcrawl Encounter stuff
+			- [ ] Encounter tables that account for the current weather classification
+		- [ ] Weather lookup
+			- [ ] Pull CSV/Data from Wunderground
+			- [ ] Automated interpreting said data
+		- [ ] Terrain Gen Tables
+		- [ ] Travel worksheet (to aid in tracking)
 - [ ] RAID
 	- [ ] IM Raid
 		- [ ] Half scale

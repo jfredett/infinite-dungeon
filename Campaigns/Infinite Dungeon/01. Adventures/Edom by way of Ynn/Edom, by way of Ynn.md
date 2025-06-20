@@ -1,8 +1,8 @@
-Target level range 4-6, 5 PCs.
+Target level range 4-6, 5 PCs. 3-6 sessions. Gently Repeatable with Time Bullshit
 
 This is some time travel bullshit, so if the players fail at various points, they can observe the consequences and potentially _try again_ if they can find a way to go back in time and send new adventurers. If this happens, Matilda tells them they need to talk to the big G himself, [[Mithrandir]] about it. He will facilitate the process of going back, but warns that the goal must be to rescue all the people who are out of place. Later, when the players discover a method to fight the IoT, they can come back again and cure the IoT in Rasha instead of Parmadil (his treatment idea doesn't work, the notes he found aren't sufficient)
 
-Matilda should send them after her friend, who is Parmadil's patient. If they manage to save them, then Matilda's friend is a new NPC for the Iskavi Hex, maybe a Druid or something -- or the Traveling Seamstress?
+Matilda should send them after her friend, who is Parmadil's patient. If they manage to save them, then Matilda's friend is a new NPC for the Iskavi Hex, maybe a Druid or something -- or the Traveling Seamstress? She tells them this as she is working on weeding out some invasive species from her garden, which she mentions is called [[The Idea of Thorns#Variant - Tenecel Parmadileus|T. Parmadileus]], or more commonly known as 'Bitter Edomvine' which grows near Old Edom in the far south of Greater Arcadia. She's surprised to see it up this far, usually the winters on the Hospitable Sea are sufficient to curtail it's advance.
 
 Matilda is worried about her friend, who went to explore somewhere called "Ynn", she will be cagey about this with the PCs until they have a level or two amongst them.
 
@@ -34,7 +34,7 @@ At this stage of his career, Athir is roughly a 8th level Abjuration Wizard. He 
 	- After the rolls are expended, Athul shows up with support. Players can try to run back through the maze, or they can continue forward out the balcony where they can either fight Athul, or jump off into the water below and try to swim away with their loot. The jump is about 100', survivable, but definitely dangerous. There is also another way to scramble down, but Athul could give chase in that situation.
 - Once away, players may be able to resolve the whole thing, or they need to proceed to Rethri's quest.
 
-![[Drawing 2025-06-19 00.36.25.excalidraw]]
+![[Edom, By Way of Ynn - Plot Structure]]
 
 House Arulen and House Zanzir are in a petty squabble over a recent change in city government. In an unusual move, the Grand Duke, traditionally a purely ceremonial role, exercised one of her Ancient and Unquestionable Authories to alter the lines of the Duchy, forcing Arulen to cede the valuable Harborside district, to Zanzir, for the considerably less valuable economically, but extremely valuable to the Zanzir in a cultural sense, Sanctuary district. No one likes this plan. It is insane that this would happen, no one has used this power in years because it's a surefire way to start a war between houses that will inevitably result in the murder of the Grand Duke, which is traditionally the first thing that happens in a war between houses, as the succession of a Grand Duke requires an immediate cessation of all hostilities. Any time a War breaks out in Edom, someone just kills the Grand Duke, and there is no longer a war in Edom.
 
@@ -59,25 +59,6 @@ Upon #3's completion, the GD implicates Athul, and the plot progresses as in #1.
 Later, the players can return to this timeline with the _actual_ cure for this variant of the [[The Idea of Thorns#Variant - Tenecel Parmadileus|idea of thorns]], and cure Rasha for real. This obviates the need for any of the other questing, and 'cures' Edom in both the current timeline _and the current timeline_, unlocking the 'modern' (c. 112CE) version of 'Old Edom', which is now a modern, Duskvol-esque city in Syria/Palestine.
 
 ----
-
-
-
-The adventurers arrive in the Ancient City of [[Edom]] as an outcome of a Ynn depthcrawl. In here is a bit of palace intrigue pointcrawling to do with some brawling, some sleuthing, some doing of whatever the Bard wants to do, etc. This might be a good way to get [[Mithrandir]] and original copy of the text he references in [["On the Viral Idea"]] 
-
-
-I think it's structured like a couple 5-room dungeons as a pointcrawl. Something like:
-
-0. Players get sent by [[Mithrandir]] through Ynn looking for "[[Parmadil]]". Or, if they find their way into Ynn some other way, they may stumble upon him.
-1.  "[[Parmadil]]" (or just Parmadil if the players don't know it's a psuedonym, which Mithrandir will tell them) tells the players he is from [[Edom]], and needs to get back home, he does not know how to get out. If the players instruct him on how to leave the garden (assuming they know, which Mithrandir will teach them). If a player writes the exit word, it will take them to an otherwise deserted region in what would be Syria, on the coast. Parmadil will have a panic attack and retreat back to Ynn and run away if the players do not stop him. If he is able to write the phrase, then they will be taken to Edom in _Parmadil's Timeline_, as in the [[00. The Time Matrix]].
-2. Here Parmadil has revealed his real name, and the players learn of the strange disease he has been treating, as well as some papers he's been translating about them. He mentions [[The Mad Wizard Dracul Drathulu Drathir|Athul re'Athir]], an Edomic Magus who worked in the court of a rival faction. Parmadil has other works of his he deemed unrelated to his problem, he is willing to let a player make copies of them, but he needs help solving the mystery that is affecting his patients.
-3. Parmadil then directs the players to pointcrawl around and do some 5-room-sessions, maybe one is sneaking into the rival's place and avoiding/confronting Athul, which might bring unwanted attention to the players; another might be resolving a conflict between two other houses, and then once those are done a final one might be getting back to Parmadil before an agent of his rival faction can come and kill his patients and destroy his work.
-	1. If the players fail to prevent the destruction, Parmadil lets them _take_ the books; when they get back, Mithrandir _freaks out_ and -- after magically copying them -- sends them to the [[Stygian Library]] to place the book, and warns that they will have to find a way out, as entrance is one way when returning overdue books to the Stygian Library. He wishes the players luck, and forces them to go immediately, so as "Not to upset his cherished friend in charge of Time, [[The Swiss]]"
-	2. If they succeed, then Parmadil, having realized that they are not from his timeline, helps copy the manuscripts and gives the players as much information as he can, both about the Idea and the other writings by MWDDD.
-
-Players attempting to use magic to translate anything by MWDDD find that it does not work and in fact violently resists, inflicting 1, then 1d4, then 1d6, etc for each repeated attempt. MWDDD has his own [[Private Language of the Mad Wizard Dracul Dracthulu Dracthir|Private Language]] which is magically resilient.
-
----
-
 
 
 
