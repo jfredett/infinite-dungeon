@@ -3,17 +3,26 @@
 		- [ ] Ideally get the IM stuff such that I can update it per release.
 		- [ ] Extract stuff to a library (token finding, explosion stuff, etc)
 	- [ ] Infrastructure
-		- [ ] VM with Foundry, Affine -- maybe just barge?
+		- [x] VM with Foundry, Affine -- maybe just barge?
+			- Went w/ Outline/Foundry over the CF tunnel. Former is tied to discord for registration
 		- [ ] Selfhost 5e.tools?
-	- [ ] Modules
+			- Started, but the docker setup is quite weird, I might try building my own container or something, not sure how to approach just yet.
+		- [ ] Selfhost ddb proxy
+		- [ ] Nodered
+		- [ ] discord bot
+	- [ ] Modules (in rough order of importance)
 		- [ ] Usage Die Module
 		- [ ] Hexcrawl Encounter stuff
 			- [ ] Encounter tables that account for the current weather classification
 		- [ ] Weather lookup
 			- [ ] Pull CSV/Data from Wunderground
-			- [ ] Automated interpreting said data
+				- [ ] https://pypi.org/project/WunderWeather/
+				- [ ] Automated interpreting said data
 		- [ ] Terrain Gen Tables
+			- [ ] WFC for this, maybe load it into the same wunderground thing?
 		- [ ] Travel worksheet (to aid in tracking)
+			- maybe just a template in the wiki
+			- line for: date left, direction chosen, weather upon departure and arrival, encounter, provisions die, whether or not there was a rest, etc.
 - [ ] RAID
 	- [ ] IM Raid
 		- [ ] Half scale
