@@ -1,5 +1,10 @@
 - [ ] Nonraid
 	- [ ] Get import/export compendium working
+		- [x] move to a module-based workflow
+		- [x] pack job to create .pack dbs for loading as compendia
+		- [x] sync job to send to foundry for testing
+		- This stuff can delay, I think, want to focus on the Usage die stuff this week.
+		- [ ] get packs for each compendium type set up
 		- [ ] Ideally get the IM stuff such that I can update it per release.
 		- [ ] Extract stuff to a library (token finding, explosion stuff, etc)
 	- [ ] Infrastructure
@@ -12,8 +17,11 @@
 		- [ ] discord bot
 	- [ ] Modules (in rough order of importance)
 		- [ ] Usage Die Module
+			- [ ] Started, need to get the /roll hooked. Can use flags on charsheets tied to items to show provisions, equipment condition, etc.
+			- 
 		- [ ] Hexcrawl Encounter stuff
 			- [ ] Encounter tables that account for the current weather classification
+			- This is going to basically entail coming up with a good rollable-tables workflow, I want to define them in obsidian, export them to csv, then pack them and load them in as a compendium. I also need to have some way to store objects of a more arbitrary shape (like for the D&D potion table)
 		- [ ] Weather lookup
 			- [ ] Pull CSV/Data from Wunderground
 				- [ ] https://pypi.org/project/WunderWeather/

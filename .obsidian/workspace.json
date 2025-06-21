@@ -6,22 +6,8 @@
       {
         "id": "eebce0c2b118e583",
         "type": "tabs",
-        "dimension": 37.02075702075702,
+        "dimension": 29.70501474926254,
         "children": [
-          {
-            "id": "53d4dae5ca44c4ef",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Systems/00. GM/05. Hexcrawling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "05. Hexcrawling"
-            }
-          },
           {
             "id": "1943d18895091014",
             "type": "leaf",
@@ -35,14 +21,41 @@
               "icon": "lucide-file",
               "title": "GM-TODO-26-JUN-2025"
             }
+          },
+          {
+            "id": "05883e2ec4e44cce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systems/02. Setting/00. The Time Matrix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00. The Time Matrix"
+            }
+          },
+          {
+            "id": "53d4dae5ca44c4ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systems/00. GM/05. Hexcrawling.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05. Hexcrawling"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "e54cf0e6c36bc96c",
         "type": "tabs",
-        "dimension": 24.273504273504273,
+        "dimension": 36.8141592920354,
         "children": [
           {
             "id": "d1b2384e353ced7d",
@@ -67,27 +80,39 @@
               "icon": "excalidraw-icon",
               "title": "Hexcrawl Procedure"
             }
+          },
+          {
+            "id": "da3ec876fa9d1030",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Windmill Encounter Topology.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Windmill Encounter Topology"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "bc0a0224766e0e14",
         "type": "tabs",
-        "dimension": 38.7057387057387,
+        "dimension": 33.48082595870206,
         "children": [
           {
             "id": "e55226e7036dafdc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Systems/01. Players/05. Travel.md",
-                "bFile": "Systems/01. Players/05. Travel.md",
-                "aRef": ""
+                "file": "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S02 - TBD/02. Tower of the Mad Wizard - S02 - TBD.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 05. Travel"
+              "icon": "lucide-file",
+              "title": "02. Tower of the Mad Wizard - S02 - TBD"
             }
           },
           {
@@ -108,17 +133,18 @@
             "id": "8e012e4c97a53242",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S02 - TBD/02. Tower of the Mad Wizard - S02 - TBD.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Excalidraw/Drawing 2025-06-21 12.34.16.excalidraw.md",
+                "bFile": "Excalidraw/Drawing 2025-06-21 12.34.16.excalidraw.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "02. Tower of the Mad Wizard - S02 - TBD"
+              "icon": "diff",
+              "title": "Diff: Drawing 2025-06-21 12.34.16.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -336,21 +362,26 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "e55226e7036dafdc",
+  "active": "8e012e4c97a53242",
   "lastOpenFiles": [
-    "Systems/01. Players/05. Travel.md",
+    "Campaigns/Infinite Dungeon/04. Events/Windmill 5RD.md",
+    "Excalidraw/Windmill Encounter Topology.md",
     "Plans/2025/06 (JUNE)/GM-TODO-26-JUN-2025.md",
+    "Excalidraw/Drawing 2025-06-21 12.34.16.excalidraw.md",
     "Systems/00. GM/05. Hexcrawling.md",
-    "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom, by way of Ynn.md",
-    "Excalidraw/Hexcrawl Procedure.md",
-    "Excalidraw/Edom, By Way of Ynn - Plot Structure.md",
+    "Excalidraw/Drawing 2025-06-21 12.34.03.excalidraw.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S02 - TBD/02. Tower of the Mad Wizard - S02 - TBD.md",
+    "Campaigns/Infinite Dungeon/04. Events/Random Encounters.md",
+    "Systems/02. Setting/00. The Time Matrix.md",
+    "Excalidraw/Hexcrawl Procedure.md",
+    "Systems/01. Players/05. Travel.md",
+    "Campaigns/Infinite Dungeon/01. Adventures/Edom by way of Ynn/Edom, by way of Ynn.md",
+    "Excalidraw/Edom, By Way of Ynn - Plot Structure.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Chapters/Finding Mithrandir's Warrant.md",
     "Campaigns/Infinite Dungeon/01. Adventures/Climbing The Tower of the Mad Wizard/Climbing The Tower of the Mad Wizard.md",
     "Campaigns/Infinite Dungeon/01. Adventures/The Weather Machine/The Weather Machine.md",
     "Excalidraw/Drawing 2025-06-15 22.08.57.excalidraw.md",
     "Campaigns/Infinite Dungeon/06. Factions/Catholic Pantheon.md",
-    "Systems/02. Setting/00. The Time Matrix.md",
     "Campaigns/Infinite Dungeon/05. Locations/Edom.md",
     "Languages/Edomic/Edomic (Language).md",
     "Campaigns/Infinite Dungeon/09. Subplots/Private Language of the Mad Wizard Dracul Dracthulu Dracthir.md",
@@ -366,11 +397,6 @@
     "scripts/usage-die.js",
     "scripts/loader.js",
     "Systems/CHANGELOG.md",
-    "Systems/01. Players/08. Condition Die.md",
-    "Systems/00. GM/XX. Notes.md",
-    "Systems/00. GM/02. Character Generation.md",
-    "Systems/01. Players/03. Character Generation.md",
-    "Campaigns/Infinite Dungeon/10. Objects/Books and Papers/Comments on Cauchy's Rotated Reals and Applications to Algebraic Arcana.md",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S02 - TBD",
     "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - The Beginning",
     "Assets/PF-Notice-Board-12-JUN-2025-2.png",
