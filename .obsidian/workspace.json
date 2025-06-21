@@ -107,12 +107,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S02 - TBD/02. Tower of the Mad Wizard - S02 - TBD.md",
+                "file": "Campaigns/Infinite Dungeon/04. Events/Windmill 5RD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02. Tower of the Mad Wizard - S02 - TBD"
+              "title": "Windmill 5RD"
             }
           },
           {
@@ -128,23 +128,8 @@
               "icon": "lucide-file",
               "title": "Dent and Ding Potions"
             }
-          },
-          {
-            "id": "8e012e4c97a53242",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "Excalidraw/Drawing 2025-06-21 12.34.16.excalidraw.md",
-                "bFile": "Excalidraw/Drawing 2025-06-21 12.34.16.excalidraw.md",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: Drawing 2025-06-21 12.34.16.excalidraw"
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,12 +194,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Campaigns/Infinite Dungeon/04. Events/Windmill 5RD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Windmill 5RD"
             }
           }
         ]
@@ -362,15 +348,15 @@
       "obsidian-leaflet-plugin:Open Leaflet Map": false
     }
   },
-  "active": "8e012e4c97a53242",
+  "active": "e55226e7036dafdc",
   "lastOpenFiles": [
+    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S02 - TBD/02. Tower of the Mad Wizard - S02 - TBD.md",
     "Campaigns/Infinite Dungeon/04. Events/Windmill 5RD.md",
     "Excalidraw/Windmill Encounter Topology.md",
     "Plans/2025/06 (JUNE)/GM-TODO-26-JUN-2025.md",
     "Excalidraw/Drawing 2025-06-21 12.34.16.excalidraw.md",
     "Systems/00. GM/05. Hexcrawling.md",
     "Excalidraw/Drawing 2025-06-21 12.34.03.excalidraw.md",
-    "Campaigns/Infinite Dungeon/02. Sessions/02. Tower of the Mad Wizard - S02 - TBD/02. Tower of the Mad Wizard - S02 - TBD.md",
     "Campaigns/Infinite Dungeon/04. Events/Random Encounters.md",
     "Systems/02. Setting/00. The Time Matrix.md",
     "Excalidraw/Hexcrawl Procedure.md",
