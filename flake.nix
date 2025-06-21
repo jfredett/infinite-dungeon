@@ -33,7 +33,7 @@
             mdbook-pagetoc
             mdbook-pdf
             mdbook-toc
-            npm
+            nodejs
             openai-whisper
             pandoc
             timg
